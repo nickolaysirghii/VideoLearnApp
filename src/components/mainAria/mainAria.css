@@ -1,0 +1,27 @@
+.main{
+    width: 100%;
+    height: 47.3vw;
+    display: flex;
+}
+.right{
+    width: 8vw;
+    height: 100%;
+    position: relative;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+}
+.winSpace{
+    width: 170%;
+    height: 83%;
+    position: absolute;
+    background-color: black;
+    right: 0;
+    overflow: hidden;
+    font-size: 1.2vw;
+    padding-top: 1vw;
+
+
+}
