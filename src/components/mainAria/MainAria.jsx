@@ -9,7 +9,7 @@ import {workingTarget , workingArrays} from '../../ReduxStore/Slices/theMainSlic
 
 
 const MainAria = () => {
-  const {targetIndex , IndexBefore , IndexAfter ,  first , second , third , countStep , firstIndexArray } = useSelector(state => state.mainData);
+  const { first , second , third , countStep } = useSelector(state => state.mainData);
   let work = first;
   if(countStep === 1){
     work = first

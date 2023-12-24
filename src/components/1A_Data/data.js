@@ -1,8 +1,165 @@
 import video1 from "../../assets/video1.mp4"
 import video2 from "../../assets/video2.mp4"
 import video3 from "../../assets/video3.mp4"
+import video4 from "../../assets/video4.mp4"
+import video5 from "../../assets/video5.mp4"
+import video6 from "../../assets/video6.mp4"
+import video7 from "../../assets/video7.mp4"
+import video8 from "../../assets/video8.mp4"
+import video9 from "../../assets/video9.mp4"
+import video10 from "../../assets/video10.mp4"
+import video11 from "../../assets/video11.mp4"
+import video12 from "../../assets/video12.mp4"
+import video13 from "../../assets/video13.mp4"
+import video14 from "../../assets/video14.mp4"
+import video15 from "../../assets/video15.mp4"
+import video16 from "../../assets/video16.mp4"
+
 
  export const new_data = [
+    {
+        id: 213,
+        videoFile: video16,
+        rusQuestion: "подлый , мошеннически",
+        before: false,
+        border: false,
+        engDescription: "used to describe people or behaviour that you disapprove of but still like:",
+        answer: "rascally",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 212,
+        videoFile: video15,
+        rusQuestion: "приятное зрелище, больной , болячка , Взгляд усталых глаз",
+        before: false,
+        border: false,
+        engDescription: "a way of saying that you are very pleased to see someone or that you think someone is very attractive:",
+        answer: "a sight for sore eyes",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 211,
+        videoFile: video14,
+        rusQuestion: "петь",
+        before: false,
+        border: false,
+        engDescription: "to sing or play a musical instrument very loudly:",
+        answer: "belting out",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 210,
+        videoFile: video13,
+        rusQuestion: "излечивать",
+        before: false,
+        border: false,
+        engDescription: "to make someone with an illness healthy again:",
+        answer: "cure",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 209,
+        videoFile: video12,
+        rusQuestion: "паутинка",
+        before: false,
+        border: false,
+        engDescription: "the very thin thread that spiders produce to make webs",
+        answer: "gossamer",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 208,
+        videoFile: video11,
+        rusQuestion: "страшное",
+        before: false,
+        border: false,
+        engDescription: "causing fear or worry:",
+        answer: "dreaded",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 207,
+        videoFile: video10,
+        rusQuestion: "конечность",
+        before: false,
+        border: false,
+        engDescription: "an arm or leg of a person or animal:",
+        answer: "limb",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 206,
+        videoFile: video9,
+        rusQuestion: "палящий , обжигающий",
+        before: false,
+        border: false,
+        engDescription: "(of the weather) very hot:",
+        answer: "scorching",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 205,
+        videoFile: video8,
+        rusQuestion: "очень горячий",
+        before: false,
+        border: false,
+        engDescription: "extremely hot:",
+        answer: "blistering",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 204,
+        videoFile: video7,
+        rusQuestion: "опасный",
+        before: false,
+        border: false,
+        engDescription: "extremely dangerous:",
+        answer: "perilous",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 203,
+        videoFile: video6,
+        rusQuestion: "просить , искать",
+        before: false,
+        border: false,
+        engDescription: "past simple and past participle of seek (to try to find or get something, especially something that is not a physical object:)",
+        answer: "sought",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 202,
+        videoFile: video5,
+        rusQuestion: "овладевать",
+        before: false,
+        border: false,
+        engDescription: "to become strong; to be established:",
+        answer: "take hold",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 201,
+        videoFile: video4,
+        rusQuestion: "по всему , повсюду",
+        before: false,
+        border: false,
+        engDescription: "in every part, or during the whole period of time:",
+        answer: "throughout",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
     {
         id: 200,
         videoFile: video1,
