@@ -14,7 +14,8 @@ const CheckText = () => {
         <div className='itIsRight' onClick={()=>dispatcher(ispravitiSlovo())}>
            <p className='theId'>{a[2]}</p>
         </div>
-        <div className='redBox'>
+        <div className='centerId'>
+         <div className='redBox'>
           <a href={`https://translate.google.com/?sl=en&tl=ru&text=${IndexBefore}%0A&op=translate`} target="_blank" rel="noreferrer" className='rightAnswer'>
             {
               a[0]
@@ -23,9 +24,12 @@ const CheckText = () => {
           <a href={`https://dictionary.cambridge.org/dictionary/english/${a[0]}`} target="_blank" rel="noreferrer" className='wrongAnswer' style={{color: a[0] === a[1] ? "white" : "red"}}>
             {
              a[1]
+            
             }
           </a>
         </div>
+        </div>
+        
         
     </div>
   )

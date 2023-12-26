@@ -207,7 +207,7 @@ import video115 from "../../assets/video115.mp4"
     },
     {
         id: 317,
-        videoFile: video107,
+        videoFile: video106,
         rusQuestion: "уличный",
         before: false,
         border: false,
@@ -218,7 +218,7 @@ import video115 from "../../assets/video115.mp4"
     },
     {
         id: 316,
-        videoFile: video106,
+        videoFile: video107,
         rusQuestion: "шансы",
         before: false,
         border: false,
@@ -1081,7 +1081,7 @@ import video115 from "../../assets/video115.mp4"
         before: false,
         border: false,
         engDescription: "very unpleasant or bad, causing strong feelings of dislike:",
-        answer: "sdespicable",
+        answer: "despicable",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
     },
