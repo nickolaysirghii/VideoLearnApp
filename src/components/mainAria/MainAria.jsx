@@ -3,7 +3,7 @@ import "./mainAria.css";
 import Left from '../left/Left';
 import VideoBack from '../videoBackground/VideoBack';
 import { useSelector , useDispatch } from 'react-redux';
-import { new_data } from '../1A_Data/data';
+import { new_data , try_data } from '../1A_Data/data';
 import {workingTarget , workingArrays} from '../../ReduxStore/Slices/theMainSlice';
 
 
@@ -21,9 +21,11 @@ const MainAria = () => {
     work = third
   }
   let theEnglishDescription = work[1].engDescription;
+  let the_id = 0;
   work.forEach((elem) => {
     if(elem.border){
       theEnglishDescription = elem.engDescription
+      the_id = elem.id
     }
   })
   const dispacher = useDispatch();
@@ -39,11 +41,11 @@ const MainAria = () => {
         return shuffledArray;
       }
 
-    const first = new_data.slice(0,5);
-    const second = new_data.slice(0,15);
-    const third = new_data.slice(0,45);
+    const first = try_data.slice(0,5);
+    const second = try_data.slice(0,15);
+    const third = try_data.slice(0,45);
 
-    const shaffled = shuffleArray(new_data);
+    const shaffled = shuffleArray(try_data);
 
     const first1 = shaffled.slice(0,5);
     const second1 = shaffled.slice(5,20);
@@ -73,9 +75,17 @@ const MainAria = () => {
       <VideoBack />
       <div className='right'>
        <div className='winSpace'>
-         {
+        <p className='ttttId'>
+          {
+            the_id
+          }
+        </p>
+        <a href={`https://translate.google.com/?sl=en&tl=ru&text=${theEnglishDescription}&op=translate`} target='_blank' rel="noreferrer" className='hearDescription'>
+        {
          theEnglishDescription
          }
+        </a>
+         
        </div>
       </div>
     </div>

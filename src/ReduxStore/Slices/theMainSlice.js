@@ -277,12 +277,66 @@ export const mainSlice = createSlice({
           state.countStep = 1
         }
       }
+     },
+    ispravitiSlovo: (state , action)=>{
+      if(state.countStep === 1){
+        state.first.forEach((elem)=>{
+          if(elem.id === action.payload){
+            elem.myAnswer = elem.answer
+            elem.color = "black"
+          }
+        })
+      }
+      if(state.countStep === 2){
+        state.second.forEach((elem)=>{
+          if(elem.id === action.payload){
+            elem.myAnswer = elem.answer
+            elem.color = "black"
+          }
+        })
+      }
+      if(state.countStep === 3){
+        state.third.forEach((elem)=>{
+          if(elem.id === action.payload){
+            elem.myAnswer = elem.answer
+            elem.color = "black"
+          }
+        })
+      }
+      
+     },
+     pointBorder: (state , action)=>{
+      if(state.countStep === 1){
+        state.first.forEach((elem , idx)=>{
+          if(elem.id === action.payload){
+            elem.color  = "white"
+            elem.border = false;
+          }
+        })
+      }
+      if(state.countStep === 2){
+        state.second.forEach((elem , idx)=>{
+          if(elem.id === action.payload){
+            elem.color  = "white"
+            elem.border = false;
+          }
+        })
+      }
+      if(state.countStep === 3){
+        state.third.forEach((elem , idx)=>{
+          if(elem.id === action.payload){
+            elem.color  = "white"
+            elem.border = false;
+          }
+        })
+      }
      }
+     
 
     
     },
     },
 
 );
-export const {workingTarget , process , process2 , process3 , workingArrays} = mainSlice.actions;
+export const {pointBorder , ispravitiSlovo , workingTarget , process , process2 , process3 , workingArrays} = mainSlice.actions;
 export default mainSlice.reducer;

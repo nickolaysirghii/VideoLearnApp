@@ -1,6 +1,7 @@
 import React from 'react'
 import "./checkText.css";
 import { useDispatch , useSelector } from 'react-redux';
+import { ispravitiSlovo } from '../../ReduxStore/Slices/theMainSlice';
 
 const CheckText = () => {
   const dispatcher = useDispatch();
@@ -25,22 +26,25 @@ const CheckText = () => {
      theAidi = elem.id;
     }
   })
+  const ispraviti = ()=>{
+    dispatcher(ispravitiSlovo(theAidi))
+  }
   return (
     <div className='textChecker'>
-        <div className='itIsRight'>
+        <div className='itIsRight' onClick={ ()=>ispraviti()}>
            <p className='theId'>{theAidi}</p>
         </div>
         <div className='redBox'>
-          <p className='rightAnswer'>
+          <a href={`https://translate.google.com/?sl=en&tl=ru&text=${theCheckAnswer}%0A&op=translate`} target="_blank" rel="noreferrer" className='rightAnswer'>
             {
               theCheckAnswer
             }
-          </p>
-          <p className='wrongAnswer'>
+          </a>
+          <a href={`https://dictionary.cambridge.org/dictionary/english/${theCheckAnswer}`} target="_blank" rel="noreferrer" className='wrongAnswer' style={{color: theCheckAnswer === myCheckAnswer ? "white" : "red"}}>
             {
               myCheckAnswer
             }
-          </p>
+          </a>
         </div>
         
     </div>

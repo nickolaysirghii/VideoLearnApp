@@ -1,5 +1,6 @@
 
 import { new_data } from "./data";
+import { try_data } from "./data";
 
 export const shafle_and_send = ()=>{
 
@@ -13,11 +14,11 @@ export const shafle_and_send = ()=>{
         return shuffledArray;
       }
 
-    const first = new_data.slice(0,5);
-    const second = new_data.slice(0,15);
-    const third = new_data.slice(0,45);
+    const first = try_data.slice(0,5);
+    const second = try_data.slice(0,15);
+    const third = try_data.slice(0,45);
 
-    const shaffled = shuffleArray(new_data);
+    const shaffled = shuffleArray(try_data);
 
     const first1 = shaffled.slice(0,5);
     const second1 = shaffled.slice(5,20);

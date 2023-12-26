@@ -1,10 +1,12 @@
 import React from 'react'
 import "./left.css";
-import { useSelector } from 'react-redux';
+import { useSelector , useDispatch } from 'react-redux';
+import { pointBorder } from '../../ReduxStore/Slices/theMainSlice';
 
 
 
 const Left = () => {
+  const dispatcher = useDispatch();
   const { first , second , third , countStep } = useSelector(state => state.mainData);
   let work = first;
   if(countStep === 1){
@@ -23,7 +25,7 @@ const Left = () => {
       {
         first.map((elem , idx)=>{
 
-          return <div className='eachOneFirst' key={idx}
+          return <div onClick={()=>dispatcher(pointBorder(elem.id))} className='eachOneFirst' key={idx}
            style={{
             border: elem.border ? "1px solid red"  : "1px solid black",
             backgroundColor:elem.color ,
@@ -34,7 +36,7 @@ const Left = () => {
       <div className='secondStStep'>
       {
         second.map((elem , idx)=>{
-          return <div className='eachOneSecond' key={idx}
+          return <div onClick={()=>dispatcher(pointBorder(elem.id))} className='eachOneSecond' key={idx}
            style={{
             border: elem.border ? "1px solid red"  : "1px solid black",
             backgroundColor:elem.color ,
@@ -45,7 +47,7 @@ const Left = () => {
       <div className='thirdStep'>
       {
         third.map((elem , idx)=>{
-          return <div className='eachOneThird' key={idx}
+          return <div onClick={()=>dispatcher(pointBorder(elem.id))} className='eachOneThird' key={idx}
            style={{
             border: elem.border ? "1px solid red"  : "1px solid black",
             backgroundColor:elem.color ,

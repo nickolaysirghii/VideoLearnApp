@@ -37,6 +37,7 @@
     top: 0.3vw;
     overflow: hidden;
     cursor: pointer;
+    text-decoration: none;
 }
 .rightAnswer:hover {
     color: rgb(0, 187, 255);
@@ -44,8 +45,8 @@
     z-index: 3;
 }
 .wrongAnswer{
-    color: white;
     position: absolute;
     bottom: 0.3vw;
     overflow: hidden;
+    text-decoration: none;
 }
