@@ -2,7 +2,7 @@ import React  from 'react';
 import { useSelector , useDispatch } from 'react-redux';
 import "./videoBack.css";
 import CheckText from '../checkText/CheckText';
-import {process , process2 , process3} from '../../ReduxStore/Slices/theMainSlice';
+import { newProcess , newProcess2 , newProcess3 , process , process2 , process3} from '../../ReduxStore/Slices/theMainSlice';
 
 const VideoBack = () => {
   const dispatcher = useDispatch();
@@ -32,9 +32,9 @@ const VideoBack = () => {
   
     const res = e.target.writeAnswer.value;
    
-    work === first &&  dispatcher(process(res))
-    work === second && dispatcher(process2(res))
-    work === third && dispatcher(process3(res))
+    work === first &&  dispatcher(newProcess(res))
+    work === second && dispatcher(newProcess2(res))
+    work === third && dispatcher(newProcess3(res))
     e.target.reset()
     
   }

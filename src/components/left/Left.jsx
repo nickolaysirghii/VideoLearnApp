@@ -25,7 +25,7 @@ const Left = () => {
       {
         first.map((elem , idx)=>{
 
-          return <div onClick={()=>dispatcher(pointBorder(elem.id))} className='eachOneFirst' key={idx}
+          return <div onClick={()=>dispatcher(pointBorder({id:idx,data:1}))} className='eachOneFirst' key={idx}
            style={{
             border: elem.border ? "1px solid red"  : "1px solid black",
             backgroundColor:elem.color ,
@@ -36,7 +36,7 @@ const Left = () => {
       <div className='secondStStep'>
       {
         second.map((elem , idx)=>{
-          return <div onClick={()=>dispatcher(pointBorder(elem.id))} className='eachOneSecond' key={idx}
+          return <div onClick={()=>dispatcher(pointBorder({id:idx,data:2}))} className='eachOneSecond' key={idx}
            style={{
             border: elem.border ? "1px solid red"  : "1px solid black",
             backgroundColor:elem.color ,
@@ -47,7 +47,7 @@ const Left = () => {
       <div className='thirdStep'>
       {
         third.map((elem , idx)=>{
-          return <div onClick={()=>dispatcher(pointBorder(elem.id))} className='eachOneThird' key={idx}
+          return <div onClick={()=>dispatcher(pointBorder({id:idx,data:3}))} className='eachOneThird' key={idx}
            style={{
             border: elem.border ? "1px solid red"  : "1px solid black",
             backgroundColor:elem.color ,

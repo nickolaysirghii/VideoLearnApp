@@ -1,8 +1,8 @@
 import { createSlice  } from "@reduxjs/toolkit";
-import { new_data } from "../../components/1A_Data/data";
 import firstStep from "../../assets/localVideos/firstStep.mp4"
 import secondStep from "../../assets/localVideos/secondStep.mp4"
 import thirdStep from "../../assets/localVideos/thirdStep.mp4"
+
 
 
 const one = {
@@ -35,14 +35,10 @@ const three = {
 }
 
 const initialState = {
-jump: 0,
 IndexBefore: 0,
 targetIndex: 1,
-IndexAfter: 2,
-firstIndexArray: [],
 countStep: 1,
 first: [one , one],
-firstPromeJ: [one , one],
 second: [two , two],
 third: [three , three]
 
@@ -61,223 +57,6 @@ export const mainSlice = createSlice({
       state.first[0].before = true;
       state.first[1].border = true;
     },
-    process: (state , action)=>{
-      if(state.countStep === 1){
-        let ffff = []
-        state.first.forEach((elem , idx)=>{
-          ffff.push(idx)
-        })
-        state.firstIndexArray = ffff;
-
-        let countIt = 0
-      
-        if(state.targetIndex === state.firstIndexArray.length - 1){
-          state.IndexBefore = state.firstIndexArray[state.firstIndexArray.length -1 ]
-          state.targetIndex = state.firstIndexArray[0]
-          state.IndexAfter = state.firstIndexArray[1]
-         }else{
-          if(state.jump < state.firstIndexArray.length -1){
-            state.jump ++;
-            state.IndexBefore = state.firstIndexArray[(state.jump - 1)]
-            state.targetIndex = state.firstIndexArray[state.jump]
-            state.IndexAfter = state.firstIndexArray[state.jump + 1]
-      
-            if(state.jump === state.firstIndexArray.length - 1){
-              state.IndexBefore = state.firstIndexArray[state.firstIndexArray.length - 2]
-              state.targetIndex = state.firstIndexArray[state.firstIndexArray.length - 1]
-              state.IndexAfter = state.firstIndexArray[0]
-              state.jump = 0
-             }
-             if(state.jump === state.firstIndexArray.length ){
-              state.IndexBefore = state.firstIndexArray[state.firstIndexArray.length - 2]
-              state.targetIndex = state.firstIndexArray[state.firstIndexArray.length - 1]
-              state.IndexAfter = state.firstIndexArray[state.jump]
-             }
-             if(state.jump === state.firstIndexArray.length ){
-              state.IndexBefore = state.firstIndexArray[state.firstIndexArray.length - 2]
-              state.targetIndex = state.firstIndexArray[state.firstIndexArray.length - 1]
-              state.IndexAfter = state.firstIndexArray[state.jump]
-             }
-         }
-  
-  
-       }
-  
-       state.first[state.IndexBefore].before = false;
-        state.first[state.targetIndex].before = true;
-        state.first[state.targetIndex].border = false;
-        state.first[state.IndexAfter].border = true;
-   
-        state.first[state.targetIndex].myAnswer = action.payload
-   
-        if(state.first[state.targetIndex].answer === action.payload){
-           state.first[state.targetIndex].color = "black"
-           state.targetIndex = state.IndexBefore;
-           state.IndexBefore = state.IndexBefore - 1
-        }
-        
-        state.first.forEach((elem)=>{
-          if(elem.color !== "black"){
-            countIt ++
-          }
-        })
-        if(countIt === 2){
-           
-          state.first[state.IndexAfter].border = false;
-          state.countStep = 2
-          state.jump = 0
-          state.second[1].border = true;
-          
-        }
-      }
-      
-     },
-    process2: (state , action)=>{
-      if(state.countStep === 2){
-        
-        state.IndexBefore = 0
-         state.targetIndex = 1
-         state.IndexAfter = 2
-        
-        let ffff = []
-        state.second.forEach((elem , idx)=>{
-          ffff.push(idx)
-        })
-        state.firstIndexArray = ffff;
-
-        let countIt = 0
-      
-        if(state.targetIndex === state.firstIndexArray.length - 1){
-          state.IndexBefore = state.firstIndexArray[state.firstIndexArray.length -1 ]
-          state.targetIndex = state.firstIndexArray[0]
-          state.IndexAfter = state.firstIndexArray[1]
-         }else{
-          if(state.jump < state.firstIndexArray.length -1){
-            state.jump ++;
-            state.IndexBefore = state.firstIndexArray[(state.jump - 1)]
-            state.targetIndex = state.firstIndexArray[state.jump]
-            state.IndexAfter = state.firstIndexArray[state.jump + 1]
-      
-            if(state.jump === state.firstIndexArray.length - 1){
-              state.IndexBefore = state.firstIndexArray[state.firstIndexArray.length - 2]
-              state.targetIndex = state.firstIndexArray[state.firstIndexArray.length - 1]
-              state.IndexAfter = state.firstIndexArray[0]
-              state.jump = 0
-             }
-             if(state.jump === state.firstIndexArray.length ){
-              state.IndexBefore = state.firstIndexArray[state.firstIndexArray.length - 2]
-              state.targetIndex = state.firstIndexArray[state.firstIndexArray.length - 1]
-              state.IndexAfter = state.firstIndexArray[state.jump]
-             }
-             if(state.jump === state.firstIndexArray.length ){
-              state.IndexBefore = state.firstIndexArray[state.firstIndexArray.length - 2]
-              state.targetIndex = state.firstIndexArray[state.firstIndexArray.length - 1]
-              state.IndexAfter = state.firstIndexArray[state.jump]
-             }
-         }
-  
-  
-       }
-  
-       state.second[state.IndexBefore].before = false;
-        state.second[state.targetIndex].before = true;
-        state.second[state.targetIndex].border = false;
-        state.second[state.IndexAfter].border = true;
-   
-        state.second[state.targetIndex].myAnswer = action.payload
-   
-        if(state.second[state.targetIndex].answer === action.payload){
-           state.second[state.targetIndex].color = "black"
-           state.targetIndex = state.IndexBefore;
-           state.IndexBefore = state.IndexBefore - 1
-        }
-        
-        state.second.forEach((elem)=>{
-          if(elem.color !== "black"){
-            countIt ++
-          }
-        })
-        if(countIt === 2){
-          state.second[state.IndexAfter].border = false;
-          state.countStep = 3
-          state.jump = 0
-          state.second[0].border = false;
-          state.third[1].border = true;
-        }
-      }
-     },
-    process3: (state , action)=>{
-      if(state.countStep === 3){
-        
-        state.IndexBefore = 0
-         state.targetIndex = 1
-         state.IndexAfter = 2
-        
-        let ffff = []
-        state.third.forEach((elem , idx)=>{
-          ffff.push(idx)
-        })
-        state.firstIndexArray = ffff;
-
-        let countIt = 0
-      
-        if(state.targetIndex === state.firstIndexArray.length - 1){
-          state.IndexBefore = state.firstIndexArray[state.firstIndexArray.length -1 ]
-          state.targetIndex = state.firstIndexArray[0]
-          state.IndexAfter = state.firstIndexArray[1]
-         }else{
-          if(state.jump < state.firstIndexArray.length -1){
-            state.jump ++;
-            state.IndexBefore = state.firstIndexArray[(state.jump - 1)]
-            state.targetIndex = state.firstIndexArray[state.jump]
-            state.IndexAfter = state.firstIndexArray[state.jump + 1]
-      
-            if(state.jump === state.firstIndexArray.length - 1){
-              state.IndexBefore = state.firstIndexArray[state.firstIndexArray.length - 2]
-              state.targetIndex = state.firstIndexArray[state.firstIndexArray.length - 1]
-              state.IndexAfter = state.firstIndexArray[0]
-              state.jump = 0
-             }
-             if(state.jump === state.firstIndexArray.length ){
-              state.IndexBefore = state.firstIndexArray[state.firstIndexArray.length - 2]
-              state.targetIndex = state.firstIndexArray[state.firstIndexArray.length - 1]
-              state.IndexAfter = state.firstIndexArray[state.jump]
-             }
-             if(state.jump === state.firstIndexArray.length ){
-              state.IndexBefore = state.firstIndexArray[state.firstIndexArray.length - 2]
-              state.targetIndex = state.firstIndexArray[state.firstIndexArray.length - 1]
-              state.IndexAfter = state.firstIndexArray[state.jump]
-             }
-         }
-  
-  
-       }
-  
-       state.third[state.IndexBefore].before = false;
-        state.third[state.targetIndex].before = true;
-        state.third[state.targetIndex].border = false;
-        state.third[state.IndexAfter].border = true;
-   
-        state.third[state.targetIndex].myAnswer = action.payload
-   
-        if(state.third[state.targetIndex].answer === action.payload){
-           state.third[state.targetIndex].color = "black"
-           state.targetIndex = state.IndexBefore;
-           state.IndexBefore = state.IndexBefore - 1
-        }
-        
-        state.third.forEach((elem)=>{
-          if(elem.color !== "black"){
-            countIt ++
-          }
-        })
-        if(countIt === 2){
-          state.third[state.IndexAfter].border = false;
-          state.third[0].border = false;
-          state.countStep = 1
-        }
-      }
-     },
     ispravitiSlovo: (state , action)=>{
       if(state.countStep === 1){
         state.first.forEach((elem)=>{
@@ -306,37 +85,181 @@ export const mainSlice = createSlice({
       
      },
      pointBorder: (state , action)=>{
-      if(state.countStep === 1){
-        state.first.forEach((elem , idx)=>{
-          if(elem.id === action.payload){
-            elem.color  = "white"
-            elem.border = false;
-          }
-        })
+      const {data} = action.payload;
+      const { id } = action.payload;
+      const figured = [0 , state.first , state.second , state.third];
+      figured[data].forEach((elem)=>{
+        elem.before = false;
+        elem.border = false;
+      })
+      figured[data][id].border = true;
+      figured[data][id-1].before = true;
+      state.IndexBefore = id - 1;
+      state.targetIndex = id;
+
+
+
+     },
+     newProcess: (state , action) =>{
+      
+        const baza = state.first;
+        if(state.targetIndex < baza.length - 1){
+          state.IndexBefore ++
+         state.targetIndex ++
+         baza[state.IndexBefore - 1].before = false;
+         baza[state.IndexBefore].before = true;
+         baza[state.IndexBefore].border = false;
+         baza[state.targetIndex].border = true;
+        }
+        if(baza[baza.length - 2].before &&
+          baza[state.targetIndex].border === false){
+            baza[state.IndexBefore].before = false
+            baza[0].before = true;
+            baza[0].border = false;
+            baza[1].border = true;
+          state.IndexBefore = 0;
+          state.targetIndex = 1;
+        }
+        if(state.targetIndex === baza.length - 1){
+          baza[state.IndexBefore].before = false;
+          baza[state.IndexBefore].before = true;
+          baza[state.targetIndex].border = false;
+          baza[0].border = true;
+          
       }
-      if(state.countStep === 2){
-        state.second.forEach((elem , idx)=>{
-          if(elem.id === action.payload){
-            elem.color  = "white"
-            elem.border = false;
+     let count = 0
+     baza.forEach((elem , idx)=>{
+        if(elem.before){
+          elem.myAnswer = action.payload
+          if(elem.answer === action.payload){
+            elem.color = "black"
           }
+        }
+        if(elem.color === "black")
+        count ++
+      })
+      if(count === baza.length - 2){
+        baza.forEach((elem)=>{
+          elem.before = false;
+          elem.border = false;
+          
         })
+        state.IndexBefore = 0;
+        state.targetIndex = 1;
+        state.countStep = 2;
+
+
       }
-      if(state.countStep === 3){
-        state.third.forEach((elem , idx)=>{
-          if(elem.id === action.payload){
-            elem.color  = "white"
-            elem.border = false;
+      
+     },
+    newProcess2: (state , action) =>{
+        const baza = state.second;
+        if(state.targetIndex < baza.length - 1){
+          state.IndexBefore ++
+         state.targetIndex ++
+         baza[state.IndexBefore - 1].before = false;
+         baza[state.IndexBefore].before = true;
+         baza[state.IndexBefore].border = false;
+         baza[state.targetIndex].border = true;
+        }
+        if(baza[baza.length - 2].before &&
+          baza[state.targetIndex].border === false){
+            baza[state.IndexBefore].before = false
+            baza[0].before = true;
+            baza[0].border = false;
+            baza[1].border = true;
+          state.IndexBefore = 0;
+          state.targetIndex = 1;
+        }
+        if(state.targetIndex === baza.length - 1){
+          baza[state.IndexBefore].before = false;
+          baza[state.IndexBefore].before = true;
+          baza[state.targetIndex].border = false;
+          baza[0].border = true;
+          
+      }
+     let count = 0
+     baza.forEach((elem , idx)=>{
+        if(elem.before){
+          elem.myAnswer = action.payload
+          if(elem.answer === action.payload){
+            elem.color = "black"
           }
+        }
+        if(elem.color === "black")
+        count ++
+      })
+      if(count === baza.length - 2){
+        baza.forEach((elem)=>{
+          elem.before = false;
+          elem.border = false;
+          
         })
+        state.IndexBefore = 0;
+        state.targetIndex = 1;
+        state.countStep = 3;
       }
-     }
+      
+     
+    },
+    newProcess3: (state , action) =>{
+      console.log("proccess3")
+        const baza = state.third;
+        if(state.targetIndex < baza.length - 1){
+          state.IndexBefore ++
+         state.targetIndex ++
+         baza[state.IndexBefore - 1].before = false;
+         baza[state.IndexBefore].before = true;
+         baza[state.IndexBefore].border = false;
+         baza[state.targetIndex].border = true;
+        }
+        if(baza[baza.length - 2].before &&
+          baza[state.targetIndex].border === false){
+            baza[state.IndexBefore].before = false
+            baza[0].before = true;
+            baza[0].border = false;
+            baza[1].border = true;
+          state.IndexBefore = 0;
+          state.targetIndex = 1;
+        }
+        if(state.targetIndex === baza.length - 1){
+          baza[state.IndexBefore].before = false;
+          baza[state.IndexBefore].before = true;
+          baza[state.targetIndex].border = false;
+          baza[0].border = true;
+          
+      }
+     let count = 0
+     baza.forEach((elem , idx)=>{
+        if(elem.before){
+          elem.myAnswer = action.payload
+          if(elem.answer === action.payload){
+            elem.color = "black"
+          }
+        }
+        if(elem.color === "black")
+        count ++
+      })
+      if(count === baza.length - 2){
+        baza.forEach((elem)=>{
+          elem.before = false;
+          elem.border = false;
+        })
+        state.IndexBefore = 0;
+        state.targetIndex = 1;
+        state.countStep = 4;
+      }
+      }
+     
+    }, 
+    
+     
      
 
     
     },
-    },
+    
 
 );
-export const {pointBorder , ispravitiSlovo , workingTarget , process , process2 , process3 , workingArrays} = mainSlice.actions;
+export const {newProcess , newProcess2 , newProcess3 , pointBorder , ispravitiSlovo , workingTarget , process , process2 , process3 , workingArrays} = mainSlice.actions;
 export default mainSlice.reducer;

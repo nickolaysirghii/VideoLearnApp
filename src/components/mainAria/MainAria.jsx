@@ -3,7 +3,7 @@ import "./mainAria.css";
 import Left from '../left/Left';
 import VideoBack from '../videoBackground/VideoBack';
 import { useSelector , useDispatch } from 'react-redux';
-import { new_data , try_data } from '../1A_Data/data';
+import { new_data } from '../1A_Data/data';
 import {workingTarget , workingArrays} from '../../ReduxStore/Slices/theMainSlice';
 
 
@@ -41,11 +41,11 @@ const MainAria = () => {
         return shuffledArray;
       }
 
-    const first = try_data.slice(0,5);
-    const second = try_data.slice(0,15);
-    const third = try_data.slice(0,45);
+    const first = new_data.slice(0,5);
+    const second = new_data.slice(0,15);
+    const third = new_data.slice(0,45);
 
-    const shaffled = shuffleArray(try_data);
+    const shaffled = shuffleArray(new_data);
 
     const first1 = shaffled.slice(0,5);
     const second1 = shaffled.slice(5,20);
