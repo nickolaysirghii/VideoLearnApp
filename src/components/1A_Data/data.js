@@ -113,6 +113,7 @@ import video112 from "../../assets/video112.mp4"
 import video113 from "../../assets/video113.mp4"
 import video114 from "../../assets/video114.mp4"
 import video115 from "../../assets/video115.mp4"
+import video116 from "../../assets2_hotelTransilvania/video116.mp4"
 
 
 
@@ -1559,4 +1560,18 @@ import video115 from "../../assets/video115.mp4"
         color: "rgb(43, 198, 226)",
     }
        
+]
+
+const spare_data = [
+    {
+        id: 325,
+        videoFile: video116,
+        rusQuestion: "испугать",
+        before: false,
+        border: false,
+        engDescription: "to do something unexpected that surprises and sometimes worries a person or animal:",
+        answer: "startle",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    }, 
 ]

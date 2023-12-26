@@ -1,10 +1,12 @@
-import React  from 'react';
+import React ,{useEffect , useRef , useState}  from 'react';
 import { useSelector , useDispatch } from 'react-redux';
 import "./videoBack.css";
 import CheckText from '../checkText/CheckText';
 import { newProcess , newProcess2 , newProcess3 } from '../../ReduxStore/Slices/theMainSlice';
 
 const VideoBack = () => {
+  const videoRef = useRef(null);
+ 
   const dispatcher = useDispatch();
   const { first , second , third , countStep , targetIndex , IndexBefore  } = useSelector(state => state.mainData);
   const oak = [0,first , second , third , first];
@@ -18,10 +20,22 @@ const VideoBack = () => {
     e.target.reset()
     
   }
+  useEffect(() => {
+    const delay = 1000;
+    const playVideoWithDelay = () => {
+      if (videoRef.current) {
+        videoRef.current.play();
+      }
+    };
+    const timeoutId = setTimeout(playVideoWithDelay, delay);
+    return () => {
+      clearTimeout(timeoutId);
+    };
+  }, [targetIndex]);
  
   return (
     <div className='videoBack'>
-        <video src={a[0]} controls className='player'/>
+        <video ref={videoRef} src={a[0]} controls className='player'/>
         <div className='underDiv'>
             <div className='question'>
               <p>

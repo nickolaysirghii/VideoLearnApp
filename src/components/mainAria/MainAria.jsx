@@ -28,8 +28,12 @@ const MainAria = () => {
       }
 
     const uno = [new_data.slice(0,5) , new_data.slice(0,15) , new_data.slice(0,45) ]
-    const shaffled = shuffleArray(new_data);
-    const duo = [shaffled.slice(0,5) , shaffled.slice(5,20) , shaffled.slice(20,65)]
+
+    const shaffled1 = shuffleArray(new_data.slice(5,new_data.length -1));
+    const shaffled2 = shuffleArray(new_data.slice(15,new_data.length -1));
+    const shaffled3 = shuffleArray(new_data.slice(45,new_data.length -1));
+    
+    const duo = [shaffled1.slice(0,5) , shaffled2.slice(5,20) , shaffled3.slice(20,65)]
     const trio = [[...uno[0] , ...duo[0]] , [...uno[1] , ...duo[1]] , [...uno[2] , ...duo[2]]]
     const quatro = [ shuffleArray(trio[0]) ,shuffleArray(trio[1]) , shuffleArray(trio[2])]
     const sended = {
