@@ -4,17 +4,16 @@ import secondStep from "../../assets/localVideos/secondStep.mp4"
 import thirdStep from "../../assets/localVideos/thirdStep.mp4"
 
 
-
-const one = {
-    id: 1000,
-    videoFile: firstStep,
-    rusQuestion: "start",
-    engDescription: "No description for first Item from first step.",
-    answer: "start",
-    myAnswer: "start",
-    color: "rgb(11, 111, 111)"
-}
-const two = {
+const v = [{
+  id: 1000,
+  videoFile: firstStep,
+  rusQuestion: "start",
+  engDescription: "No description for first Item from first step.",
+  answer: "start",
+  myAnswer: "start",
+  color: "rgb(11, 111, 111)"
+},
+{
   id: 2000,
   videoFile: secondStep,
   rusQuestion: "start",
@@ -22,8 +21,7 @@ const two = {
   answer: "start",
   myAnswer: "start",
   color: "rgb(11, 111, 111)"
-}
-const three = {
+},{
   id: 3000,
     videoFile:  thirdStep,
     rusQuestion: "start",
@@ -32,15 +30,15 @@ const three = {
     myAnswer: "start",
     color: "rgb(11, 111, 111)",
     
-}
+}];
 
 const initialState = {
 IndexBefore: 0,
 targetIndex: 1,
 countStep: 1,
-first: [one , one],
-second: [two , two],
-third: [three , three]
+first: [v[0], v[0]],
+second: [v[1] , v[1]],
+third: [v[2] , v[2]]
 
 };
 export const mainSlice = createSlice({
@@ -48,43 +46,21 @@ export const mainSlice = createSlice({
     initialState,
     reducers: {
     workingArrays: (state , action)=>{
-      state.first = [one , ...action.payload.fir , one];
-      state.firstPromeJ = [one , ...action.payload.fir , one];
-      state.second = [two , ...action.payload.sec , two];
-      state.third = [three , ...action.payload.thi , three];
+      state.first = [v[0] , ...action.payload.fir , v[0]];
+      state.second = [v[1] , ...action.payload.sec , v[1]];
+      state.third = [v[2] , ...action.payload.thi , v[2]];
     },
-    workingTarget: (state , action)=>{
+    workingTarget: (state )=>{
       state.first[0].before = true;
       state.first[1].border = true;
     },
-    ispravitiSlovo: (state , action)=>{
-      if(state.countStep === 1){
-        state.first.forEach((elem)=>{
-          if(elem.id === action.payload){
-            elem.myAnswer = elem.answer
-            elem.color = "black"
-          }
-        })
-      }
-      if(state.countStep === 2){
-        state.second.forEach((elem)=>{
-          if(elem.id === action.payload){
-            elem.myAnswer = elem.answer
-            elem.color = "black"
-          }
-        })
-      }
-      if(state.countStep === 3){
-        state.third.forEach((elem)=>{
-          if(elem.id === action.payload){
-            elem.myAnswer = elem.answer
-            elem.color = "black"
-          }
-        })
-      }
-      
-     },
-     pointBorder: (state , action)=>{
+    ispravitiSlovo: (state )=>{
+      const a = [{state: state.first},{state: state.second},{state: state.third}];
+      const b = state.countStep;
+      a[b-1].state[state.IndexBefore].myAnswer = a[b-1].state[state.IndexBefore].answer
+      a[b-1].state[state.IndexBefore].color = "black"
+    },
+    pointBorder: (state , action)=>{
       const {data} = action.payload;
       const { id } = action.payload;
       const figured = [0 , state.first , state.second , state.third];
@@ -99,8 +75,8 @@ export const mainSlice = createSlice({
 
 
 
-     },
-     newProcess: (state , action) =>{
+    },
+    newProcess: (state , action) =>{
       
         const baza = state.first;
         if(state.targetIndex < baza.length - 1){
@@ -151,7 +127,7 @@ export const mainSlice = createSlice({
 
       }
       
-     },
+    },
     newProcess2: (state , action) =>{
         const baza = state.second;
         if(state.targetIndex < baza.length - 1){
@@ -249,7 +225,7 @@ export const mainSlice = createSlice({
         state.targetIndex = 1;
         state.countStep = 4;
       }
-      }
+    }
      
     }, 
     

@@ -9,27 +9,13 @@ import {workingTarget , workingArrays} from '../../ReduxStore/Slices/theMainSlic
 
 
 const MainAria = () => {
-  const { first , second , third , countStep } = useSelector(state => state.mainData);
-  let work = first;
-  if(countStep === 1){
-    work = first
-  }
-  if(countStep === 2){
-    work = second
-  }
-  if(countStep === 3){
-    work = third
-  }
-  let theEnglishDescription = work[1].engDescription;
-  let the_id = 0;
-  work.forEach((elem) => {
-    if(elem.border){
-      theEnglishDescription = elem.engDescription
-      the_id = elem.id
-    }
-  })
+  const { first , second , third , countStep , targetIndex } = useSelector(state => state.mainData);
+  const oak = [0,first , second , third , first];
+  const a = [oak[countStep][targetIndex].engDescription , oak[countStep][targetIndex].id ]
+  
+ 
   const dispacher = useDispatch();
- const shafle_and_send = ()=>{
+  const shafle_and_send = ()=>{
 
     function shuffleArray(array) {
         const shuffledArray = [...array];
@@ -41,28 +27,15 @@ const MainAria = () => {
         return shuffledArray;
       }
 
-    const first = new_data.slice(0,5);
-    const second = new_data.slice(0,15);
-    const third = new_data.slice(0,45);
-
+    const uno = [new_data.slice(0,5) , new_data.slice(0,15) , new_data.slice(0,45) ]
     const shaffled = shuffleArray(new_data);
-
-    const first1 = shaffled.slice(0,5);
-    const second1 = shaffled.slice(5,20);
-    const third1 = shaffled.slice(20,65);
-
-    const first2 = [...first , ...first1];
-    const second2 = [...second , ...second1];
-    const third2 = [...third , ...third1];
-
-    const firstFinal = shuffleArray(first2);
-    const secondFinal = shuffleArray(second2);
-    const thirdFinal = shuffleArray(third2);
-
+    const duo = [shaffled.slice(0,5) , shaffled.slice(5,20) , shaffled.slice(20,65)]
+    const trio = [[...uno[0] , ...duo[0]] , [...uno[1] , ...duo[1]] , [...uno[2] , ...duo[2]]]
+    const quatro = [ shuffleArray(trio[0]) ,shuffleArray(trio[1]) , shuffleArray(trio[2])]
     const sended = {
-        fir: firstFinal,
-        sec: secondFinal,
-        thi: thirdFinal
+        fir: quatro[0],
+        sec: quatro[1],
+        thi: quatro[2]
     }
     dispacher(workingArrays(sended))
 }
@@ -77,12 +50,12 @@ const MainAria = () => {
        <div className='winSpace'>
         <p className='ttttId'>
           {
-            the_id
+            a[1]
           }
         </p>
-        <a href={`https://translate.google.com/?sl=en&tl=ru&text=${theEnglishDescription}&op=translate`} target='_blank' rel="noreferrer" className='hearDescription'>
+        <a href={`https://translate.google.com/?sl=en&tl=ru&text=${a[0]}&op=translate`} target='_blank' rel="noreferrer" className='hearDescription'>
         {
-         theEnglishDescription
+         a[0]
          }
         </a>
          

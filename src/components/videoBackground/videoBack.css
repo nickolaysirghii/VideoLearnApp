@@ -26,11 +26,8 @@
     overflow: hidden;
 }
 .question p{
-    color: black;
-    
-}
-.question p:hover{
     color: white;
+    
 }
 .checkAnswer{
     width: 100%;

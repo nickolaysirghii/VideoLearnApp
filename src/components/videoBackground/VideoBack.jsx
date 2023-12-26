@@ -2,51 +2,31 @@ import React  from 'react';
 import { useSelector , useDispatch } from 'react-redux';
 import "./videoBack.css";
 import CheckText from '../checkText/CheckText';
-import { newProcess , newProcess2 , newProcess3 , process , process2 , process3} from '../../ReduxStore/Slices/theMainSlice';
+import { newProcess , newProcess2 , newProcess3 } from '../../ReduxStore/Slices/theMainSlice';
 
 const VideoBack = () => {
   const dispatcher = useDispatch();
-  const { first , second , third , countStep  } = useSelector(state => state.mainData);
-  let work = first;
-  if(countStep === 1){
-    work = first
-  }
-  if(countStep === 2){
-    work = second
-  }
-  if(countStep === 3){ 
-    work = third
-  }
-  let theVideoBackground = work[0].videoFile
-  let theRussQuestion = ""
-  work.forEach((elem) => {
-    if(elem.border){
-      theRussQuestion = elem.rusQuestion
-    }
-    if(elem.before){
-      theVideoBackground = elem.videoFile
-    }
-  })
+  const { first , second , third , countStep , targetIndex , IndexBefore  } = useSelector(state => state.mainData);
+  const oak = [0,first , second , third , first];
+  const a = [oak[countStep][IndexBefore].videoFile , oak[countStep][targetIndex].rusQuestion]
+
+
   const sendImputValues = (e)=>{
     e.preventDefault();
-  
-    const res = e.target.writeAnswer.value;
-   
-    work === first &&  dispatcher(newProcess(res))
-    work === second && dispatcher(newProcess2(res))
-    work === third && dispatcher(newProcess3(res))
+    const b = [ 0 , newProcess , newProcess2 , newProcess3 , newProcess];
+    dispatcher(b[countStep](e.target.writeAnswer.value))
     e.target.reset()
     
   }
  
   return (
     <div className='videoBack'>
-        <video src={theVideoBackground} controls className='player'/>
+        <video src={a[0]} controls className='player'/>
         <div className='underDiv'>
             <div className='question'>
               <p>
                 {
-                  theRussQuestion
+                  a[1]
                 }
               </p>
             </div>

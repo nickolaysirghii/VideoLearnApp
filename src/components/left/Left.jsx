@@ -7,17 +7,9 @@ import { pointBorder } from '../../ReduxStore/Slices/theMainSlice';
 
 const Left = () => {
   const dispatcher = useDispatch();
-  const { first , second , third , countStep } = useSelector(state => state.mainData);
-  let work = first;
-  if(countStep === 1){
-    work = first
-  }
-  if(countStep === 2){
-    work = second
-  }
-  if(countStep === 3){
-    work = third
-  }
+ 
+  const { first , second , third  } = useSelector(state => state.mainData);
+
   return (
     <div className='left'>
       <div className='winLeftSpace'>
