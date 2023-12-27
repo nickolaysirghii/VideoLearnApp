@@ -1,4 +1,4 @@
-import React ,{useEffect , useRef , useState}  from 'react';
+import React ,{useEffect , useRef , useMemo}  from 'react';
 import { useSelector , useDispatch } from 'react-redux';
 import "./videoBack.css";
 import CheckText from '../checkText/CheckText';
@@ -8,7 +8,7 @@ const VideoBack = () => {
   const videoRef = useRef(null);
  
   const dispatcher = useDispatch();
-  const { first , second , third , countStep , targetIndex , IndexBefore  } = useSelector(state => state.mainData);
+  const { first , second , third , countStep , targetIndex , IndexBefore , rightDependency  } = useSelector(state => state.mainData);
   const oak = [0,first , second , third , first];
   const a = [oak[countStep][IndexBefore].videoFile , oak[countStep][targetIndex].rusQuestion]
 
@@ -20,7 +20,8 @@ const VideoBack = () => {
     e.target.reset()
     
   }
-  useEffect(() => {
+ 
+  useMemo(() =>{
     const delay = 1000;
     const playVideoWithDelay = () => {
       if (videoRef.current) {
@@ -31,7 +32,7 @@ const VideoBack = () => {
     return () => {
       clearTimeout(timeoutId);
     };
-  }, [targetIndex]);
+  }, [rightDependency]);
  
   return (
     <div className='videoBack'>

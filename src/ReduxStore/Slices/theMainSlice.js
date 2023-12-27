@@ -33,6 +33,7 @@ const v = [{
 }];
 
 const initialState = {
+rightDependency: true,
 IndexBefore: 0,
 targetIndex: 1,
 countStep: 1,
@@ -59,6 +60,7 @@ export const mainSlice = createSlice({
       const b = state.countStep;
       a[b-1].state[state.IndexBefore].myAnswer = a[b-1].state[state.IndexBefore].answer
       a[b-1].state[state.IndexBefore].color = "black"
+      state.rightDependency = !state.rightDependency
     },
     pointBorder: (state , action)=>{
       const {data} = action.payload;
@@ -109,6 +111,7 @@ export const mainSlice = createSlice({
           elem.myAnswer = action.payload
           if(elem.answer === action.payload){
             elem.color = "black"
+            state.rightDependency = !state.rightDependency
           }
         }
         if(elem.color === "black")
@@ -160,6 +163,7 @@ export const mainSlice = createSlice({
           elem.myAnswer = action.payload
           if(elem.answer === action.payload){
             elem.color = "black"
+            state.rightDependency = !state.rightDependency
           }
         }
         if(elem.color === "black")
@@ -211,6 +215,7 @@ export const mainSlice = createSlice({
           elem.myAnswer = action.payload
           if(elem.answer === action.payload){
             elem.color = "black"
+            state.rightDependency = !state.rightDependency
           }
         }
         if(elem.color === "black")
