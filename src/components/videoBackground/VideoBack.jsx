@@ -38,6 +38,7 @@ const VideoBack = () => {
     <div className='videoBack'>
         <video ref={videoRef} src={a[0]} controls className='player'/>
         <div className='underDiv'>
+          <div className='switch_to_second'></div>
             <div className='question'>
               <p>
                 {

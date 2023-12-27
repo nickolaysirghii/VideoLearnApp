@@ -16,7 +16,7 @@ const CheckText = () => {
         </div>
         <div className='centerId'>
          <div className='redBox'>
-          <a href={`https://translate.google.com/?sl=en&tl=ru&text=${IndexBefore}%0A&op=translate`} target="_blank" rel="noreferrer" className='rightAnswer'>
+          <a href={`https://translate.google.com/?sl=en&tl=ru&text=${a[0]}%0A&op=translate`} target="_blank" rel="noreferrer" className='rightAnswer'>
             {
               a[0]
             }

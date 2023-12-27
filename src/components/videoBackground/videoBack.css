@@ -47,3 +47,15 @@
     text-align: center;
 
 }
+.switch_to_second{
+    position: absolute;
+    width: 3vw;
+    height: 3vw;
+    top: -42vw;
+    left: 6vw;
+    cursor: pointer;
+
+}
+.switch_to_second:hover{
+    background-color: red;
+}
