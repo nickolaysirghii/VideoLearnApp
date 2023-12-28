@@ -11,9 +11,6 @@ const CheckText = () => {
 
   return (
     <div className='textChecker'>
-        <div className='itIsRight' onClick={()=>dispatcher(ispravitiSlovo())}>
-           <p className='theId'>{a[2]}</p>
-        </div>
         <div className='centerId'>
          <div className='redBox'>
           <a href={`https://translate.google.com/?sl=en&tl=ru&text=${a[0]}%0A&op=translate`} target="_blank" rel="noreferrer" className='rightAnswer'>

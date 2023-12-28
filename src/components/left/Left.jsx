@@ -12,43 +12,33 @@ const Left = () => {
 
   return (
     <div className='left'>
-      <div className='winLeftSpace'>
-          <div className='firstStep'>
-      {
-        first.map((elem , idx)=>{
-
-          return <div onClick={()=>dispatcher(pointBorder({id:idx,data:1}))} className='eachOneFirst' key={idx}
-           style={{
-            border: elem.border ? "1px solid red"  : "1px solid black",
-            backgroundColor:elem.color ,
-          }}></div>
-        })
-      }
-      </div>
-      <div className='secondStStep'>
-      {
-        second.map((elem , idx)=>{
-          return <div onClick={()=>dispatcher(pointBorder({id:idx,data:2}))} className='eachOneSecond' key={idx}
-           style={{
-            border: elem.border ? "1px solid red"  : "1px solid black",
-            backgroundColor:elem.color ,
-          }}></div>
-        })
-      }
-      </div>
-      <div className='thirdStep'>
-      {
-        third.map((elem , idx)=>{
-          return <div onClick={()=>dispatcher(pointBorder({id:idx,data:3}))} className='eachOneThird' key={idx}
-           style={{
-            border: elem.border ? "1px solid red"  : "1px solid black",
-            backgroundColor:elem.color ,
-          }}></div>
-        })
-      }
-      </div>
-
-      </div>
+     
+      
+        {
+          first.map((elem ,idx) => {
+            return <div onClick={()=>dispatcher(pointBorder({data: 1 , id: idx}))} className='elements' key={idx}
+            style={{backgroundColor: elem.color , 
+                    border: elem.border ? "2px solid red" : "1px solid black"}}
+            >{elem.id}</div>
+          })
+        }
+        {
+          second.map((elem ,idx) => {
+            return <div onClick={()=>dispatcher(pointBorder({data: 2 , id: idx}))} className='elements' key={idx}
+            style={{backgroundColor: elem.color , 
+                    border: elem.border ? "2px solid red" : "1px solid black"}}
+            >{elem.id}</div>
+          })
+        }
+        {
+          third.map((elem ,idx) => {
+            return <div onClick={()=>dispatcher(pointBorder({data: 3 , id: idx}))} className='elements' key={idx}
+            style={{backgroundColor: elem.color , 
+                    border: elem.border ? "2px solid red" : "1px solid black"}}
+            >{elem.id}</div>
+          })
+        }
+      
       
     </div>
   )

@@ -1,4 +1,4 @@
-import React , {useEffect} from 'react';
+import React , {useEffect , useState , useMemo} from 'react';
 import "./mainAria.css";
 import Left from '../left/Left';
 import VideoBack from '../videoBackground/VideoBack';
@@ -9,9 +9,10 @@ import {workingTarget , workingArrays} from '../../ReduxStore/Slices/theMainSlic
 
 
 const MainAria = () => {
-  const { first , second , third , countStep , targetIndex } = useSelector(state => state.mainData);
+  const [open , setOpen] = useState(false);
+  const { first , second , third , countStep , targetIndex , rightDependency } = useSelector(state => state.mainData);
   const oak = [0,first , second , third , first];
-  const a = [oak[countStep][targetIndex].engDescription , oak[countStep][targetIndex].id ]
+  const a = [oak[countStep][targetIndex].engDescription , oak[countStep][targetIndex].rusQuestion ]
   
  
   const dispacher = useDispatch();
@@ -45,25 +46,25 @@ const MainAria = () => {
 }
  useEffect(()=>{shafle_and_send()},[]);
  useEffect(()=>{dispacher(workingTarget())},[]);
+
+ function setVariableTrueThenFalse() {
+  setOpen(true);
+  setTimeout(function() {
+    setOpen(false);
+  }, 5000); 
+}
+useMemo(()=>{setVariableTrueThenFalse();},[rightDependency])
+
  
   return (
     <div className='main'>
       <Left />
       <VideoBack />
-      <div className='right'>
-       <div className='winSpace'>
-        <p className='ttttId'>
-          {
-            a[1]
-          }
-        </p>
-        <a href={`https://translate.google.com/?sl=en&tl=ru&text=${a[0]}&op=translate`} target='_blank' rel="noreferrer" className='hearDescription'>
-        {
-         a[0]
-         }
-        </a>
-         
-       </div>
+      <div  className={open ? 'videoCover' : 'videoCoverBlock'}>
+        <div className='mainDescription'>
+          <a className={open ? 'deDesClosed' : 'deDes' } href={`https://translate.google.com/?sl=en&tl=ru&text=${a[0]}%0A&op=translate`} target='_blank'>{a[0]}</a>
+          <div className='russss'>{a[1]}</div>
+        </div>
       </div>
     </div>
   )

@@ -1,49 +1,21 @@
 .left{
-    width:2vw;
+    width:11vw;
     height: 100%;
     background-color: black;
-    position: relative;
-
-}
-.firstStep{
-    width: 32%;
-    height: 10%;
-
-    
-}
-.secondStStep{
-    width: 32%;
-    height: 30%;
-}
-.thirdStep{
-    width: 32%;
-    height: 100%;
-
-}
-.eachOneFirst{
-    width: 100%;
-    height: 12%;
-    border: 1px solid black;
-   
-}
-.eachOneSecond{
-    width: 100%;
-    height: 4.3%;
-    border: 1px solid black;
-}
-.eachOneThird{
-    width: 100%;
-    height: 1.08%;
-    border: 1px solid black;
-}
-.winLeftSpace{
-    width: 380%;
-    height: 83%;
     z-index: 3;
-    position: absolute;
-    left: 0;
-    background-color: black;
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+    flex-wrap: wrap;
+}
+.elements{
+    width: 30%;
+    height: 2.045%;
+    cursor: pointer;
+    font-size: 0.8vw;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
+    color: rgb(95, 94, 93);
 }
+
