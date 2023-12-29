@@ -136,10 +136,93 @@ import video137 from "../../assets2_hotelTransilvania/video137.mp4"
 import video138 from "../../assets2_hotelTransilvania/video138.mp4"
 import video139 from "../../assets2_hotelTransilvania/video139.mp4"
 import video140 from "../../assets2_hotelTransilvania/video140.mp4"
-
+import video141 from "../../assets2_hotelTransilvania/video141.mp4"
+import video142 from "../../assets2_hotelTransilvania/video142.mp4"
+import video143 from "../../assets2_hotelTransilvania/video143.mp4"
+import video144 from "../../assets2_hotelTransilvania/video144.mp4"
+import video145 from "../../assets2_hotelTransilvania/video145.mp4"
+import video146 from "../../assets2_hotelTransilvania/video146.mp4"
+import video147 from "../../assets2_hotelTransilvania/video147.mp4"
+import video148 from "../../assets2_hotelTransilvania/video148.mp4"
+import video149 from "../../assets2_hotelTransilvania/video149.mp4"
+import video150 from "../../assets2_hotelTransilvania/video150.mp4"
+import video151 from "../../assets2_hotelTransilvania/video151.mp4"
+import video152 from "../../assets2_hotelTransilvania/video152.mp4"
+import video153 from "../../assets2_hotelTransilvania/video153.mp4"
+import video154 from "../../assets2_hotelTransilvania/video154.mp4"
+import video155 from "../../assets2_hotelTransilvania/video155.mp4"
+import video156 from "../../assets2_hotelTransilvania/video156.mp4"
+import video157 from "../../assets2_hotelTransilvania/video157.mp4"
+import video158 from "../../assets2_hotelTransilvania/video158.mp4"
+import video159 from "../../assets2_hotelTransilvania/video159.mp4"
+import video160 from "../../assets2_hotelTransilvania/video160.mp4"
+import video161 from "../../assets2_hotelTransilvania/video161.mp4"
+import video162 from "../../assets2_hotelTransilvania/video162.mp4"
+import video163 from "../../assets2_hotelTransilvania/video163.mp4"
+import video164 from "../../assets2_hotelTransilvania/video164.mp4"
+import video165 from "../../assets2_hotelTransilvania/video165.mp4"
+import video166 from "../../assets2_hotelTransilvania/video166.mp4"
+import video167 from "../../assets2_hotelTransilvania/video167.mp4"
+import video168 from "../../assets2_hotelTransilvania/video168.mp4"
+import video169 from "../../assets2_hotelTransilvania/video169.mp4"
 
 
  export const new_data = [
+    {
+        id: 355,
+        videoFile: video145,
+        rusQuestion: "надутый",
+        before: false,
+        border: false,
+        engDescription: "used to describe lips that are pushed forward, especially because someone is intentionally doing this in order to look more sexually attractive:",
+        answer: "pouty",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 354,
+        videoFile: video144,
+        rusQuestion: "бешенство",
+        before: false,
+        border: false,
+        engDescription: "a serious disease of the nervous system that can cause death. ooooo can be passed on to humans by other animals:",
+        answer: "rabies",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 353,
+        videoFile: video143,
+        rusQuestion: "я все понял",
+        before: false,
+        border: false,
+        engDescription: "It's usually like ,I'll take care of it, or ,I'll do it.",
+        answer: "I got it covered",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 352,
+        videoFile: video142,
+        rusQuestion: "служанка",
+        before: false,
+        border: false,
+        engDescription: "a woman who works as a servant in a hotel or in someone's home:",
+        answer: "maid",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 351,
+        videoFile: video141,
+        rusQuestion: "Ваше Высокопреосвященство",
+        before: false,
+        border: false,
+        engDescription: "the state of being famous, respected, or important:",
+        answer: "your Eminence",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },  
     {
         id: 350,
         videoFile: video121,
@@ -1795,8 +1878,281 @@ import video140 from "../../assets2_hotelTransilvania/video140.mp4"
 ]
 
 const spare_data = [
-    
-   
+    {
+        id: 380,
+        videoFile: video169,
+        rusQuestion: "специализированный",
+        before: false,
+        border: false,
+        engDescription: "having changed or developed in order to perform a particular function or suit a particular environment:",
+        answer: "specialized",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 379,
+        videoFile: video168,
+        rusQuestion: "Подыгрывать",
+        before: false,
+        border: false,
+        engDescription: "to act as if you agree with something that is happening, esp. if it is something wrong:",
+        answer: "play along",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 378,
+        videoFile: video167,
+        rusQuestion: "подвести итог",
+        before: false,
+        border: false,
+        engDescription: "a short, clear description that gives the main facts or ideas about something:",
+        answer: "sum up",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 377,
+        videoFile: video166,
+        rusQuestion: "спокойствие",
+        before: false,
+        border: false,
+        engDescription: "a peaceful, calm state, without noise, violence, worry, etc.:",
+        answer: "tranquility",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 376,
+        videoFile: video165,
+        rusQuestion: "лишенный",
+        before: false,
+        border: false,
+        engDescription: "without; lacking in:",
+        answer: "void of",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 375,
+        videoFile: video164,
+        rusQuestion: "преследование , гонение",
+        before: false,
+        border: false,
+        engDescription: "unfair or cruel treatment over a long period of time because of race, religion, or political beliefs:",
+        answer: "persecution",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 374,
+        videoFile: video163,
+        rusQuestion: "скрывающийся",
+        before: false,
+        border: false,
+        engDescription: "a ooooo person or animal is waiting where he, she, or it cannot be seen, usually waiting to attack or do something bad:",
+        answer: "lurking",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 373,
+        videoFile: video162,
+        rusQuestion: "заменитель",
+        before: false,
+        border: false,
+        engDescription: "to use something or someone instead of another thing or person:",
+        answer: "substitute",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 372,
+        videoFile: video161,
+        rusQuestion: "жирный",
+        before: false,
+        border: false,
+        engDescription: "containing a lot of fat:",
+        answer: "fatty",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 371,
+        videoFile: video160,
+        rusQuestion: "все сходят с ума",
+        before: false,
+        border: false,
+        engDescription: "to be very excited or emotional, or to cause someone be this way:",
+        answer: "freak out",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 370,
+        videoFile: video159,
+        rusQuestion: "нелепый",
+        before: false,
+        border: false,
+        engDescription: "stupid or unreasonable and deserving to be laughed at:",
+        answer: "ridiculous",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 369,
+        videoFile: video158,
+        rusQuestion: "рюкзак",
+        before: false,
+        border: false,
+        engDescription: "a large bag used to carry things on your back, used especially by people who go camping or walking:",
+        answer: "backpack",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 368,
+        videoFile: video157,
+        rusQuestion: "болтовня",
+        before: false,
+        border: false,
+        engDescription: "to talk or say something in a quick, confused, excited, or silly way:",
+        answer: "babble",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 367,
+        videoFile: video156,
+        rusQuestion: "убежище , святилище",
+        before: false,
+        border: false,
+        engDescription: "protection or a safe place, especially for someone or something being chased or hunted:",
+        answer: "sanctuary",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 366,
+        videoFile: video155,
+        rusQuestion: "складка , складывать",
+        before: false,
+        border: false,
+        engDescription: "to bend something, especially paper or cloth, so that one part of it lies on the other part, or to be able to be bent in this way:",
+        answer: "fold",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 365,
+        videoFile: video155,
+        rusQuestion: "пух",
+        before: false,
+        border: false,
+        engDescription: "small, loose pieces of wool or other soft material, or the down (= soft new hairs) on a young animal:",
+        answer: "fluff",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 364,
+        videoFile: video154,
+        rusQuestion: "совок",
+        before: false,
+        border: false,
+        engDescription: "a flat container with a handle into which you brush dust and dirt",
+        answer: "dustpan",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 363,
+        videoFile: video153,
+        rusQuestion: "вонючий",
+        before: false,
+        border: false,
+        engDescription: "having a bad smell or appearance:",
+        answer: "funky",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 362,
+        videoFile: video152,
+        rusQuestion: "молодежное общежитие",
+        before: false,
+        border: false,
+        engDescription: "a place where people, especially young people, can stay cheaply for short periods when they are travelling",
+        answer: "youth hostel",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 361,
+        videoFile: video151,
+        rusQuestion: "глупый",
+        before: false,
+        border: false,
+        engDescription: "silly:",
+        answer: "goofy",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 360,
+        videoFile: video150,
+        rusQuestion: "вынюхивать",
+        before: false,
+        border: false,
+        engDescription: "to go somewhere secretly, or to take someone or something somewhere secretly:",
+        answer: "sneaking around",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 359,
+        videoFile: video149,
+        rusQuestion: "на домашнем обучении",
+        before: false,
+        border: false,
+        engDescription: "to teach a child at home rather than sending him or her to school:",
+        answer: "homeschooled",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 358,
+        videoFile: video148,
+        rusQuestion: "Берегись",
+        before: false,
+        border: false,
+        engDescription: "to be careful to notice someone or something interesting:",
+        answer: "watch out for",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 357,
+        videoFile: video147,
+        rusQuestion: "вычерпывать",
+        before: false,
+        border: false,
+        engDescription: "to remove something that is inside something else with a spoon:",
+        answer: "scoop out",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 356,
+        videoFile: video146,
+        rusQuestion: "беспощадный",
+        before: false,
+        border: false,
+        engDescription: "oooo people or actions show an intention or wish to hurt someone or something very badly:",
+        answer: "vicious",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
     
    
     
