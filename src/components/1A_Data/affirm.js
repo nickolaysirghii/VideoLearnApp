@@ -1,0 +1,123 @@
+import aff1 from "../../assets_affirmation/affirmation1.mp4"
+import aff2 from "../../assets_affirmation/affirmation2.mp4"
+import aff3 from "../../assets_affirmation/affirmation3.mp4"
+import aff4 from "../../assets_affirmation/affirmation4.mp4"
+import aff5 from "../../assets_affirmation/affirmation5.mp4"
+import aff6 from "../../assets_affirmation/affirmation6.mp4"
+import aff7 from "../../assets_affirmation/affirmation7.mp4"
+import aff8 from "../../assets_affirmation/affirmation8.mp4"
+import aff9 from "../../assets_affirmation/affirmation9.mp4"
+import aff10 from "../../assets_affirmation/affirmation10.mp4"
+
+export const affirm_data = [
+    {
+        id: 5009,
+        videoFile: aff1,
+        rusQuestion: "Я благодарен за множество благословений в моей жизни",
+        before: false,
+        border: false,
+        engDescription: "I am grateful for the many blessings in my life",
+        answer: "I am grateful for the many blessings in my life",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 5008,
+        videoFile: aff2,
+        rusQuestion: "сегодня я ищу и ценю хорошее",
+        before: false,
+        border: false,
+        engDescription: "today I look for and appreciate the good",
+        answer: "today I look for and appreciate the good",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 5007,
+        videoFile: aff3,
+        rusQuestion: "Я приветствую радость в своей жизни",
+        before: false,
+        border: false,
+        engDescription: "I welcome joy into my life",
+        answer: "I welcome joy into my life",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 5006,
+        videoFile: aff4,
+        rusQuestion: "Я нахожусь в гармонии с изобильной природой Вселенной",
+        before: false,
+        border: false,
+        engDescription: "I am in tune with the abundant nature of the universe",
+        answer: "I am in tune with the abundant nature of the universe",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 5005,
+        videoFile: aff5,
+        rusQuestion: "деньги приходят ко мне ожидаемым и неожиданным образом",
+        before: false,
+        border: false,
+        engDescription: "money comes to me  in expected and unexpected ways",
+        answer: "money comes to me  in expected and unexpected ways",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 5004,
+        videoFile: aff6,
+        rusQuestion: "мое тело знает, что лучше для моего здоровья и благополучия",
+        before: false,
+        border: false,
+        engDescription: "my body knows  what's best for my health and well-being",
+        answer: "my body knows  what's best for my health and well-being",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 5003,
+        videoFile: aff7,
+        rusQuestion: "Я привлекаю идеальных людей в нужное время",
+        before: false,
+        border: false,
+        engDescription: "I attract the perfect people at the right time",
+        answer: "I attract the perfect people at the right time",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 5002,
+        videoFile: aff8,
+        rusQuestion: "Я заслуживаю счастья и успеха",
+        before: false,
+        border: false,
+        engDescription: "I deserve happiness and success",
+        answer: "I deserve happiness and success",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 5001,
+        videoFile: aff9,
+        rusQuestion: "что-то чудесное всегда вот-вот произойдет",
+        before: false,
+        border: false,
+        engDescription: "something wonderful is always on the verge of happening",
+        answer: "something wonderful is always on the verge of happening",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 5000,
+        videoFile: aff10,
+        rusQuestion: " Я достоен . меня достаточно",
+        before: false,
+        border: false,
+        engDescription: "I am worthy . I am enough.",
+        answer: "I am worthy . I am enough.",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+]

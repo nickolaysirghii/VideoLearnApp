@@ -5,6 +5,7 @@ import VideoBack from '../videoBackground/VideoBack';
 import { useSelector , useDispatch } from 'react-redux';
 import { new_data } from '../1A_Data/data';
 import {workingTarget , workingArrays} from '../../ReduxStore/Slices/theMainSlice';
+import { affirm_data } from '../1A_Data/affirm';
 
 
 
@@ -34,7 +35,7 @@ const MainAria = () => {
     const shaffled2 = shuffleArray(new_data.slice(15,new_data.length -1));
     const shaffled3 = shuffleArray(new_data.slice(45,new_data.length -1));
     
-    const duo = [shaffled1.slice(0,5) , shaffled2.slice(5,20) , shaffled3.slice(20,65)]
+    const duo = [[...shaffled1.slice(0,3) , ...affirm_data.slice(0,2)] , [...shaffled2.slice(3,13) , ... affirm_data.slice(0,5) ], [...shaffled3.slice(13,48) , ...affirm_data]]
     const trio = [[...uno[0] , ...duo[0]] , [...uno[1] , ...duo[1]] , [...uno[2] , ...duo[2]]]
     const quatro = [ shuffleArray(trio[0]) ,shuffleArray(trio[1]) , shuffleArray(trio[2])]
     const sended = {
@@ -46,7 +47,7 @@ const MainAria = () => {
 }
  useEffect(()=>{shafle_and_send()},[]);
  useEffect(()=>{dispacher(workingTarget())},[]);
-
+ 
  function setVariableTrueThenFalse() {
   setOpen(true);
   setTimeout(function() {
