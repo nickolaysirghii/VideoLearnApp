@@ -9,29 +9,18 @@ import video10 from "../../assets/video10.mp4"
 import video11 from "../../assets/video11.mp4"
 import video12 from "../../assets/video12.mp4"
 import video13 from "../../assets/video13.mp4"
-import video14 from "../../assets/video14.mp4"
 import video15 from "../../assets/video15.mp4"
 import video16 from "../../assets/video16.mp4"
-import video17 from "../../assets/video17.mp4"
 import video18 from "../../assets/video18.mp4"
-import video19 from "../../assets/video19.mp4"
-import video20 from "../../assets/video20.mp4"
 import video21 from "../../assets/video21.mp4"
-import video22 from "../../assets/video22.mp4"
-import video23 from "../../assets/video23.mp4"
 import video24 from "../../assets/video24.mp4"
-import video25 from "../../assets/video25.mp4"
 import video26 from "../../assets/video26.mp4"
 import video27 from "../../assets/video27.mp4"
 import video28 from "../../assets/video28.mp4"
 import video29 from "../../assets/video29.mp4"
-import video30 from "../../assets/video30.mp4"
 import video31 from "../../assets/video31.mp4"
-import video32 from "../../assets/video32.mp4"
-import video33 from "../../assets/video33.mp4"
 import video34 from "../../assets/video34.mp4"
 import video35 from "../../assets/video35.mp4"
-import video36 from "../../assets/video36.mp4"
 import video37 from "../../assets/video37.mp4"
 import video38 from "../../assets/video38.mp4"
 import video39 from "../../assets/video39.mp4"
@@ -43,110 +32,71 @@ import video44 from "../../assets/video44.mp4"
 import video45 from "../../assets/video45.mp4"
 import video46 from "../../assets/video46.mp4"
 import video47 from "../../assets/video47.mp4"
-import video48 from "../../assets/video48.mp4"
 import video49 from "../../assets/video49.mp4"
 import video50 from "../../assets/video50.mp4"
 import video51 from "../../assets/video51.mp4"
 import video52 from "../../assets/video52.mp4"
 import video53 from "../../assets/video53.mp4"
 import video54 from "../../assets/video54.mp4"
-import video55 from "../../assets/video55.mp4"
 import video56 from "../../assets/video56.mp4"
 import video57 from "../../assets/video57.mp4"
 import video58 from "../../assets/video58.mp4"
-import video59 from "../../assets/video59.mp4"
 import video60 from "../../assets/video60.mp4"
 import video61 from "../../assets/video61.mp4"
 import video62 from "../../assets/video62.mp4"
 import video63 from "../../assets/video63.mp4"
 import video64 from "../../assets/video64.mp4"
 import video65 from "../../assets/video65.mp4"
-import video66 from "../../assets/video66.mp4"
 import video67 from "../../assets/video67.mp4"
-import video68 from "../../assets/video68.mp4"
 import video69 from "../../assets/video69.mp4"
-import video70 from "../../assets/video70.mp4"
 import video71 from "../../assets/video71.mp4"
 import video72 from "../../assets/video72.mp4"
 import video73 from "../../assets/video73.mp4"
-import video74 from "../../assets/video74.mp4"
-import video75 from "../../assets/video75.mp4"
-import video76 from "../../assets/video76.mp4"
 import video77 from "../../assets/video77.mp4"
 import video78 from "../../assets/video78.mp4"
 import video79 from "../../assets/video79.mp4"
 import video80 from "../../assets/video80.mp4"
-import video81 from "../../assets/video81.mp4"
 import video82 from "../../assets/video82.mp4"
 import video83 from "../../assets/video83.mp4"
 import video84 from "../../assets/video84.mp4"
 import video85 from "../../assets/video85.mp4"
 import video86 from "../../assets/video86.mp4"
-import video87 from "../../assets/video87.mp4"
-import video88 from "../../assets/video88.mp4"
-import video89 from "../../assets/video89.mp4"
 import video90 from "../../assets/video90.mp4"
-import video91 from "../../assets/video91.mp4"
 import video92 from "../../assets/video92.mp4"
 import video93 from "../../assets/video93.mp4"
-import video94 from "../../assets/video94.mp4"
-import video95 from "../../assets/video95.mp4"
 import video96 from "../../assets/video96.mp4"
 import video97 from "../../assets/video97.mp4"
 import video98 from "../../assets/video98.mp4"
-import video99 from "../../assets/video99.mp4"
-import video100 from "../../assets/video100.mp4"
-import video101 from "../../assets/video101.mp4"
-import video102 from "../../assets/video102.mp4"
 import video103 from "../../assets/video103.mp4"
 import video104 from "../../assets/video104.mp4"
 import video105 from "../../assets/video105.mp4"
-import video106 from "../../assets/video106.mp4"
-import video107 from "../../assets/video107.mp4"
 import video108 from "../../assets/video108.mp4"
 import video109 from "../../assets/video109.mp4"
 import video110 from "../../assets/video110.mp4"
 import video111 from "../../assets/video111.mp4"
-import video112 from "../../assets/video112.mp4"
-import video113 from "../../assets/video113.mp4"
-import video114 from "../../assets/video114.mp4"
-import video115 from "../../assets/video115.mp4"
-import video116 from "../../assets2_hotelTransilvania/video116.mp4"
-import video117 from "../../assets2_hotelTransilvania/video117.mp4"
 import video118 from "../../assets2_hotelTransilvania/video118.mp4"
-import video119 from "../../assets2_hotelTransilvania/video119.mp4"
-import video120 from "../../assets2_hotelTransilvania/video120.mp4"
 import video121 from "../../assets2_hotelTransilvania/video121.mp4"
 import video122 from "../../assets2_hotelTransilvania/video122.mp4"
 import video123 from "../../assets2_hotelTransilvania/video123.mp4"
-import video124 from "../../assets2_hotelTransilvania/video124.mp4"
 import video125 from "../../assets2_hotelTransilvania/video125.mp4"
 import video126 from "../../assets2_hotelTransilvania/video126.mp4"
-import video127 from "../../assets2_hotelTransilvania/video127.mp4"
 import video128 from "../../assets2_hotelTransilvania/video128.mp4"
 import video129 from "../../assets2_hotelTransilvania/video129.mp4"
-import video130 from "../../assets2_hotelTransilvania/video130.mp4"
-import video131 from "../../assets2_hotelTransilvania/video131.mp4"
 import video132 from "../../assets2_hotelTransilvania/video132.mp4"
-import video133 from "../../assets2_hotelTransilvania/video133.mp4"
 import video134 from "../../assets2_hotelTransilvania/video134.mp4"
 import video135 from "../../assets2_hotelTransilvania/video135.mp4"
 import video136 from "../../assets2_hotelTransilvania/video136.mp4"
 import video137 from "../../assets2_hotelTransilvania/video137.mp4"
-import video138 from "../../assets2_hotelTransilvania/video138.mp4"
 import video139 from "../../assets2_hotelTransilvania/video139.mp4"
 import video140 from "../../assets2_hotelTransilvania/video140.mp4"
 import video141 from "../../assets2_hotelTransilvania/video141.mp4"
-import video142 from "../../assets2_hotelTransilvania/video142.mp4"
 import video143 from "../../assets2_hotelTransilvania/video143.mp4"
 import video144 from "../../assets2_hotelTransilvania/video144.mp4"
 import video145 from "../../assets2_hotelTransilvania/video145.mp4"
 import video146 from "../../assets2_hotelTransilvania/video146.mp4"
 import video147 from "../../assets2_hotelTransilvania/video147.mp4"
 import video148 from "../../assets2_hotelTransilvania/video148.mp4"
-import video149 from "../../assets2_hotelTransilvania/video149.mp4"
 import video150 from "../../assets2_hotelTransilvania/video150.mp4"
-import video151 from "../../assets2_hotelTransilvania/video151.mp4"
 import video152 from "../../assets2_hotelTransilvania/video152.mp4"
 import video153 from "../../assets2_hotelTransilvania/video153.mp4"
 import video154 from "../../assets2_hotelTransilvania/video154.mp4"
@@ -154,7 +104,6 @@ import video155 from "../../assets2_hotelTransilvania/video155.mp4"
 import video156 from "../../assets2_hotelTransilvania/video156.mp4"
 import video157 from "../../assets2_hotelTransilvania/video157.mp4"
 import video158 from "../../assets2_hotelTransilvania/video158.mp4"
-import video159 from "../../assets2_hotelTransilvania/video159.mp4"
 import video160 from "../../assets2_hotelTransilvania/video160.mp4"
 import video161 from "../../assets2_hotelTransilvania/video161.mp4"
 import video162 from "../../assets2_hotelTransilvania/video162.mp4"
@@ -163,26 +112,18 @@ import video164 from "../../assets2_hotelTransilvania/video164.mp4"
 import video165 from "../../assets2_hotelTransilvania/video165.mp4"
 import video166 from "../../assets2_hotelTransilvania/video166.mp4"
 import video167 from "../../assets2_hotelTransilvania/video167.mp4"
-import video168 from "../../assets2_hotelTransilvania/video168.mp4"
-import video169 from "../../assets2_hotelTransilvania/video169.mp4"
-import video170 from "../../assets2_hotelTransilvania/video170.mp4"
 import video171 from "../../assets2_hotelTransilvania/video171.mp4"
 import video172 from "../../assets2_hotelTransilvania/video172.mp4"
 import video173 from "../../assets2_hotelTransilvania/video173.mp4"
 import video174 from "../../assets2_hotelTransilvania/video174.mp4"
-import video175 from "../../assets2_hotelTransilvania/video175.mp4"
 import video176 from "../../assets2_hotelTransilvania/video176.mp4"
 import video177 from "../../assets2_hotelTransilvania/video177.mp4"
-import video178 from "../../assets2_hotelTransilvania/video178.mp4"
 import video179 from "../../assets2_hotelTransilvania/video179.mp4"
 import video180 from "../../assets2_hotelTransilvania/video180.mp4"
 import video181 from "../../assets2_hotelTransilvania/video181.mp4"
-import video182 from "../../assets2_hotelTransilvania/video182.mp4"
 import video183 from "../../assets2_hotelTransilvania/video183.mp4"
-import video184 from "../../assets2_hotelTransilvania/video184.mp4"
 import video185 from "../../assets2_hotelTransilvania/video185.mp4"
 import video186 from "../../assets2_hotelTransilvania/video186.mp4"
-import video187 from "../../assets2_hotelTransilvania/video187.mp4"
 import video188 from "../../assets2_hotelTransilvania/video188.mp4"
 import video189 from "../../assets2_hotelTransilvania/video189.mp4"
 import video190 from "../../assets2_hotelTransilvania/video190.mp4"
@@ -193,12 +134,10 @@ import video194 from "../../assets2_hotelTransilvania/video194.mp4"
 import video195 from "../../assets2_hotelTransilvania/video195.mp4"
 import video196 from "../../assets2_hotelTransilvania/video196.mp4"
 import video197 from "../../assets2_hotelTransilvania/video197.mp4"
-import video198 from "../../assets2_hotelTransilvania/video198.mp4"
 import video199 from "../../assets2_hotelTransilvania/video199.mp4"
 import video200 from "../../assets2_hotelTransilvania/video200.mp4"
 import video201 from "../../assets2_hotelTransilvania/video201.mp4"
 import video202 from "../../assets2_hotelTransilvania/video202.mp4"
-import video203 from "../../assets2_hotelTransilvania/video203.mp4"
 import video204 from "../../assets2_hotelTransilvania/video204.mp4"
 import video205 from "../../assets2_hotelTransilvania/video205.mp4"
 import video206 from "../../assets2_hotelTransilvania/video206.mp4"
@@ -273,10 +212,32 @@ import video274 from "../../assets3_pets/video274.mp4"
 import video275 from "../../assets3_pets/video275.mp4"
 import video276 from "../../assets3_pets/video276.mp4"
 import video277 from "../../assets3_pets/video277.mp4"
-import video278 from "../../assets4_Wendesday/video278.mp4"
-import video279 from "../../assets4_Wendesday/video279.mp4"
-import video280 from "../../assets4_Wendesday/video280.mp4"
-import video281 from "../../assets4_Wendesday/video281.mp4"
+import video278 from "../../4vegas/vegas278.mp4"
+import video279 from "../../4vegas/vegas279.mp4"
+import video280 from "../../4vegas/vegas280.mp4"
+import video281 from "../../4vegas/vegas281.mp4"
+import video282 from "../../4vegas/vegas282.mp4"
+import video283 from "../../4vegas/vegas283.mp4"
+import video284 from "../../4vegas/vegas284.mp4"
+import video285 from "../../4vegas/vegas285.mp4"
+import video286 from "../../4vegas/vegas286.mp4"
+import video287 from "../../4vegas/vegas287.mp4"
+import video288 from "../../4vegas/vegas288.mp4"
+import video289 from "../../4vegas/vegas289.mp4"
+import video290 from "../../4vegas/vegas290.mp4"
+import video291 from "../../4vegas/vegas291.mp4"
+import video292 from "../../4vegas/vegas292.mp4"
+import video293 from "../../4vegas/vegas293.mp4"
+import video294 from "../../4vegas/vegas294.mp4"
+import video295 from "../../4vegas/vegas295.mp4"
+import video296 from "../../4vegas/vegas296.mp4"
+import video297 from "../../4vegas/vegas297.mp4"
+import video298 from "../../4vegas/vegas298.mp4"
+import video299 from "../../4vegas/vegas299.mp4"
+import video300 from "../../4vegas/vegas300.mp4"
+import video301 from "../../4vegas/vegas301.mp4"
+
+
 
 
 
@@ -284,7 +245,84 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
 
  export const new_data = [
     {
-        id: 420,
+        id: 170,
+        videoFile: video205,
+        rusQuestion: "зашитый",
+        before: false,
+        border: false,
+        engDescription: "a piece of thread sewn in cloth, or the single movement of a needle and thread into and out of the cloth that produces this:",
+        answer: "stitched shut",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 169,
+        videoFile: video199,
+        rusQuestion: "выскальзывать",
+        before: false,
+        border: false,
+        engDescription: "to go somewhere quietly because you do not want anyone to hear you",
+        answer: "sneak out",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 168,
+        videoFile: video214,
+        rusQuestion: "предосторожность",
+        before: false,
+        border: false,
+        engDescription: "an action that is done to prevent something unpleasant or dangerous happening:",
+        answer: "precaution",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 167,
+        videoFile: video213,
+        rusQuestion: "тушеное мясо",
+        before: false,
+        border: false,
+        engDescription: "a type of food consisting usually of meat or fish and vegetables cooked slowly in a small amount of liquid:",
+        answer: "stew",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 166,
+        videoFile: video212,
+        rusQuestion: "загар",
+        before: false,
+        border: false,
+        engDescription: "brown skin caused by being in the sun:",
+        answer: "tan",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 165,
+        videoFile: video211,
+        rusQuestion: "точно",
+        before: false,
+        border: false,
+        engDescription: "exactly right:",
+        answer: "spot on",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 164,
+        videoFile: video210,
+        rusQuestion: "бежать по холмам",
+        before: false,
+        border: false,
+        engDescription: "to be extremely unwilling to be involved in something, and to avoid it:",
+        answer: "run for the hills",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 163,
         videoFile: video209,
         rusQuestion: "странный",
         before: false,
@@ -295,7 +333,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 419,
+        id: 162,
         videoFile: video208,
         rusQuestion: "бараньи отбивные",
         before: false,
@@ -306,7 +344,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 418,
+        id: 161,
         videoFile: video208,
         rusQuestion: "ягненок",
         before: false,
@@ -317,7 +355,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 417,
+        id: 160,
         videoFile: video207,
         rusQuestion: "подгузник",
         before: false,
@@ -328,7 +366,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 416,
+        id: 159,
         videoFile: video206,
         rusQuestion: "подходящий",
         before: false,
@@ -339,7 +377,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 415,
+        id: 158,
         videoFile: video204,
         rusQuestion: "ковыряется в носу",
         before: false,
@@ -350,18 +388,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 414,
-        videoFile: video203,
-        rusQuestion: "любимая",
-        before: false,
-        border: false,
-        engDescription: "a term of endearment people use to describe something cute.",
-        answer: "pookie",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 413,
+        id: 157,
         videoFile: video202,
         rusQuestion: "превзошел",
         before: false,
@@ -372,7 +399,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 412,
+        id: 156,
         videoFile: video201,
         rusQuestion: "соска",
         before: false,
@@ -383,7 +410,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 411,
+        id:155,
         videoFile: video200,
         rusQuestion: "вздремнуть",
         before: false,
@@ -394,18 +421,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 410,
-        videoFile: video198,
-        rusQuestion: "граф",
-        before: false,
-        border: false,
-        engDescription: "a man of high social rank in some European countries",
-        answer: "count",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 409,
+        id: 154,
         videoFile: video197,
         rusQuestion: "противный",
         before: false,
@@ -416,7 +432,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 408,
+        id: 153,
         videoFile: video196,
         rusQuestion: "это грубо",
         before: false,
@@ -427,7 +443,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 407,
+        id: 152,
         videoFile: video195,
         rusQuestion: "зад",
         before: false,
@@ -438,7 +454,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 406,
+        id: 151,
         videoFile: video194,
         rusQuestion: "горб",
         before: false,
@@ -449,7 +465,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 405,
+        id: 150,
         videoFile: video194,
         rusQuestion: "натыкаетесь",
         before: false,
@@ -460,7 +476,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 404,
+        id: 149,
         videoFile: video193,
         rusQuestion: "неуклюжий",
         before: false,
@@ -471,7 +487,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 403,
+        id: 148,
         videoFile: video192,
         rusQuestion: "спорный вопрос",
         before: false,
@@ -482,7 +498,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 402,
+        id: 147,
         videoFile: video191,
         rusQuestion: "поладить",
         before: false,
@@ -493,7 +509,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 401,
+        id: 146,
         videoFile: video190,
         rusQuestion: "засунуть",
         before: false,
@@ -504,18 +520,18 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 400,
+        id: 145,
         videoFile: video189,
         rusQuestion: "сдутый",
         before: false,
         border: false,
-        engDescription: "If something that has air or gas inside it deflates, or is deflated, it becomes smaller because it loses the air or gas:",
+        engDescription: "If something that has air or gas inside it ooooes, or is deflated, it becomes smaller because it loses the air or gas:",
         answer: "deflated",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 399,
+        id: 144,
         videoFile: video188,
         rusQuestion: "отвратительный",
         before: false,
@@ -526,18 +542,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 398,
-        videoFile: video187,
-        rusQuestion: "неожиданная встреча",
-        before: false,
-        border: false,
-        engDescription: "a meeting, especially one that happens by chance:",
-        answer: "encounter",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 397,
+        id: 143,
         videoFile: video186,
         rusQuestion: "воспитанный",
         before: false,
@@ -548,7 +553,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 396,
+        id: 142,
         videoFile: video185,
         rusQuestion: "грубое обращение",
         before: false,
@@ -559,18 +564,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 395,
-        videoFile: video184,
-        rusQuestion: "куриный бой",
-        before: false,
-        border: false,
-        engDescription: " an informal game, often played in a lake or swimming pool, characterized by one team member sitting on the shoulders of his or her teammate or riding piggy-back.",
-        answer: "chicken fight",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 394,
+        id: 141,
         videoFile: video183,
         rusQuestion: "бублик",
         before: false,
@@ -581,18 +575,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 393,
-        videoFile: video182,
-        rusQuestion: "лось",
-        before: false,
-        border: false,
-        engDescription: "a type of large deer with large, flat antlers (= wide horns like branches) and a long nose that lives in the forests of North America, northern Europe, and Asia",
-        answer: "moose",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 392,
+        id: 140,
         videoFile: video181,
         rusQuestion: "поворот , изгибаться , крутить",
         before: false,
@@ -603,7 +586,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 391,
+        id: 139,
         videoFile: video180,
         rusQuestion: "боком , в сторону",
         before: false,
@@ -614,7 +597,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 390,
+        id: 138,
         videoFile: video179,
         rusQuestion: "это не было подсказкой",
         before: false,
@@ -625,18 +608,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 389,
-        videoFile: video178,
-        rusQuestion: "прыгнуть со сцены",
-        before: false,
-        border: false,
-        engDescription: "jump from the stage at a rock concert or other event to be caught and carried aloft by the crowd below.",
-        answer: "stage dive",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 388,
+        id: 137,
         videoFile: video177,
         rusQuestion: "быстро съесть (что-то)",
         before: false,
@@ -647,7 +619,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 387,
+        id: 136,
         videoFile: video176,
         rusQuestion: "ровесник",
         before: false,
@@ -658,18 +630,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 386,
-        videoFile: video175,
-        rusQuestion: "расистский",
-        before: false,
-        border: false,
-        engDescription: "someone who believes that their race makes them better, more intelligent, more moral, etc. than people of other races and who does or says unfair or harmful things as a result:",
-        answer: "racist",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 385,
+        id: 135,
         videoFile: video174,
         rusQuestion: "аккуратный , изящный",
         before: false,
@@ -680,7 +641,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 384,
+        id: 134,
         videoFile: video173,
         rusQuestion: "кол",
         before: false,
@@ -691,7 +652,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 383,
+        id: 133,
         videoFile: video172,
         rusQuestion: "набухает",
         before: false,
@@ -702,7 +663,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 382,
+        id: 132,
         videoFile: video171,
         rusQuestion: "тусоваться",
         before: false,
@@ -713,40 +674,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 381,
-        videoFile: video170,
-        rusQuestion: "организовать вечеринку",
-        before: false,
-        border: false,
-        engDescription: "to have a party:",
-        answer: "throw a party",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 380,
-        videoFile: video169,
-        rusQuestion: "специализированный",
-        before: false,
-        border: false,
-        engDescription: "having changed or developed in order to perform a particular function or suit a particular environment:",
-        answer: "specialized",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 379,
-        videoFile: video168,
-        rusQuestion: "Подыгрывать",
-        before: false,
-        border: false,
-        engDescription: "to act as if you agree with something that is happening, esp. if it is something wrong:",
-        answer: "play along",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 378,
+        id: 131,
         videoFile: video167,
         rusQuestion: "подвести итог",
         before: false,
@@ -757,7 +685,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 377,
+        id: 130,
         videoFile: video166,
         rusQuestion: "спокойствие",
         before: false,
@@ -768,7 +696,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 376,
+        id: 129,
         videoFile: video165,
         rusQuestion: "лишенный",
         before: false,
@@ -779,7 +707,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 375,
+        id: 128,
         videoFile: video164,
         rusQuestion: "преследование , гонение",
         before: false,
@@ -790,7 +718,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 374,
+        id: 127,
         videoFile: video163,
         rusQuestion: "скрывающийся",
         before: false,
@@ -801,7 +729,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 373,
+        id: 126,
         videoFile: video162,
         rusQuestion: "заменитель",
         before: false,
@@ -812,7 +740,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 372,
+        id: 125,
         videoFile: video161,
         rusQuestion: "жирный",
         before: false,
@@ -823,7 +751,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 371,
+        id: 124,
         videoFile: video160,
         rusQuestion: "все сходят с ума",
         before: false,
@@ -834,18 +762,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 370,
-        videoFile: video159,
-        rusQuestion: "нелепый",
-        before: false,
-        border: false,
-        engDescription: "stupid or unreasonable and deserving to be laughed at:",
-        answer: "ridiculous",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 369,
+        id: 123,
         videoFile: video158,
         rusQuestion: "рюкзак",
         before: false,
@@ -856,7 +773,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 368,
+        id: 122,
         videoFile: video157,
         rusQuestion: "болтовня",
         before: false,
@@ -867,7 +784,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 367,
+        id: 121,
         videoFile: video156,
         rusQuestion: "убежище , святилище",
         before: false,
@@ -878,18 +795,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 366,
-        videoFile: video155,
-        rusQuestion: "складка , складывать",
-        before: false,
-        border: false,
-        engDescription: "to bend something, especially paper or cloth, so that one part of it lies on the other part, or to be able to be bent in this way:",
-        answer: "fold",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 365,
+        id: 120,
         videoFile: video155,
         rusQuestion: "пух",
         before: false,
@@ -900,7 +806,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 364,
+        id: 119,
         videoFile: video154,
         rusQuestion: "совок",
         before: false,
@@ -911,7 +817,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 363,
+        id: 118,
         videoFile: video153,
         rusQuestion: "вонючий",
         before: false,
@@ -922,7 +828,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 362,
+        id: 117,
         videoFile: video152,
         rusQuestion: "молодежное общежитие",
         before: false,
@@ -933,18 +839,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 361,
-        videoFile: video151,
-        rusQuestion: "глупый",
-        before: false,
-        border: false,
-        engDescription: "silly:",
-        answer: "goofy",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 360,
+        id: 116,
         videoFile: video150,
         rusQuestion: "вынюхивать",
         before: false,
@@ -955,18 +850,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 359,
-        videoFile: video149,
-        rusQuestion: "на домашнем обучении",
-        before: false,
-        border: false,
-        engDescription: "to teach a child at home rather than sending him or her to school:",
-        answer: "homeschooled",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 358,
+        id: 115,
         videoFile: video148,
         rusQuestion: "Берегись",
         before: false,
@@ -977,7 +861,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 357,
+        id: 114,
         videoFile: video147,
         rusQuestion: "вычерпывать",
         before: false,
@@ -988,7 +872,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 356,
+        id: 113,
         videoFile: video146,
         rusQuestion: "беспощадный",
         before: false,
@@ -999,7 +883,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 355,
+        id: 112,
         videoFile: video145,
         rusQuestion: "надутый",
         before: false,
@@ -1010,7 +894,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 354,
+        id: 111,
         videoFile: video144,
         rusQuestion: "бешенство",
         before: false,
@@ -1021,7 +905,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 353,
+        id: 110,
         videoFile: video143,
         rusQuestion: "я все понял",
         before: false,
@@ -1032,18 +916,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 352,
-        videoFile: video142,
-        rusQuestion: "служанка",
-        before: false,
-        border: false,
-        engDescription: "a woman who works as a servant in a hotel or in someone's home:",
-        answer: "maid",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 351,
+        id: 109,
         videoFile: video141,
         rusQuestion: "Ваше Высокопреосвященство",
         before: false,
@@ -1054,7 +927,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },  
     {
-        id: 350,
+        id: 108,
         videoFile: video121,
         rusQuestion: "лес с привидениями",
         before: false,
@@ -1065,7 +938,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 349,
+        id: 107,
         videoFile: video140,
         rusQuestion: "злодей",
         before: false,
@@ -1076,7 +949,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 348,
+        id: 106,
         videoFile: video139,
         rusQuestion: "задушить нас",
         before: false,
@@ -1087,18 +960,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 347,
-        videoFile: video138,
-        rusQuestion: "одолеть",
-        before: false,
-        border: false,
-        engDescription: "to defeat someone by having greater strength or power:",
-        answer: "overpower",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 346,
+        id: 105,
         videoFile: video137,
         rusQuestion: "обнаружил",
         before: false,
@@ -1109,7 +971,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 345,
+        id: 104,
         videoFile: video136,
         rusQuestion: "наблюдение",
         before: false,
@@ -1120,7 +982,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 344,
+        id: 103,
         videoFile: video135,
         rusQuestion: "убежище",
         before: false,
@@ -1131,7 +993,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 343,
+        id: 102,
         videoFile: video134,
         rusQuestion: "вне опасности",
         before: false,
@@ -1142,18 +1004,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 342,
-        videoFile: video133,
-        rusQuestion: "он всегда действует на полную катушку...наклон...",
-        before: false,
-        border: false,
-        engDescription: "..... means at maximum speed or intensity. ,,,,,, in this context, means to act, behave, or perform.  The idea is that he brings to the engagement a readiness to do something (party, probably) with full intensity.",
-        answer: "he always bringing it full tilt",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 341,
+        id: 101,
         videoFile: video132,
         rusQuestion: "неотразимый",
         before: false,
@@ -1164,29 +1015,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 340,
-        videoFile: video131,
-        rusQuestion: "ущипнул меня",
-        before: false,
-        border: false,
-        engDescription: "to press something, especially someone's skin, strongly between two hard things such as a finger and a thumb, usually causing pain:",
-        answer: "pinched me",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 339,
-        videoFile: video130,
-        rusQuestion: "домоводство",
-        before: false,
-        border: false,
-        engDescription: "the activity of taking care of a house, esp. by cleaning it:",
-        answer: "housekeeping",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 338,
+        id: 100,
         videoFile: video129,
         rusQuestion: "грязь",
         before: false,
@@ -1197,7 +1026,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 337,
+        id: 99,
         videoFile: video128,
         rusQuestion: "кладбище",
         before: false,
@@ -1208,18 +1037,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 336,
-        videoFile: video127,
-        rusQuestion: "наматывать",
-        before: false,
-        border: false,
-        engDescription: "to get control of something or someone, sometimes by offering something in exchange:",
-        answer: "reel in",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 335,
+        id: 98,
         videoFile: video126,
         rusQuestion: "забитый",
         before: false,
@@ -1230,7 +1048,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 334,
+        id: 97,
         videoFile: video125,
         rusQuestion: "сантехника",
         before: false,
@@ -1241,18 +1059,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 333,
-        videoFile: video124,
-        rusQuestion: "феерия",
-        before: false,
-        border: false,
-        engDescription: "a large, exciting, and expensive event or entertainment:",
-        answer: "extravaganza",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 332,
+        id: 96,
         videoFile: video123,
         rusQuestion: "путеводитель",
         before: false,
@@ -1263,7 +1070,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 331,
+        id: 95,
         videoFile: video122,
         rusQuestion: "костер",
         before: false,
@@ -1274,29 +1081,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 330,
-        videoFile: video120,
-        rusQuestion: "согните ноги и оттолкнитесь",
-        before: false,
-        border: false,
-        engDescription: "согните ноги и оттолкнитесь",
-        answer: "bend the legs and push off",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 329,
-        videoFile: video119,
-        rusQuestion: "какашки",
-        before: false,
-        border: false,
-        engDescription: " a solid waste from the body:",
-        answer: "poop",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 328,
+        id: 94,
         videoFile: video118,
         rusQuestion: "квадратные метры",
         before: false,
@@ -1305,75 +1090,9 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         answer: "square footage",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 327,
-        videoFile: video117,
-        rusQuestion: "задницу",
-        before: false,
-        border: false,
-        engDescription: "the part of your body that you sit on; bottom:",
-        answer: "tush",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
     }, 
     {
-        id: 326,
-        videoFile: video116,
-        rusQuestion: "испугать",
-        before: false,
-        border: false,
-        engDescription: "to do something unexpected that surprises and sometimes worries a person or animal:",
-        answer: "startle",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    }, 
-   {
-        id: 325,
-        videoFile: video115,
-        rusQuestion: "она тебя утомит",
-        before: false,
-        border: false,
-        engDescription: "to make someone extremely tired:",
-        answer: "wear you out",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 324,
-        videoFile: video114,
-        rusQuestion: "ощущение",
-        before: false,
-        border: false,
-        engDescription: "the ability to feel something physically, especially by touching, or a physical feeling that results from this ability:",
-        answer: "sensation",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 323,
-        videoFile: video113,
-        rusQuestion: "предчувствие",
-        before: false,
-        border: false,
-        engDescription: "a feeling that something, especially something unpleasant, is going to happen:",
-        answer: "premonition",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 322,
-        videoFile: video112,
-        rusQuestion: "суеверие",
-        before: false,
-        border: false,
-        engDescription: "belief that is not based on human reason or scientific knowledge, but is connected with old ideas about magic, etc.:",
-        answer: "superstition",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 321,
+        id: 93,
         videoFile: video111,
         rusQuestion: "бородавки и все такое",
         before: false,
@@ -1384,7 +1103,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 320,
+        id: 92,
         videoFile: video110,
         rusQuestion: "квакать",
         before: false,
@@ -1395,7 +1114,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 319,
+        id: 91,
         videoFile: video109,
         rusQuestion: "пена",
         before: false,
@@ -1406,7 +1125,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 318,
+        id: 90,
         videoFile: video108,
         rusQuestion: "ворочаюсь",
         before: false,
@@ -1417,29 +1136,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 317,
-        videoFile: video106,
-        rusQuestion: "уличный",
-        before: false,
-        border: false,
-        engDescription: "able to deal successfully with dangerous or difficult situations in big towns or cities where there is a lot of crime:",
-        answer: "streetwise",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 316,
-        videoFile: video107,
-        rusQuestion: "шансы",
-        before: false,
-        border: false,
-        engDescription: "the probability (= how likely it is) that a particular thing will or will not happen:",
-        answer: "odds",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 315,
+        id: 89,
         videoFile: video105,
         rusQuestion: "выпечка",
         before: false,
@@ -1450,7 +1147,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 314,
+        id: 88,
         videoFile: video104,
         rusQuestion: "ров",
         before: false,
@@ -1461,7 +1158,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 313,
+        id: 87,
         videoFile: video103,
         rusQuestion: "перемотать назад",
         before: false,
@@ -1472,51 +1169,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 312,
-        videoFile: video102,
-        rusQuestion: "все прояснить",
-        before: false,
-        border: false,
-        engDescription: "to allow a secret to be known, usually without intending to:",
-        answer: "let the cat out of the bag",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 311,
-        videoFile: video101,
-        rusQuestion: "сумасброд",
-        before: false,
-        border: false,
-        engDescription: "silly and often amusing:  used to describe silly and funny behaviour or a plan that is very silly and funny and unlikely to succeed:",
-        answer: "madcap",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 310,
-        videoFile: video100,
-        rusQuestion: "полудикая лошадь",
-        before: false,
-        border: false,
-        engDescription: "a wild horse of the western US",
-        answer: "bronco",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 309,
-        videoFile: video99,
-        rusQuestion: "Позволю себе не согласиться",
-        before: false,
-        border: false,
-        engDescription: "a way of saying ...I do not agree... that is polite, but may sound unfriendly",
-        answer: "I beg to differ",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 308,
+        id: 86,
         videoFile: video98,
         rusQuestion: "отозвать",
         before: false,
@@ -1527,7 +1180,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 307,
+        id: 85,
         videoFile: video97,
         rusQuestion: "резной",
         before: false,
@@ -1538,7 +1191,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 306,
+        id: 84,
         videoFile: video96,
         rusQuestion: "голубь , простофиля",
         before: false,
@@ -1549,29 +1202,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 305,
-        videoFile: video95,
-        rusQuestion: "тупик",
-        before: false,
-        border: false,
-        engDescription: "a road that is closed at one end, and does not lead anywhere:",
-        answer: "dead end",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 304,
-        videoFile: video94,
-        rusQuestion: "возмещать",
-        before: false,
-        border: false,
-        engDescription: "to pay back or to reward someone or something:",
-        answer: "repay",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 303,
+        id: 83,
         videoFile: video93,
         rusQuestion: "парик",
         before: false,
@@ -1582,7 +1213,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 302,
+        id: 82,
         videoFile: video92,
         rusQuestion: "сварливый",
         before: false,
@@ -1593,18 +1224,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 301,
-        videoFile: video91,
-        rusQuestion: "рысью",
-        before: false,
-        border: false,
-        engDescription: "If a horse or similar animal with four legs oooooo, it runs at its slowest speed, using short steps in which a front leg and the back leg on the opposite side move together:",
-        answer: "trotting",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 300,
+        id: 81,
         videoFile: video90,
         rusQuestion: "ржал",
         before: false,
@@ -1615,7 +1235,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 299,
+        id: 80,
         videoFile: video90,
         rusQuestion: "жеребец",
         before: false,
@@ -1626,62 +1246,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 298,
-        videoFile: video89,
-        rusQuestion: "ягодицы",
-        before: false,
-        border: false,
-        engDescription: "either side of a person's bottom",
-        answer: "buttocks",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 297,
-        videoFile: video89,
-        rusQuestion: "упругий , тугой",
-        before: false,
-        border: false,
-        engDescription: "tight or completely stretched:",
-        answer: "taut",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 296,
-        videoFile: video88,
-        rusQuestion: "волосы",
-        before: false,
-        border: false,
-        engDescription: "the hair on someone's head:",
-        answer: "locks",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 295,
-        videoFile: video88,
-        rusQuestion: "волнистый",
-        before: false,
-        border: false,
-        engDescription: "having a series of curves:",
-        answer: "wavy",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 294,
-        videoFile: video87,
-        rusQuestion: "поставь свой последний доллар",
-        before: false,
-        border: false,
-        engDescription: "used to say that you are completely certain that something is true or will happen:",
-        answer: "bet your bottom",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 293,
+        id: 79,
         videoFile: video86,
         rusQuestion: "ударить , прикончить",
         before: false,
@@ -1692,7 +1257,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 292,
+        id: 78,
         videoFile: video86,
         rusQuestion: "подлый",
         before: false,
@@ -1703,7 +1268,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 291,
+        id: 77,
         videoFile: video85,
         rusQuestion: "недействительный , подделка",
         before: false,
@@ -1714,7 +1279,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 290,
+        id: 76,
         videoFile: video84,
         rusQuestion: "валяться",
         before: false,
@@ -1725,7 +1290,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 289,
+        id: 75,
         videoFile: video83,
         rusQuestion: "за нас",
         before: false,
@@ -1736,7 +1301,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 288,
+        id: 74,
         videoFile: video82,
         rusQuestion: "глоток",
         before: false,
@@ -1747,18 +1312,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 287,
-        videoFile: video81,
-        rusQuestion: "мазать",
-        before: false,
-        border: false,
-        engDescription: "to spread a liquid or a thick substance over a surface:",
-        answer: "smear",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 286,
+        id: 73,
         videoFile: video80,
         rusQuestion: "покалывание",
         before: false,
@@ -1769,7 +1323,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 285,
+        id: 72,
         videoFile: video79,
         rusQuestion: "сожалею об этом дне",
         before: false,
@@ -1780,7 +1334,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 284,
+        id: 71,
         videoFile: video78,
         rusQuestion: "поразить",
         before: false,
@@ -1791,7 +1345,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 283,
+        id: 70,
         videoFile: video78,
         rusQuestion: "отрывать",
         before: false,
@@ -1802,7 +1356,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 282,
+        id: 69,
         videoFile: video77,
         rusQuestion: "тыква",
         before: false,
@@ -1813,51 +1367,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 281,
-        videoFile: video76,
-        rusQuestion: "залитый",
-        before: false,
-        border: false,
-        engDescription: "to cover most or all of a surface: To ooooo someone is to kill someone by covering the person’s face, making it impossible to breathe.",
-        answer: "smothered",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 280,
-        videoFile: video76,
-        rusQuestion: "жареный",
-        before: false,
-        border: false,
-        engDescription: "cooked in hot oil or fat:",
-        answer: "fried",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 279,
-        videoFile: video75,
-        rusQuestion: "заваруха",
-        before: false,
-        border: false,
-        engDescription: "a sudden, short period of noise, confusion, or excited movement:",
-        answer: "commotion",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 278,
-        videoFile: video74,
-        rusQuestion: "отвергать",
-        before: false,
-        border: false,
-        engDescription: "to refuse to accept something or someone because you feel that thing or person is not worth having:",
-        answer: "spurn",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 277,
+        id: 68,
         videoFile: video73,
         rusQuestion: "почитаемый",
         before: false,
@@ -1868,7 +1378,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 276,
+        id: 67,
         videoFile: video72,
         rusQuestion: "супружеский",
         before: false,
@@ -1879,7 +1389,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 275,
+        id: 66,
         videoFile: video71,
         rusQuestion: "смягчитель",
         before: false,
@@ -1890,7 +1400,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 274,
+        id: 65,
         videoFile: video71,
         rusQuestion: "поганка",
         before: false,
@@ -1901,18 +1411,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 273,
-        videoFile: video70,
-        rusQuestion: "сглаз",
-        before: false,
-        border: false,
-        engDescription: "a magical spell or power that causes someone to have a difficult or unpleasant time:",
-        answer: "whammy",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 272,
+        id: 64,
         videoFile: video69,
         rusQuestion: "злой",
         before: false,
@@ -1923,18 +1422,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 271,
-        videoFile: video68,
-        rusQuestion: "ты спятил?",
-        before: false,
-        border: false,
-        engDescription: "to be very silly or stupid:",
-        answer: "off your nut",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 270,
+        id: 63,
         videoFile: video67,
         rusQuestion: "вор-взломщик",
         before: false,
@@ -1945,18 +1433,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 269,
-        videoFile: video66,
-        rusQuestion: "придумывание",
-        before: false,
-        border: false,
-        engDescription: "to make something, usually food, by adding several different parts together, often in a way that is original or not planned: also to make something new from different things:",
-        answer: "concocting",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 268,
+        id: 62,
         videoFile: video65,
         rusQuestion: "обувь",
         before: false,
@@ -1967,7 +1444,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 267,
+        id: 61,
         videoFile: video64,
         rusQuestion: "похоть , страсть",
         before: false,
@@ -1978,7 +1455,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 266,
+        id: 60,
         videoFile: video63,
         rusQuestion: "капля",
         before: false,
@@ -1989,7 +1466,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 265,
+        id: 59,
         videoFile: video62,
         rusQuestion: "щепотка",
         before: false,
@@ -2000,7 +1477,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 264,
+        id: 58,
         videoFile: video61,
         rusQuestion: "капризный",
         before: false,
@@ -2011,7 +1488,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 263,
+        id: 57,
         videoFile: video60,
         rusQuestion: "угнетенный",
         before: false,
@@ -2022,7 +1499,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 262,
+        id: 56,
         videoFile: video60,
         rusQuestion: "униженный",
         before: false,
@@ -2033,18 +1510,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 261,
-        videoFile: video59,
-        rusQuestion: "союз",
-        before: false,
-        border: false,
-        engDescription: "an organization that represents the people who work in a particular industry, protects their rights and may agree pay, working conditions, etc. with their employers:",
-        answer: "union",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 260,
+        id: 55,
         videoFile: video58,
         rusQuestion: "зайти , заглянуть",
         before: false,
@@ -2055,7 +1521,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 259,
+        id: 54,
         videoFile: video57,
         rusQuestion: "зелья",
         before: false,
@@ -2066,7 +1532,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 258,
+        id: 53,
         videoFile: video57,
         rusQuestion: "заклинания",
         before: false,
@@ -2077,7 +1543,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 257,
+        id: 52,
         videoFile: video56,
         rusQuestion: "изба",
         before: false,
@@ -2088,18 +1554,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 256,
-        videoFile: video55,
-        rusQuestion: "выкатить приветственный вагон",
-        before: false,
-        border: false,
-        engDescription: "used to refer to a happy and friendly way of greeting people who are new to a place:",
-        answer: "roll out the welcome wagon",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 255,
+        id: 51,
         videoFile: video54,
         rusQuestion: "изысканный",
         before: false,
@@ -2110,7 +1565,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 254,
+        id: 50,
         videoFile: video54,
         rusQuestion: "блюдо",
         before: false,
@@ -2121,7 +1576,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 253,
+        id: 49,
         videoFile: video53,
         rusQuestion: "праздничный",
         before: false,
@@ -2132,7 +1587,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 252,
+        id: 48,
         videoFile: video52,
         rusQuestion: "расслабляться",
         before: false,
@@ -2143,7 +1598,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 251,
+        id: 47,
         videoFile: video51,
         rusQuestion: "пощажен",
         before: false,
@@ -2154,7 +1609,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 250,
+        id: 46,
         videoFile: video50,
         rusQuestion: "обязан",
         before: false,
@@ -2165,7 +1620,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 249,
+        id: 45,
         videoFile: video50,
         rusQuestion: "сопровождать",
         before: false,
@@ -2176,7 +1631,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 248,
+        id: 44,
         videoFile: video49,
         rusQuestion: "неправильно судить",
         before: false,
@@ -2187,18 +1642,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 247,
-        videoFile: video48,
-        rusQuestion: "бобы",
-        before: false,
-        border: false,
-        engDescription: "a seed, or the pod containing seeds, of various climbing plants, eaten as a vegetable:",
-        answer: "beans",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 246,
+        id: 43,
         videoFile: video47,
         rusQuestion: "помет",
         before: false,
@@ -2209,7 +1653,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 245,
+        id: 42,
         videoFile: video46,
         rusQuestion: "умолять",
         before: false,
@@ -2220,7 +1664,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 244,
+        id: 41,
         videoFile: video45,
         rusQuestion: "кастрировать",
         before: false,
@@ -2231,7 +1675,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 243,
+        id: 40,
         videoFile: video44,
         rusQuestion: "орудие",
         before: false,
@@ -2242,7 +1686,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 242,
+        id: 39,
         videoFile: video43,
         rusQuestion: "мурлыкать",
         before: false,
@@ -2253,7 +1697,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 241,
+        id: 38,
         videoFile: video42,
         rusQuestion: "связь , узы",
         before: false,
@@ -2264,7 +1708,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 240,
+        id: 37,
         videoFile: video41,
         rusQuestion: "обидчивый",
         before: false,
@@ -2275,7 +1719,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 239,
+        id: 36,
         videoFile: video40,
         rusQuestion: "зловещий",
         before: false,
@@ -2286,7 +1730,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 238,
+        id: 35,
         videoFile: video39,
         rusQuestion: "подлый , презренный",
         before: false,
@@ -2297,7 +1741,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 237,
+        id: 34,
         videoFile: video38,
         rusQuestion: "пижамную вечеринку",
         before: false,
@@ -2308,7 +1752,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 236,
+        id: 33,
         videoFile: video37,
         rusQuestion: "подсказать тебе",
         before: false,
@@ -2319,18 +1763,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 235,
-        videoFile: video36,
-        rusQuestion: "майонез",
-        before: false,
-        border: false,
-        engDescription: "informal for mayonnaise :",
-        answer: "mayo",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 234,
+        id: 32,
         videoFile: video35,
         rusQuestion: "сонный",
         before: false,
@@ -2341,7 +1774,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 233,
+        id: 31,
         videoFile: video34,
         rusQuestion: "гладкий",
         before: false,
@@ -2352,29 +1785,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 232,
-        videoFile: video33,
-        rusQuestion: "туфли-лодочки",
-        before: false,
-        border: false,
-        engDescription: "a type of flat shoe, like a ballet dancer's shoe, worn by women",
-        answer: "pumps",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 231,
-        videoFile: video32,
-        rusQuestion: "легким движением запястья , резкое движение",
-        before: false,
-        border: false,
-        engDescription: "a song by the British rock band Queen",
-        answer: "flick of the wrist",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 230,
+        id: 30,
         videoFile: video31,
         rusQuestion: "палочка",
         before: false,
@@ -2385,18 +1796,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 229,
-        videoFile: video30,
-        rusQuestion: "сладкий горох",
-        before: false,
-        border: false,
-        engDescription: "a climbing plant with sweet-smelling flowers that are often a pale colour",
-        answer: "sweet pea",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 228,
+        id: 29,
         videoFile: video29,
         rusQuestion: "лекарство",
         before: false,
@@ -2407,7 +1807,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 227,
+        id: 28,
         videoFile: video28,
         rusQuestion: "животики",
         before: false,
@@ -2418,7 +1818,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 226,
+        id: 27,
         videoFile: video27,
         rusQuestion: "очарованный",
         before: false,
@@ -2429,7 +1829,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
      {
-        id: 225,
+        id: 26,
         videoFile: video26,
         rusQuestion: "чертовски",
         before: false,
@@ -2440,18 +1840,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 224,
-        videoFile: video25,
-        rusQuestion: "бортовое",
-        before: false,
-        border: false,
-        engDescription: "happening or available during a flight:",
-        answer: "in-flight",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 223,
+        id: 25,
         videoFile: video24,
         rusQuestion: "незрелый",
         before: false,
@@ -2462,29 +1851,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 222,
-        videoFile: video23,
-        rusQuestion: "попасть в пробку",
-        before: false,
-        border: false,
-        engDescription: "the expression means that in the course of your journey you encountered congestion and delays as the road was very busy with other road users.",
-        answer: "hit traffic",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 221,
-        videoFile: video22,
-        rusQuestion: "Для тебя есть мелкий шрифт",
-        before: false,
-        border: false,
-        engDescription: "The term usually refers to the small text in contracts that people typically sign when signing up for something",
-        answer: "there's some fine print for you",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 220,
+        id: 24,
         videoFile: video21,
         rusQuestion: "напыщенный",
         before: false,
@@ -2495,40 +1862,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 219,
-        videoFile: video20,
-        rusQuestion: "Загородный клуб",
-        before: false,
-        border: false,
-        engDescription: "a sports or social organization based in the countryside, often one that only allows people to become members if they have enough money or a high social position",
-        answer: "country club",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 218,
-        videoFile: video19,
-        rusQuestion: "он же",
-        before: false,
-        border: false,
-        engDescription: "abbreviation for also known as: used when someone has another name:",
-        answer: "aka",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 217,
-        videoFile: video19,
-        rusQuestion: "он же",
-        before: false,
-        border: false,
-        engDescription: "abbreviation for also known as: used when someone has another name:",
-        answer: "aka",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 216,
+        id: 23,
         videoFile: video18,
         rusQuestion: "бал",
         before: false,
@@ -2539,29 +1873,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 215,
-        videoFile: video17,
-        rusQuestion: "настоящим , сим",
-        before: false,
-        border: false,
-        engDescription: "with these words or with this action:  by this statement, action, or law:",
-        answer: "hereby",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 214,
-        videoFile: video17,
-        rusQuestion: "вызванный",
-        before: false,
-        border: false,
-        engDescription: "an official demand to appear in a court of law:   an order to come and see someone:  to order someone to come to a person or place:",
-        answer: "summoned",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 213,
+        id: 22,
         videoFile: video16,
         rusQuestion: "подлый , мошеннически",
         before: false,
@@ -2572,7 +1884,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 212,
+        id: 21,
         videoFile: video15,
         rusQuestion: "приятное зрелище, больной , болячка , Взгляд усталых глаз",
         before: false,
@@ -2583,18 +1895,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 211,
-        videoFile: video14,
-        rusQuestion: "петь",
-        before: false,
-        border: false,
-        engDescription: "to sing or play a musical instrument very loudly:",
-        answer: "belting out",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 210,
+        id: 20,
         videoFile: video13,
         rusQuestion: "излечивать",
         before: false,
@@ -2605,7 +1906,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 209,
+        id: 19,
         videoFile: video12,
         rusQuestion: "паутинка",
         before: false,
@@ -2616,7 +1917,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 208,
+        id: 18,
         videoFile: video11,
         rusQuestion: "страшное",
         before: false,
@@ -2627,7 +1928,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 207,
+        id: 17,
         videoFile: video10,
         rusQuestion: "конечность",
         before: false,
@@ -2638,7 +1939,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 206,
+        id: 16,
         videoFile: video9,
         rusQuestion: "палящий , обжигающий",
         before: false,
@@ -2649,7 +1950,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 205,
+        id: 15,
         videoFile: video8,
         rusQuestion: "очень горячий",
         before: false,
@@ -2660,7 +1961,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 204,
+        id: 14,
         videoFile: video7,
         rusQuestion: "опасный",
         before: false,
@@ -2671,7 +1972,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 203,
+        id: 13,
         videoFile: video6,
         rusQuestion: "просить , искать",
         before: false,
@@ -2682,7 +1983,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 202,
+        id: 12,
         videoFile: video5,
         rusQuestion: "овладевать",
         before: false,
@@ -2693,7 +1994,7 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 201,
+        id: 11,
         videoFile: video4,
         rusQuestion: "по всему , повсюду",
         before: false,
@@ -2707,87 +2008,6 @@ import video281 from "../../assets4_Wendesday/video281.mp4"
        
 ]
 
-const spare_data = [
-    {
-        id: 427,
-        videoFile: video205,
-        rusQuestion: "зашитый",
-        before: false,
-        border: false,
-        engDescription: "a piece of thread sewn in cloth, or the single movement of a needle and thread into and out of the cloth that produces this:",
-        answer: "stitched shut",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 426,
-        videoFile: video199,
-        rusQuestion: "выскальзывать",
-        before: false,
-        border: false,
-        engDescription: "to go somewhere quietly because you do not want anyone to hear you",
-        answer: "sneak out",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 425,
-        videoFile: video214,
-        rusQuestion: "предосторожность",
-        before: false,
-        border: false,
-        engDescription: "an action that is done to prevent something unpleasant or dangerous happening:",
-        answer: "precaution",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 424,
-        videoFile: video213,
-        rusQuestion: "тушеное мясо",
-        before: false,
-        border: false,
-        engDescription: "a type of food consisting usually of meat or fish and vegetables cooked slowly in a small amount of liquid:",
-        answer: "stew",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 423,
-        videoFile: video212,
-        rusQuestion: "загар",
-        before: false,
-        border: false,
-        engDescription: "brown skin caused by being in the sun:",
-        answer: "tan",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 422,
-        videoFile: video211,
-        rusQuestion: "точно",
-        before: false,
-        border: false,
-        engDescription: "exactly right:",
-        answer: "spot on",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 421,
-        videoFile: video210,
-        rusQuestion: "бежать по холмам",
-        before: false,
-        border: false,
-        engDescription: "to be extremely unwilling to be involved in something, and to avoid it:",
-        answer: "run for the hills",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    
-       
-]
 const pets = [
     {
         id: 490,
@@ -3495,60 +2715,281 @@ const pets = [
         color: "rgb(43, 198, 226)",
     },   
 ]
-const Wednesday = [
+const vegas = [
     {
-        id: 495,
+        id: 193,
+        videoFile: video301,
+        rusQuestion: "шалава",
+        before: false,
+        border: false,
+        engDescription: "",
+        answer: "skank",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 192,
+        videoFile: video301,
+        rusQuestion: "шалава",
+        before: false,
+        border: false,
+        engDescription: "an unpleasant person, especially a woman who has sex with a lot of different people",
+        answer: "skank",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 191,
+        videoFile: video300,
+        rusQuestion: "удобства , удовольствия",
+        before: false,
+        border: false,
+        engDescription: "something, such as a swimming pool or shopping centre, that is intended to make life more pleasant or comfortable for the people in a town, hotel, or other place:",
+        answer: "amenities",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 190,
+        videoFile: video299,
+        rusQuestion: "люкс",
+        before: false,
+        border: false,
+        engDescription: "a set of connected rooms, especially in a hotel:",
+        answer: "suite",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 189,
+        videoFile: video298,
+        rusQuestion: "враждебный",
+        before: false,
+        border: false,
+        engDescription: "unfriendly and not liking something:",
+        answer: "hostile",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 188,
+        videoFile: video297,
+        rusQuestion: "в конце концов",
+        before: false,
+        border: false,
+        engDescription: "in the end, especially after a long time or a lot of effort, problems, etc.:",
+        answer: "eventually",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 187,
+        videoFile: video296,
+        rusQuestion: "обновление , подъем",
+        before: false,
+        border: false,
+        engDescription: "to improve the quality or usefulness of something, or change it for something newer or of a better standard:",
+        answer: "upgrade",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 186,
+        videoFile: video295,
+        rusQuestion: "жених",
+        before: false,
+        border: false,
+        engDescription: "the man who someone is engaged to be married to:",
+        answer: "fiance",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 185,
+        videoFile: video294,
+        rusQuestion: "потерпите нас",
+        before: false,
+        border: false,
+        engDescription: "to be patient with someone or something:",
+        answer: "bear with us",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 185,
+        videoFile: video293,
+        rusQuestion: "беззаботный",
+        before: false,
+        border: false,
+        engDescription: "having no problems or not being worried about anything:",
+        answer: "carefree",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 184,
+        videoFile: video292,
+        rusQuestion: "извлечь из этого выгоду , превращать в капитал",
+        before: false,
+        border: false,
+        engDescription: "to use a situation to your own advantage:",
+        answer: "capitalize on",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 183,
+        videoFile: video291,
+        rusQuestion: "по дороге",
+        before: false,
+        border: false,
+        engDescription: "while they were coming to that spot",
+        answer: "on the way over",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 182,
+        videoFile: video290,
+        rusQuestion: "корчится",
+        before: false,
+        border: false,
+        engDescription: "to make twisting movements with the body, esp. because you are feeling strong emotion:",
+        answer: "writhing",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 181,
+        videoFile: video289,
+        rusQuestion: "он перевернется",
+        before: false,
+        border: false,
+        engDescription: "to fall over suddenly: If a boat keels over, it turns upside down in the water:",
+        answer: "keel over",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 180,
+        videoFile: video288,
+        rusQuestion: "в последнее время",
+        before: false,
+        border: false,
+        engDescription: "Lately; recently.",
+        answer: "as of late",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 179,
+        videoFile: video287,
+        rusQuestion: "бескорыстный",
+        before: false,
+        border: false,
+        engDescription: "caring more for what other people need and want rather than for what you yourself need and want:",
+        answer: "selfless",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 178,
+        videoFile: video286,
+        rusQuestion: "переборщить",
+        before: false,
+        border: false,
+        engDescription: "to do something too much, or to be too excited or eager about something:",
+        answer: "go overboard",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 177,
+        videoFile: video285,
+        rusQuestion: "перерезать шнур , веревка",
+        before: false,
+        border: false,
+        engDescription: "to end a connection with someone Source: theidioms.com , to do something that makes one independent Source: theidioms.com",
+        answer: "cut the cord",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 176,
+        videoFile: video284,
+        rusQuestion: "талоны на питание",
+        before: false,
+        border: false,
+        engDescription: "a piece of paper that is given to poor people by the government and with which they can then buy food",
+        answer: "food stamp",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 175,
+        videoFile: video283,
+        rusQuestion: "душа компании",
+        before: false,
+        border: false,
+        engDescription: "someone who is energetic and funny and at the centre of activity during social occasions",
+        answer: "life of the party",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 174,
+        videoFile: video282,
+        rusQuestion: "без рубашки",
+        before: false,
+        border: false,
+        engDescription: "the one who is not wearing a shirt",
+        answer: "shirtless",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 173,
         videoFile: video281,
-        rusQuestion: "хладнокровный",
+        rusQuestion: "распутная",
         before: false,
         border: false,
-        engDescription: "to deliberately ignore someone in an unfriendly way:  an unfriendly attitude shown to someone or something, especially by intentionally ignoring or showing no interest in them:",
-        answer: "cold shoulder",
+        engDescription: "looking like or relating to a person, especially a woman, who has a lot of sexual relationships without any emotional involvement:",
+        answer: "slutty",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 494,
+        id: 172,
         videoFile: video280,
-        rusQuestion: "мучили видения",
+        rusQuestion: "установка",
         before: false,
         border: false,
-        engDescription: "to cause worry, pain, or difficulty to someone or something over a period of time:",
-        answer: "plagued by visions",
+        engDescription: "the time and the place in which the action of a book, film, play, etc. happens:",
+        answer: "setting",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 493,
+        id: 171,
         videoFile: video279,
-        rusQuestion: "недофинансированный",
+        rusQuestion: "темп",
         before: false,
         border: false,
-        engDescription: "receiving less money than is needed to continue or to work effectively:",
-        answer: "underfunded",
+        engDescription: "the speed at which someone or something moves, or with which something happens or changes:",
+        answer: "pace",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 492,
-        videoFile: video279,
-        rusQuestion: "подростки",
-        before: false,
-        border: false,
-        engDescription: "a young person who is developing into an adult",
-        answer: "adolescent",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 491,
+        id: 170,
         videoFile: video278,
-        rusQuestion: "извращенная идея",
+        rusQuestion: "росток",
         before: false,
         border: false,
-        engDescription: " a concept that someone has come up with that is unusual or seems to contradict itself in some way.",
-        answer: "twisted idea",
+        engDescription: "to produce leaves, hair, or other new developing parts, or (of leaves, hair, and other developing parts) to begin to grow:",
+        answer: "sprout",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
-    },
+    }, 
 ]
+

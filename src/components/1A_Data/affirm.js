@@ -11,7 +11,7 @@ import aff10 from "../../assets_affirmation/affirmation10.mp4"
 
 export const affirm_data = [
     {
-        id: 5009,
+        id: 1,
         videoFile: aff1,
         rusQuestion: "1",
         before: false,
@@ -22,7 +22,7 @@ export const affirm_data = [
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 5008,
+        id: 2,
         videoFile: aff2,
         rusQuestion: "2",
         before: false,
@@ -33,7 +33,7 @@ export const affirm_data = [
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 5007,
+        id: 3,
         videoFile: aff3,
         rusQuestion: "3",
         before: false,
@@ -44,7 +44,7 @@ export const affirm_data = [
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 5006,
+        id: 4,
         videoFile: aff4,
         rusQuestion: "4",
         before: false,
@@ -55,7 +55,7 @@ export const affirm_data = [
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 5005,
+        id: 5,
         videoFile: aff5,
         rusQuestion: "5",
         before: false,
@@ -66,7 +66,7 @@ export const affirm_data = [
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 5004,
+        id: 6,
         videoFile: aff6,
         rusQuestion: "6",
         before: false,
@@ -77,7 +77,7 @@ export const affirm_data = [
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 5003,
+        id: 7,
         videoFile: aff7,
         rusQuestion: "7",
         before: false,
@@ -88,7 +88,7 @@ export const affirm_data = [
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 5002,
+        id: 8,
         videoFile: aff8,
         rusQuestion: "8",
         before: false,
@@ -99,7 +99,7 @@ export const affirm_data = [
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 5001,
+        id: 9,
         videoFile: aff9,
         rusQuestion: "9",
         before: false,
@@ -110,7 +110,7 @@ export const affirm_data = [
         color: "rgb(43, 198, 226)",
     },
     {
-        id: 5000,
+        id: 10,
         videoFile: aff10,
         rusQuestion: "10",
         before: false,
