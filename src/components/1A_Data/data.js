@@ -277,11 +277,19 @@ import video339 from "../../4vegas/vegas339.mp4"
 import video340 from "../../4vegas/vegas340.mp4"
 import video341 from "../../4vegas/vegas341.mp4"
 import video342 from "../../4vegas/vegas342.mp4"
-
-
-
-
-
+import video343 from "../../4vegas/vegas343.mp4"
+import video344 from "../../4vegas/vegas344.mp4"
+import video345 from "../../4vegas/vegas345.mp4"
+import video346 from "../../4vegas/vegas346.mp4"
+import video347 from "../../4vegas/vegas347.mp4"
+import video348 from "../../4vegas/vegas348.mp4"
+import video349 from "../../4vegas/vegas349.mp4"
+import video350 from "../../4vegas/vegas350.mp4"
+import video351 from "../../4vegas/vegas351.mp4"
+import video352 from "../../4vegas/vegas352.mp4"
+import video353 from "../../4vegas/vegas353.mp4"
+import video354 from "../../4vegas/vegas354.mp4"
+import video355 from "../../4vegas/vegas355.mp4"
 
 
  export const new_data = [
@@ -2758,13 +2766,145 @@ const pets = [
 ]
 const vegas = [
     {
-        id: 237,
-        videoFile: video342,
-        rusQuestion: "кекс",
+        id: 248,
+        videoFile: video355,
+        rusQuestion: "сосуществовать",
         before: false,
         border: false,
-        engDescription: "",
-        answer: "muffin",
+        engDescription: "to live or exist together at the same time or in the same place:",
+        answer: "coexist",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 248,
+        videoFile: video354,
+        rusQuestion: "аромат , вкус",
+        before: false,
+        border: false,
+        engDescription: "the particular way a substance, esp. food or drink, is recognized from its taste and smell:",
+        answer: "flavor",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 247,
+        videoFile: video353,
+        rusQuestion: "начинка",
+        before: false,
+        border: false,
+        engDescription: "a substance, especially a sauce or pieces of food, that is put on top of other food to give extra flavour and to make it look attractive:",
+        answer: "topping",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 246,
+        videoFile: video352,
+        rusQuestion: "пятна",
+        before: false,
+        border: false,
+        engDescription: "a dirty mark on something that is difficult to remove:",
+        answer: "stains",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 245,
+        videoFile: video351,
+        rusQuestion: "отталкивать",
+        before: false,
+        border: false,
+        engDescription: "the act of pushing someone or something unwanted away or of refusing him, her, or it",
+        answer: "repulse",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 244,
+        videoFile: video350,
+        rusQuestion: "подчиненный",
+        before: false,
+        border: false,
+        engDescription: "having a lower or less important position:",
+        answer: "subordinate",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 243,
+        videoFile: video349,
+        rusQuestion: "лучший пистолет",
+        before: false,
+        border: false,
+        engDescription: "the most important or powerful person in a particular sphere.",
+        answer: "top gun",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 242,
+        videoFile: video348,
+        rusQuestion: "доступный всякому желающему",
+        before: false,
+        border: false,
+        engDescription: "available and ready to be won or taken:",
+        answer: "up for grabs",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 241,
+        videoFile: video347,
+        rusQuestion: "умственно отсталый",
+        before: false,
+        border: false,
+        engDescription: "a word used to describe a person with a learning disability (= a condition that can have an effect on someone's ability to learn easily), which was used by doctors in the past but is now extremely offensive",
+        answer: "retarded",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 240,
+        videoFile: video346,
+        rusQuestion: "фиолетовый бюстгальтер",
+        before: false,
+        border: false,
+        engDescription: "a piece of women's underwear that supports the breasts",
+        answer: "purple bra",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 239,
+        videoFile: video345,
+        rusQuestion: "кружева",
+        before: false,
+        border: false,
+        engDescription: "a decorative cloth made by twisting thin thread in delicate patterns with holes in them:",
+        answer: "lace",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 238,
+        videoFile: video344,
+        rusQuestion: "диван",
+        before: false,
+        border: false,
+        engDescription: "a sofa",
+        answer: "couch",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+    },
+    {
+        id: 237,
+        videoFile: video343,
+        rusQuestion: "смириться , терпеть",
+        before: false,
+        border: false,
+        engDescription: "to be willing to accept someone or something that is unpleasant or not desirable:",
+        answer: "put up with",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
     },
