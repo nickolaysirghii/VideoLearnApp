@@ -1,7 +1,7 @@
 import React from 'react'
 import "./checkText.css";
 import { useDispatch , useSelector } from 'react-redux';
-import { ispravitiSlovo } from '../../ReduxStore/Slices/theMainSlice';
+
 
 const CheckText = () => {
   const dispatcher = useDispatch();
