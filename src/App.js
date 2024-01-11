@@ -1,12 +1,13 @@
 
 import './App.css';
 import MainAria from './components/mainAria/MainAria';
+import AlgoTest from './components/AlgoTest/AlgoTest';
 import { new_data } from './components/1A_Data/data';
 
 
 function App() {
   
-  const twist1 = (arr)=>{
+ const twist1 = (arr)=>{
   const shaffle = (goInto)=>{
     const a = [...goInto] ;
     for (let i = a.length - 1; i > 0; i--) {
@@ -34,6 +35,7 @@ function App() {
  
   return (
     <div  className="App">
+      {/* <AlgoTest /> */}
       <MainAria />
      </div>
   );
