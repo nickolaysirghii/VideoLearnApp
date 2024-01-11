@@ -35,8 +35,8 @@ function App() {
  
   return (
     <div  className="App">
-      {/* <AlgoTest /> */}
-      <MainAria />
+      <AlgoTest />
+      {/* <MainAria /> */}
      </div>
   );
 }

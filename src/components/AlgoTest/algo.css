@@ -8,7 +8,7 @@
     position: relative;
 }
 .agoCon{
-    width: 1270px;
+    width: 1300px;
     height: 500px;
     border: 1px solid black;
     display: flex;
@@ -33,6 +33,29 @@
     border: 1px solid black;
     position: absolute;
     top: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap:1px
+}
+.fourOut{
+    width: 300px;
+    height: 100px;
+    border: 1px solid black;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap:1px
+
+}
+.sevenOut{
+    width: 300px;
+    height: 100px;
+    border: 1px solid black;
+    position: absolute;
+    top: 0;
+    right: 0;
     display: flex;
     flex-wrap: wrap;
     gap:1px
