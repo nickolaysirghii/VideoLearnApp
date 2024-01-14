@@ -11,7 +11,8 @@ const v = [{
   engDescription: "No description for first Item from first step.",
   answer: "start",
   myAnswer: "start",
-  color: "rgb(11, 111, 111)"
+  color: "rgb(11, 111, 111)",
+  timeGo: 4000,
 },
 {
   id: 2000,
@@ -20,7 +21,8 @@ const v = [{
   engDescription: "No description for first Item from second step.",
   answer: "start",
   myAnswer: "start",
-  color: "rgb(11, 111, 111)"
+  color: "rgb(11, 111, 111)",
+  timeGo: 4000,
 },{
   id: 3000,
     videoFile:  thirdStep,
@@ -29,6 +31,7 @@ const v = [{
     answer: "start",
     myAnswer: "start",
     color: "rgb(11, 111, 111)",
+    timeGo: 4000,
     
 }];
 
@@ -267,6 +270,10 @@ export const mainSlice = createSlice({
     startProcess: (state)=>{
       state.startLearning = true;
     },
+    deleteBelow: (state , action)=>{
+      state.dataStatistic =
+       state.dataStatistic.filter(elem=>elem.id !== action.payload)
+    }
    
      
     }, 
@@ -279,5 +286,5 @@ export const mainSlice = createSlice({
     
 
 );
-export const { startProcess , getIdxArray , newProcess , newProcess2 , newProcess3 , pointBorder , ispravitiSlovo , workingTarget , process , process2 , process3 , workingArrays} = mainSlice.actions;
+export const {deleteBelow , startProcess , getIdxArray , newProcess , newProcess2 , newProcess3 , pointBorder , ispravitiSlovo , workingTarget , process , process2 , process3 , workingArrays} = mainSlice.actions;
 export default mainSlice.reducer;

@@ -304,7 +304,9 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 400,
         getHight: 1
+
     },
     {
         id: 269,
@@ -317,6 +319,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 7000,
         getHight: 1
     },
     {
@@ -330,6 +333,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -343,6 +347,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -356,6 +361,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -369,6 +375,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -382,6 +389,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -395,6 +403,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -408,6 +417,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -421,6 +431,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -434,6 +445,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -447,6 +459,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -460,6 +473,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -473,6 +487,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -486,6 +501,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -499,6 +515,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -512,6 +529,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -525,6 +543,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -538,6 +557,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -551,6 +571,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -564,6 +585,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -577,6 +599,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -590,6 +613,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -603,6 +627,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -616,6 +641,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -629,6 +655,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -642,6 +669,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -655,6 +683,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -668,6 +697,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -681,6 +711,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -694,6 +725,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -707,6 +739,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -720,6 +753,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -733,6 +767,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -746,6 +781,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -759,6 +795,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -772,6 +809,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -785,6 +823,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -798,6 +837,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -811,6 +851,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -824,6 +865,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -837,6 +879,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -850,6 +893,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -863,6 +907,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -876,6 +921,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -889,6 +935,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -902,6 +949,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -915,6 +963,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -928,6 +977,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -941,6 +991,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -954,6 +1005,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -967,6 +1019,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -980,6 +1033,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -993,6 +1047,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1006,6 +1061,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1019,6 +1075,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1032,6 +1089,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1045,6 +1103,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1058,6 +1117,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1071,6 +1131,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1084,6 +1145,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1097,6 +1159,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1110,6 +1173,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1123,6 +1187,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1136,6 +1201,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1149,6 +1215,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1162,6 +1229,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1175,6 +1243,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1188,6 +1257,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1201,6 +1271,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1214,6 +1285,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1227,6 +1299,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1240,6 +1313,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1253,6 +1327,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1266,6 +1341,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1279,6 +1355,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1292,6 +1369,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1305,6 +1383,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1318,6 +1397,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1331,6 +1411,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1344,6 +1425,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1357,6 +1439,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1370,6 +1453,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1383,6 +1467,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1396,6 +1481,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1409,6 +1495,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1422,6 +1509,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1435,6 +1523,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1448,6 +1537,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1461,6 +1551,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1474,6 +1565,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1487,6 +1579,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1500,6 +1593,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1513,6 +1607,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1526,6 +1621,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1539,6 +1635,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1552,6 +1649,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1565,6 +1663,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     }, 
     {
@@ -1578,6 +1677,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1591,6 +1691,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1604,6 +1705,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1617,6 +1719,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1630,6 +1733,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1643,6 +1747,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1656,6 +1761,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1669,6 +1775,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1682,6 +1789,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1695,6 +1803,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1708,6 +1817,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1721,6 +1831,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1734,6 +1845,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1747,6 +1859,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1760,6 +1873,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1773,6 +1887,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1786,6 +1901,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1799,6 +1915,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1812,6 +1929,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1825,6 +1943,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1838,6 +1957,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1851,6 +1971,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1864,6 +1985,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1877,6 +1999,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1890,6 +2013,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1903,6 +2027,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1916,6 +2041,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1929,6 +2055,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1942,6 +2069,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1955,6 +2083,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1968,6 +2097,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1981,6 +2111,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -1994,6 +2125,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2007,6 +2139,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2020,6 +2153,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2033,6 +2167,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2046,6 +2181,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2059,6 +2195,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2072,6 +2209,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2085,6 +2223,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2098,6 +2237,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2111,6 +2251,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2124,6 +2265,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2137,6 +2279,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2150,6 +2293,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2163,6 +2307,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2176,6 +2321,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2189,6 +2335,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2202,6 +2349,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2215,6 +2363,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2228,6 +2377,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2241,6 +2391,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2254,6 +2405,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2267,6 +2419,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2280,6 +2433,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2293,6 +2447,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2306,6 +2461,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2319,6 +2475,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2332,6 +2489,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2345,6 +2503,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2358,6 +2517,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2371,6 +2531,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2384,6 +2545,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },  
     {
@@ -2397,6 +2559,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2410,6 +2573,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2423,6 +2587,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2436,6 +2601,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2449,6 +2615,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2462,6 +2629,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2475,6 +2643,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2488,6 +2657,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2501,6 +2671,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2514,6 +2685,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2527,6 +2699,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2540,6 +2713,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2553,6 +2727,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2566,6 +2741,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2579,6 +2755,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     }, 
     {
@@ -2592,6 +2769,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2605,6 +2783,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2618,6 +2797,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2631,6 +2811,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2644,6 +2825,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2657,6 +2839,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2670,6 +2853,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2683,6 +2867,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2696,6 +2881,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2709,6 +2895,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2722,6 +2909,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2735,6 +2923,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2748,6 +2937,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2761,6 +2951,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2774,6 +2965,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2787,6 +2979,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2800,6 +2993,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2813,6 +3007,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2826,6 +3021,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2839,6 +3035,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2852,6 +3049,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2865,6 +3063,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2878,6 +3077,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2891,6 +3091,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2904,6 +3105,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2917,6 +3119,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2930,6 +3133,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2943,6 +3147,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2956,6 +3161,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2969,6 +3175,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2982,6 +3189,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -2995,6 +3203,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3008,6 +3217,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3021,6 +3231,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3034,6 +3245,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3047,6 +3259,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3060,6 +3273,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3073,6 +3287,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3086,6 +3301,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3099,6 +3315,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3112,6 +3329,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3125,6 +3343,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3138,6 +3357,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3151,6 +3371,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3164,6 +3385,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3177,6 +3399,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3190,6 +3413,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3203,6 +3427,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3216,6 +3441,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3229,6 +3455,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3242,6 +3469,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3255,6 +3483,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3268,6 +3497,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3281,6 +3511,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3294,6 +3525,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3307,6 +3539,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3320,6 +3553,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3333,6 +3567,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3346,6 +3581,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3359,6 +3595,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3372,6 +3609,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3385,6 +3623,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3398,6 +3637,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3411,6 +3651,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3424,6 +3665,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3437,6 +3679,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3450,6 +3693,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
      {
@@ -3463,6 +3707,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3476,6 +3721,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3489,6 +3735,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3502,6 +3749,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3515,6 +3763,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3528,6 +3777,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3541,6 +3791,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3554,6 +3805,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3567,6 +3819,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3580,6 +3833,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3593,6 +3847,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3606,6 +3861,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3619,6 +3875,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3632,6 +3889,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3645,6 +3903,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3658,6 +3917,7 @@ import video355 from "../../4vegas/vegas355.mp4"
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     }
     
@@ -3678,6 +3938,7 @@ const vegas = [
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3691,6 +3952,7 @@ const vegas = [
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3704,6 +3966,7 @@ const vegas = [
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3717,6 +3980,7 @@ const vegas = [
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3730,6 +3994,7 @@ const vegas = [
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3743,6 +4008,7 @@ const vegas = [
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3756,6 +4022,7 @@ const vegas = [
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3769,6 +4036,7 @@ const vegas = [
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3782,6 +4050,7 @@ const vegas = [
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3795,6 +4064,7 @@ const vegas = [
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3808,6 +4078,7 @@ const vegas = [
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3821,6 +4092,7 @@ const vegas = [
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3834,6 +4106,7 @@ const vegas = [
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3847,6 +4120,7 @@ const vegas = [
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3860,6 +4134,7 @@ const vegas = [
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3873,6 +4148,7 @@ const vegas = [
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3886,6 +4162,7 @@ const vegas = [
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3899,6 +4176,7 @@ const vegas = [
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3912,6 +4190,7 @@ const vegas = [
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3925,6 +4204,7 @@ const vegas = [
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3938,6 +4218,7 @@ const vegas = [
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3951,6 +4232,7 @@ const vegas = [
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3964,6 +4246,7 @@ const vegas = [
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3977,6 +4260,7 @@ const vegas = [
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -3990,6 +4274,7 @@ const vegas = [
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -4003,6 +4288,7 @@ const vegas = [
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -4016,6 +4302,7 @@ const vegas = [
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -4029,6 +4316,7 @@ const vegas = [
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -4042,6 +4330,7 @@ const vegas = [
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -4055,6 +4344,7 @@ const vegas = [
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -4068,6 +4358,7 @@ const vegas = [
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -4081,6 +4372,7 @@ const vegas = [
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -4094,6 +4386,7 @@ const vegas = [
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -4107,6 +4400,7 @@ const vegas = [
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -4120,6 +4414,7 @@ const vegas = [
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -4133,6 +4428,7 @@ const vegas = [
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -4146,6 +4442,7 @@ const vegas = [
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -4159,6 +4456,7 @@ const vegas = [
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -4172,6 +4470,7 @@ const vegas = [
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -4185,6 +4484,7 @@ const vegas = [
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -4198,6 +4498,7 @@ const vegas = [
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -4211,6 +4512,7 @@ const vegas = [
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -4224,6 +4526,7 @@ const vegas = [
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -4237,6 +4540,7 @@ const vegas = [
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     {
@@ -4250,6 +4554,7 @@ const vegas = [
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
+        timeGo: 4000,
         getHight: 1
     },
     

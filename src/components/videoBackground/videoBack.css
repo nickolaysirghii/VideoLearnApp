@@ -74,6 +74,14 @@
     gap: 1px;
 }
 .statistic{
-    width: 2px;
-    height: 10px;
+    width: 3px;
+    font-size: 1px;
+    cursor: pointer;
+}
+.statistic:hover{
+    width: 16px;
+    font-size: 10px;
+    color: white;
+    font-weight: 900;
+    cursor: pointer;
 }

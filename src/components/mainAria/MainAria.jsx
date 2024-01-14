@@ -12,9 +12,9 @@ import { affirm_data } from '../1A_Data/affirm';
 const MainAria = () => {
   const [open , setOpen] = useState(false);
   
-  const { first , second , third , countStep , targetIndex , rightDependency , startLearning , dataStatistic } = useSelector(state => state.mainData);
+  const { first , second , third , countStep , targetIndex , IndexBefore , rightDependency , startLearning , dataStatistic } = useSelector(state => state.mainData);
   const oak = [0,first , second , third , first];
-  const a = [oak[countStep][targetIndex].engDescription , oak[countStep][targetIndex].rusQuestion ]
+  const a = [oak[countStep][targetIndex].engDescription , oak[countStep][targetIndex].rusQuestion , oak[countStep][IndexBefore].timeGo ]
   
  
   const dispacher = useDispatch();
@@ -33,8 +33,9 @@ const MainAria = () => {
           elem.getHight = stor[elem.id]
         }else{
           stor[elem.id] = 1
+          localStorage.setItem('englishMemory', JSON.stringify(stor));
         }
-        if(elem.getHight > 5){
+        if(elem.getHight > 3){
           elem.color = "pink"
         }
         })
@@ -174,39 +175,47 @@ const MainAria = () => {
 
  useEffect(()=>{sorok()},[]);
  useEffect(()=>{dispacher(workingTarget())},[]);
- 
  function setVariableTrueThenFalse() {
   setOpen(true);
   setTimeout(function() {
     setOpen(false);
-  }, 5000); 
+  }, a[2]); 
 }
   useMemo(()=>{setVariableTrueThenFalse();},[rightDependency])
 
-  const newArray = [1,2,3]
+  
 
 
-  const shoveInStorage = ()=>{
-    let inoBox = {};
+  // const shoveInStorage = ()=>{
+  //   let inoBox = {};
+
+  //   if(localStorage.getItem('englishMemory')){
+  //     dataStatistic.forEach((elem)=>{
+  //     inoBox[elem.id] = elem.getHight;
+  //     })
+  //     localStorage.setItem('englishMemory', JSON.stringify(inoBox));
+  //   }else{
+  //   dataStatistic.forEach((elem)=>{
+  //   inoBox[elem.id] = elem.getHight;
+  //   })
+  //   localStorage.setItem('englishMemory', JSON.stringify(inoBox));
+  //   }
+  // }
+ if(countStep === 4){
+  let inoBox = {};
 
     if(localStorage.getItem('englishMemory')){
-      const fff = JSON.parse(localStorage.getItem('englishMemory'))
       dataStatistic.forEach((elem)=>{
-        
-          inoBox[elem.id] = elem.getHight;
-        
+      inoBox[elem.id] = elem.getHight;
       })
       localStorage.setItem('englishMemory', JSON.stringify(inoBox));
     }else{
-      
-      dataStatistic.forEach((elem)=>{
-        inoBox[elem.id] = elem.getHight;
-    
-      })
-      localStorage.setItem('englishMemory', JSON.stringify(inoBox));
+    dataStatistic.forEach((elem)=>{
+    inoBox[elem.id] = elem.getHight;
+    })
+    localStorage.setItem('englishMemory', JSON.stringify(inoBox));
     }
-  }
- 
+ }
 
 
   return (
@@ -220,7 +229,6 @@ const MainAria = () => {
         </div>
       </div>
       <div onClick={()=>{dispacher(startProcess())}} className={startLearning ? "buttonHiden" : 'startButton'}>Ok</div>
-      <div onClick={shoveInStorage} className={startLearning ? 'startButton2' : "buttonHiden2"}>sort</div>
     </div>
   )
 }

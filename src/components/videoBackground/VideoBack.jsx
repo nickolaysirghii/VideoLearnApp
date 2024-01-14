@@ -2,7 +2,7 @@ import React ,{useEffect , useRef , useMemo}  from 'react';
 import { useSelector , useDispatch } from 'react-redux';
 import "./videoBack.css";
 import CheckText from '../checkText/CheckText';
-import { newProcess , newProcess2 , newProcess3 } from '../../ReduxStore/Slices/theMainSlice';
+import { newProcess , newProcess2 , newProcess3 , deleteBelow } from '../../ReduxStore/Slices/theMainSlice';
 
 const VideoBack = () => {
   const videoRef = useRef(null);
@@ -33,10 +33,12 @@ const VideoBack = () => {
       clearTimeout(timeoutId);
     };
   }, [rightDependency]);
-  const deleteOUtdate = (theId)=>{
+  const deleteOUtdate = (theId , iks)=>{
     const stor = JSON.parse(localStorage.getItem('englishMemory'));
     delete stor[theId];
     localStorage.setItem('englishMemory', JSON.stringify(stor));
+    dispatcher(deleteBelow(theId))
+    console.log(iks)
   }
  
   return (
@@ -55,8 +57,8 @@ const VideoBack = () => {
             <div className='seeWhich'>
               {
                 dataStatistic.map((el,ix) => {
-                  return <div onClick={()=>deleteOUtdate(el.id)} key={ix} className='statistic' style={{backgroundColor:el.color,
-                  height: `${el.getHight}vw`}}></div>
+                  return <div onClick={()=>deleteOUtdate(el.id , ix)} key={ix} className='statistic' style={{backgroundColor:el.color,
+                  height: `${el.getHight}vw`}}>{el.id}</div>
                 })
               }
             </div>
