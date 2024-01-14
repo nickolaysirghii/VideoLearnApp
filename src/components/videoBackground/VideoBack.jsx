@@ -33,6 +33,11 @@ const VideoBack = () => {
       clearTimeout(timeoutId);
     };
   }, [rightDependency]);
+  const deleteOUtdate = (theId)=>{
+    const stor = JSON.parse(localStorage.getItem('englishMemory'));
+    delete stor[theId];
+    localStorage.setItem('englishMemory', JSON.stringify(stor));
+  }
  
   return (
     <div className='videoBack'>
@@ -50,8 +55,8 @@ const VideoBack = () => {
             <div className='seeWhich'>
               {
                 dataStatistic.map((el,ix) => {
-                  return <div key={ix} className='statistic' style={{backgroundColor:el.color,
-                  height: `${el.getHight}px`}}></div>
+                  return <div onClick={()=>deleteOUtdate(el.id)} key={ix} className='statistic' style={{backgroundColor:el.color,
+                  height: `${el.getHight}vw`}}></div>
                 })
               }
             </div>

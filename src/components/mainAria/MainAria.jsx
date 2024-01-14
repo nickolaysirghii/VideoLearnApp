@@ -12,48 +12,35 @@ import { affirm_data } from '../1A_Data/affirm';
 const MainAria = () => {
   const [open , setOpen] = useState(false);
   
-  const { first , second , third , countStep , targetIndex , rightDependency,startLearning } = useSelector(state => state.mainData);
+  const { first , second , third , countStep , targetIndex , rightDependency , startLearning , dataStatistic } = useSelector(state => state.mainData);
   const oak = [0,first , second , third , first];
   const a = [oak[countStep][targetIndex].engDescription , oak[countStep][targetIndex].rusQuestion ]
   
  
   const dispacher = useDispatch();
 
- const newArray = [1,2,3]
+ 
   const sorok = ()=>{
-   
-
-    if(localStorage.getItem('myArray')){
-      console.log("exists")
-    }else{
-      localStorage.setItem('myArray', JSON.stringify(newArray));
-    }
-    
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    const stor = JSON.parse(localStorage.getItem('englishMemory'));
     const send = new_data.map((item,idx) => {
       const newItem = {...item};
       newItem.getIdx = idx;
       return newItem;
     });
+    if(localStorage.getItem('englishMemory')){
+      send.forEach((elem)=>{
+        if(stor[elem.id]){
+          elem.getHight = stor[elem.id]
+        }else{
+          stor[elem.id] = 1
+        }
+        if(elem.getHight > 5){
+          elem.color = "pink"
+        }
+        })
+    }
+    
+
    dispacher(getIdxArray(send))
  
     const a = [
@@ -195,6 +182,30 @@ const MainAria = () => {
   }, 5000); 
 }
   useMemo(()=>{setVariableTrueThenFalse();},[rightDependency])
+
+  const newArray = [1,2,3]
+
+
+  const shoveInStorage = ()=>{
+    let inoBox = {};
+
+    if(localStorage.getItem('englishMemory')){
+      const fff = JSON.parse(localStorage.getItem('englishMemory'))
+      dataStatistic.forEach((elem)=>{
+        
+          inoBox[elem.id] = elem.getHight;
+        
+      })
+      localStorage.setItem('englishMemory', JSON.stringify(inoBox));
+    }else{
+      
+      dataStatistic.forEach((elem)=>{
+        inoBox[elem.id] = elem.getHight;
+    
+      })
+      localStorage.setItem('englishMemory', JSON.stringify(inoBox));
+    }
+  }
  
 
 
@@ -209,6 +220,7 @@ const MainAria = () => {
         </div>
       </div>
       <div onClick={()=>{dispacher(startProcess())}} className={startLearning ? "buttonHiden" : 'startButton'}>Ok</div>
+      <div onClick={shoveInStorage} className={startLearning ? 'startButton2' : "buttonHiden2"}>sort</div>
     </div>
   )
 }

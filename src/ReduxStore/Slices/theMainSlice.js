@@ -32,6 +32,8 @@ const v = [{
     
 }];
 
+
+
 const initialState = {
 prevI: 0,
 startLearning: false,
@@ -119,8 +121,8 @@ export const mainSlice = createSlice({
               state.dataStatistic[state.prevI].color = "green"
               state.prevI = elem.getIdx
               state.dataStatistic[elem.getIdx].color = "red"
-              state.dataStatistic[elem.getIdx].getHight = 
-              state.dataStatistic[elem.getIdx].getHight + 5;
+              state.dataStatistic[elem.getIdx].getHight ++ 
+              
               
             }
             
@@ -181,8 +183,8 @@ export const mainSlice = createSlice({
               state.prevI = elem.getIdx
               state.dataStatistic[elem.getIdx].color = "red"
               state.sendDelay = elem.getIdx
-              state.dataStatistic[elem.getIdx].getHight = 
-              state.dataStatistic[elem.getIdx].getHight + 5;
+              state.dataStatistic[elem.getIdx].getHight ++ 
+              
             }
           }
         }
@@ -241,8 +243,8 @@ export const mainSlice = createSlice({
               state.prevI = elem.getIdx
               state.dataStatistic[elem.getIdx].color = "red"
               state.sendDelay = elem.getIdx
-              state.dataStatistic[elem.getIdx].getHight = 
-              state.dataStatistic[elem.getIdx].getHight + 5;
+              state.dataStatistic[elem.getIdx].getHight ++ 
+              
             }
           }
         }
