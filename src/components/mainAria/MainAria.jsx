@@ -4,48 +4,161 @@ import Left from '../left/Left';
 import VideoBack from '../videoBackground/VideoBack';
 import { useSelector , useDispatch } from 'react-redux';
 import { new_data } from '../1A_Data/data';
-import {workingTarget , workingArrays} from '../../ReduxStore/Slices/theMainSlice';
+import {workingTarget , workingArrays , getIdxArray } from '../../ReduxStore/Slices/theMainSlice';
 import { affirm_data } from '../1A_Data/affirm';
 
 
 
 const MainAria = () => {
   const [open , setOpen] = useState(false);
-  const { first , second , third , countStep , targetIndex , rightDependency } = useSelector(state => state.mainData);
+  
+  const { first , second , third , countStep , targetIndex , rightDependency,dataStatistic } = useSelector(state => state.mainData);
   const oak = [0,first , second , third , first];
   const a = [oak[countStep][targetIndex].engDescription , oak[countStep][targetIndex].rusQuestion ]
   
  
   const dispacher = useDispatch();
-  const shafle_and_send = ()=>{
 
-    function shuffleArray(array) {
-        const shuffledArray = [...array];
-        for (let i = shuffledArray.length - 1; i > 0; i--) {
-          const j = Math.floor(Math.random() * (i + 1));
-          [shuffledArray[i], shuffledArray[j]] = [shuffledArray[j], shuffledArray[i]];
-        }
-      
-        return shuffledArray;
+ 
+  const sorok = ()=>{
+    const exercise = [...new_data]
+    const send = new_data.map((item,idx) => {
+      const newItem = {...item};
+      newItem.getIdx = idx;
+      return newItem;
+    });
+   dispacher(getIdxArray(send))
+ 
+    const a = [
+      exercise,
+      [...exercise.slice(0,5),...affirm_data.slice(0,2)],
+      [...exercise.slice(0,15),...affirm_data.slice(0,5)],
+      [...exercise.slice(0,45),...affirm_data],
+      exercise.slice(46,new_data.length),
+      (goInto)=>{
+       const a = [...goInto] ;
+        for (let i = a.length - 1; i > 0; i--) {
+         const j = Math.floor(Math.random() * (i + 1));
+         [a[i], a[j]] = [a[j], a[i]];
+     }
+     return a;
       }
+    ];
+    const b = [
+      Math.ceil(a[4].length/3),
+      Math.ceil(a[4].length/4),
+      Math.ceil(a[4].length/7)
+    ];
+     const c = [
+      a[5](a[4].slice(0,b[0]))[0],
+      a[5](a[4].slice(b[0],(b[0]*2)))[0],
+      a[5](a[4].slice((b[0]*2),a[4].length))[0]]
+         
+           a[0].forEach((el,ix) => {
+            if(el.id === c[0].id){
+              a[1].push(...(a[0].splice(ix,1)))
+              
+          }
+            if(el.id === c[1].id){
+              a[1].push(...(a[0].splice(ix,1)))
+              
+          }
+            if(el.id === c[2].id){
+              a[1].push(...(a[0].splice(ix,1)))
+              
+          }
+          })
+    const d = [
+      a[5](a[4].slice(0,b[1])).slice(0,4),
+      a[5](a[4].slice(b[1],(b[1]*2))).slice(0,3),
+      a[5](a[4].slice((b[1]*2),(b[1]*3))).slice(0,2),
+      a[5](a[4].slice((b[1]*3),a[4].length))[0]
+      ];
+        
+          a[0].forEach((el,ix) => {
+            d[0].forEach((ee)=>{
+              if(el.id === ee.id){
+                
+                a[2].push(...(a[0].splice(ix,1)))
+            }
+            })
+            d[1].forEach((ee)=>{
+              if(el.id === ee.id){
+                
+                a[2].push(...(a[0].splice(ix,1)))
+            }
+            })
+            d[2].forEach((ee)=>{
+              if(el.id === ee.id){
+                
+                a[2].push(...(a[0].splice(ix,1)))
+            }
+            })
+            if(el.id === d[3].id){
+              
+              a[2].push(...(a[0].splice(ix,1)))
+          }
+          })
+          const e = [
+            a[5](a[4].slice(0,b[2])).slice(0,9),
+            a[5](a[4].slice(b[2],(b[2]*2))).slice(0,8),
+            a[5](a[4].slice((b[2]*2),(b[2]*3))).slice(0,7),
+            a[5](a[4].slice((b[2]*3),(b[2]*4))).slice(0,6),
+            a[5](a[4].slice((b[2]*4),(b[2]*5))).slice(0,5),
+            a[5](a[4].slice((b[2]*5),(b[2]*6))).slice(0,4),
+            a[5](a[4].slice((b[2]*6),(b[2]*7))).slice(0,3)
+          ];
+          a[0].forEach((el,ix) => {
+            e[0].forEach((eee)=>{
+              if(el.id === eee.id){
+                a[3].push(...(a[0].splice(ix,1)))
+              }
+            })
+            e[1].forEach((eee)=>{
+              if(el.id === eee.id){
+                a[3].push(...(a[0].splice(ix,1)))
+              }
+            })
+            e[2].forEach((eee)=>{
+              if(el.id === eee.id){
+                a[3].push(...(a[0].splice(ix,1)))
+              }
+            })
+            e[3].forEach((eee)=>{
+              if(el.id === eee.id){
+                a[3].push(...(a[0].splice(ix,1)))
+                
+            }
+            })
+            e[4].forEach((eee)=>{
+              if(el.id === eee.id){
+                a[3].push(...(a[0].splice(ix,1)))
+                
+            }
+            })
+            e[5].forEach((eee)=>{
+              if(el.id === eee.id){
+                a[3].push(...(a[0].splice(ix,1)))
+                
+            }
+            })
+            e[6].forEach((eee)=>{
+              if(el.id === eee.id){
+                a[3].push(...(a[0].splice(ix,1)))
+                
+            }
+            })
+          
+          })
+          const sended = {
+                fir: [...a[5](a[1])],
+                sec: [...a[5](a[2])],
+                thi: [...a[5](a[3])]
+            }
+          dispacher(workingArrays(sended))
+        }
 
-    const uno = [new_data.slice(0,5) , new_data.slice(0,15) , new_data.slice(0,45) ]
-
-    const shaffled1 = shuffleArray(new_data.slice(5,new_data.length -1));
-    const shaffled2 = shuffleArray(new_data.slice(15,new_data.length -1));
-    const shaffled3 = shuffleArray(new_data.slice(45,new_data.length -1));
-    
-    const duo = [[...shaffled1.slice(0,3) , ...affirm_data.slice(0,2)] , [...shaffled2.slice(3,13) , ... affirm_data.slice(0,5) ], [...shaffled3.slice(13,48) , ...affirm_data]]
-    const trio = [[...uno[0] , ...duo[0]] , [...uno[1] , ...duo[1]] , [...uno[2] , ...duo[2]]]
-    const quatro = [ shuffleArray(trio[0]) ,shuffleArray(trio[1]) , shuffleArray(trio[2])]
-    const sended = {
-        fir: quatro[0],
-        sec: quatro[1],
-        thi: quatro[2]
-    }
-    dispacher(workingArrays(sended))
-}
- useEffect(()=>{shafle_and_send()},[]);
+ useEffect(()=>{sorok()},[]);
  useEffect(()=>{dispacher(workingTarget())},[]);
  
  function setVariableTrueThenFalse() {

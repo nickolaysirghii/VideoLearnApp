@@ -1,4 +1,5 @@
 import { createSlice  } from "@reduxjs/toolkit";
+import { new_data } from "../../components/1A_Data/data";
 import firstStep from "../../assets/localVideos/firstStep.mp4"
 import secondStep from "../../assets/localVideos/secondStep.mp4"
 import thirdStep from "../../assets/localVideos/thirdStep.mp4"
@@ -33,6 +34,7 @@ const v = [{
 }];
 
 const initialState = {
+dataStatistic: [],
 rightDependency: true,
 IndexBefore: 0,
 targetIndex: 1,
@@ -112,6 +114,10 @@ export const mainSlice = createSlice({
           if(elem.answer === action.payload){
             elem.color = "black"
             state.rightDependency = !state.rightDependency
+            if(elem.getIdx){
+              state.dataStatistic[elem.getIdx].color = "red"
+            }
+            
           }
         }
         if(elem.color === "black")
@@ -164,6 +170,7 @@ export const mainSlice = createSlice({
           if(elem.answer === action.payload){
             elem.color = "black"
             state.rightDependency = !state.rightDependency
+            // state.dataStatistic[elem.gotIdx].color = "red";
           }
         }
         if(elem.color === "black")
@@ -216,6 +223,7 @@ export const mainSlice = createSlice({
           if(elem.answer === action.payload){
             elem.color = "black"
             state.rightDependency = !state.rightDependency
+            // state.dataStatistic[elem.gotIdx].color = "red";
           }
         }
         if(elem.color === "black")
@@ -230,6 +238,9 @@ export const mainSlice = createSlice({
         state.targetIndex = 1;
         state.countStep = 4;
       }
+    },
+    getIdxArray: (state , action) =>{
+    state.dataStatistic = action.payload
     }
      
     }, 
@@ -242,5 +253,5 @@ export const mainSlice = createSlice({
     
 
 );
-export const {newProcess , newProcess2 , newProcess3 , pointBorder , ispravitiSlovo , workingTarget , process , process2 , process3 , workingArrays} = mainSlice.actions;
+export const {getIdxArray , newProcess , newProcess2 , newProcess3 , pointBorder , ispravitiSlovo , workingTarget , process , process2 , process3 , workingArrays} = mainSlice.actions;
 export default mainSlice.reducer;

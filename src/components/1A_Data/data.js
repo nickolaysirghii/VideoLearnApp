@@ -294,6 +294,331 @@ import video355 from "../../4vegas/vegas355.mp4"
 
  export const new_data = [
     {
+        id: 270,
+        videoFile: video312,
+        rusQuestion: "мякоть",
+        before: false,
+        border: false,
+        engDescription: "a soft, wet mass, often produced by crushing something:",
+        answer: "pulp",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
+    },
+    {
+        id: 269,
+        videoFile: video311,
+        rusQuestion: "сумочка",
+        before: false,
+        border: false,
+        engDescription: "a handbag or a small container for money, usually used by a woman:",
+        answer: "purse",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
+    },
+    {
+        id: 268,
+        videoFile: video311,
+        rusQuestion: "меня вырвало",
+        before: false,
+        border: false,
+        engDescription: "to vomit:",
+        answer: "I threw up",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
+    },
+    {
+        id: 267,
+        videoFile: video310,
+        rusQuestion: "вмешательство",
+        before: false,
+        border: false,
+        engDescription: "the action of becoming intentionally involved in a difficult situation, in order to improve it or prevent it from getting worse:",
+        answer: "intervention",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
+    },
+    {
+        id: 266,
+        videoFile: video309,
+        rusQuestion: "рикошет",
+        before: false,
+        border: false,
+        engDescription: "to bounce back after hitting a hard surface",
+        answer: "rebound",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
+    },
+    {
+        id: 265,
+        videoFile: video308,
+        rusQuestion: "аннулирование",
+        before: false,
+        border: false,
+        engDescription: "an official announcement that something such as a law, agreement, or marriage no longer exists, or the process of making this announcement:",
+        answer: "annulment",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
+    },
+    {
+        id: 264,
+        videoFile: video307,
+        rusQuestion: "буфет",
+        before: false,
+        border: false,
+        engDescription: "a meal where people serve themselves different types of food:",
+        answer: "buffet",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
+    },
+    {
+        id: 263,
+        videoFile: video306,
+        rusQuestion: "пошел ты",
+        before: false,
+        border: false,
+        engDescription: "It means 'fuck you' but is far more polite.",
+        answer: "screw you",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
+    },
+    {
+        id: 262,
+        videoFile: video305,
+        rusQuestion: "приветствую это",
+        before: false,
+        border: false,
+        engDescription: "a friendly expression said just before you drink an alcoholic drink:",
+        answer: "cheers to that",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
+    },
+    {
+        id: 261,
+        videoFile: video304,
+        rusQuestion: "в моей области",
+        before: false,
+        border: false,
+        engDescription: "в моей области, в которой я работаю",
+        answer: "in my field",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
+    },
+    {
+        id: 260,
+        videoFile: video303,
+        rusQuestion: "попробуй",
+        before: false,
+        border: false,
+        engDescription: "to ask someone to do something that involves risk:",
+        answer: "I dare you",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
+    },
+    {
+        id: 259,
+        videoFile: video302,
+        rusQuestion: "наметить",
+        before: false,
+        border: false,
+        engDescription: "to plan something in detail:",
+        answer: "to map out",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
+    },
+    {
+        id: 258,
+        videoFile: video301,
+        rusQuestion: "шалава",
+        before: false,
+        border: false,
+        engDescription: "an unpleasant person, especially a woman who has sex with a lot of different people",
+        answer: "skank",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
+    },
+    {
+        id: 257,
+        videoFile: video300,
+        rusQuestion: "удобства , удовольствия",
+        before: false,
+        border: false,
+        engDescription: "something, such as a swimming pool or shopping centre, that is intended to make life more pleasant or comfortable for the people in a town, hotel, or other place:",
+        answer: "amenities",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
+    },
+    {
+        id: 256,
+        videoFile: video299,
+        rusQuestion: "люкс",
+        before: false,
+        border: false,
+        engDescription: "a set of connected rooms, especially in a hotel:",
+        answer: "suite",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
+    },
+    {
+        id: 255,
+        videoFile: video298,
+        rusQuestion: "враждебный",
+        before: false,
+        border: false,
+        engDescription: "unfriendly and not liking something:",
+        answer: "hostile",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
+    },
+    {
+        id: 254,
+        videoFile: video297,
+        rusQuestion: "в конце концов",
+        before: false,
+        border: false,
+        engDescription: "in the end, especially after a long time or a lot of effort, problems, etc.:",
+        answer: "eventually",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
+    },
+    {
+        id: 253,
+        videoFile: video296,
+        rusQuestion: "обновление , подъем",
+        before: false,
+        border: false,
+        engDescription: "to improve the quality or usefulness of something, or change it for something newer or of a better standard:",
+        answer: "upgrade",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
+    },
+    {
+        id: 252,
+        videoFile: video295,
+        rusQuestion: "жених",
+        before: false,
+        border: false,
+        engDescription: "the man who someone is engaged to be married to:",
+        answer: "fiance",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
+    },
+    {
+        id: 251,
+        videoFile: video294,
+        rusQuestion: "потерпите нас",
+        before: false,
+        border: false,
+        engDescription: "to be patient with someone or something:",
+        answer: "bear with us",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
+    },
+    {
+        id: 250,
+        videoFile: video293,
+        rusQuestion: "беззаботный",
+        before: false,
+        border: false,
+        engDescription: "having no problems or not being worried about anything:",
+        answer: "carefree",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
+    },
+    {
+        id: 249,
+        videoFile: video292,
+        rusQuestion: "извлечь из этого выгоду , превращать в капитал",
+        before: false,
+        border: false,
+        engDescription: "to use a situation to your own advantage:",
+        answer: "capitalize on",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
+    },
+    {
+        id: 248,
+        videoFile: video291,
+        rusQuestion: "по дороге",
+        before: false,
+        border: false,
+        engDescription: "while they were coming to that spot",
+        answer: "on the way over",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
+    },
+    {
+        id: 247,
+        videoFile: video290,
+        rusQuestion: "корчится",
+        before: false,
+        border: false,
+        engDescription: "to make twisting movements with the body, esp. because you are feeling strong emotion:",
+        answer: "writhing",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
+    },
+    {
+        id: 246,
+        videoFile: video289,
+        rusQuestion: "он перевернется",
+        before: false,
+        border: false,
+        engDescription: "to fall over suddenly: If a boat oooooo, it turns upside down in the water:",
+        answer: "keel over",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
+    },
+    {
         id: 245,
         videoFile: video288,
         rusQuestion: "в последнее время",
@@ -303,6 +628,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "as of late",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 244,
@@ -314,6 +641,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "selfless",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 243,
@@ -325,6 +654,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "go overboard",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 242,
@@ -336,6 +667,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "cut the cord",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 241,
@@ -347,6 +680,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "food stamp",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 240,
@@ -358,6 +693,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "life of the party",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 239,
@@ -369,6 +706,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "shirtless",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 238,
@@ -380,6 +719,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "slutty",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 237,
@@ -391,6 +732,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "setting",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 236,
@@ -402,6 +745,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "pace",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 235,
@@ -413,6 +758,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "sprout",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 234,
@@ -424,6 +771,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "downfall",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 233,
@@ -435,6 +784,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "give a lift",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 232,
@@ -446,6 +797,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "keeping in check",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 231,
@@ -457,6 +810,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "pothole",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 230,
@@ -468,6 +823,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "fall for it",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 229,
@@ -479,6 +836,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "stall",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 228,
@@ -490,6 +849,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "light bulb",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 227,
@@ -501,6 +862,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "groundbreaking",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 226,
@@ -512,6 +875,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "relieved",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 225,
@@ -523,6 +888,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "catch up with",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 224,
@@ -534,6 +901,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "got a screw loose",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 223,
@@ -545,6 +914,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "avenged",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 222,
@@ -556,6 +927,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "testy",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 221,
@@ -567,6 +940,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "slowpoke",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 220,
@@ -578,6 +953,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "cliffhanger",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 219,
@@ -589,6 +966,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "puppy",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 218,
@@ -600,6 +979,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "primal instinct",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 217,
@@ -611,6 +992,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "descended from",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 216,
@@ -622,6 +1005,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "fuzzy",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 215,
@@ -633,6 +1018,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "blur",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 214,
@@ -644,6 +1031,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "as good as",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 213,
@@ -655,6 +1044,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "joint",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 212,
@@ -666,6 +1057,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "chug",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 211,
@@ -677,6 +1070,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "doggy paddle",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 210,
@@ -688,6 +1083,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "hawk",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 209,
@@ -699,6 +1096,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "shifty",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 208,
@@ -710,6 +1109,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "take over",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 207,
@@ -721,6 +1122,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "overdue",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 206,
@@ -732,6 +1135,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "flapjack",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 205,
@@ -743,6 +1148,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "squished",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 204,
@@ -754,6 +1161,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "slashed off",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 203,
@@ -765,6 +1174,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "alley",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 202,
@@ -776,6 +1187,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "allegiance",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 200,
@@ -787,6 +1200,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "parlor",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 199,
@@ -798,6 +1213,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "counter",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 198,
@@ -809,6 +1226,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "gory details",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 197,
@@ -820,6 +1239,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "underbelly",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 196,
@@ -831,6 +1252,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "roguishly",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 195,
@@ -842,6 +1265,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "foreboding",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 194,
@@ -853,6 +1278,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "r.i.p.",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 193,
@@ -864,6 +1291,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "collar",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 192,
@@ -875,6 +1304,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "busting out",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 191,
@@ -886,6 +1317,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "pound",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 190,
@@ -897,6 +1330,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "scram",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 189,
@@ -908,6 +1343,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "raisin",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 188,
@@ -919,6 +1356,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "lad",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 187,
@@ -930,6 +1369,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "leash",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 186,
@@ -941,6 +1382,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "stray",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 185,
@@ -952,6 +1395,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "trashed",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 184,
@@ -963,6 +1408,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "flip out",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 183,
@@ -974,6 +1421,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "dumb",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 182,
@@ -985,6 +1434,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "scoot on",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 181,
@@ -996,6 +1447,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "blanket",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 180,
@@ -1007,6 +1460,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "take in",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 179,
@@ -1018,6 +1473,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "psyched",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 178,
@@ -1029,6 +1486,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "guaranteed",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 177,
@@ -1040,6 +1499,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "pass out",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 176,
@@ -1051,6 +1512,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "suitcase",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 175,
@@ -1062,6 +1525,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "pretty much",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 174,
@@ -1073,6 +1538,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "soulmate",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 173,
@@ -1084,6 +1551,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "ever since",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 172,
@@ -1095,6 +1564,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "move in",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     }, 
     {
         id: 171,
@@ -1106,6 +1577,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "aglow",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 170,
@@ -1117,6 +1590,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "stitched shut",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 169,
@@ -1128,6 +1603,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "sneak out",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 168,
@@ -1139,6 +1616,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "precaution",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 167,
@@ -1150,6 +1629,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "stew",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 166,
@@ -1161,6 +1642,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "tan",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 165,
@@ -1172,6 +1655,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "spot on",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 164,
@@ -1183,6 +1668,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "run for the hills",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 163,
@@ -1194,6 +1681,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "trippy",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 162,
@@ -1205,6 +1694,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "chops",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 161,
@@ -1216,6 +1707,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "lamb",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 160,
@@ -1227,6 +1720,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "diaper",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 159,
@@ -1238,6 +1733,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "eligible",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 158,
@@ -1249,6 +1746,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "picking his nose",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 157,
@@ -1260,6 +1759,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "outdid",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 156,
@@ -1271,6 +1772,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "binky",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id:155,
@@ -1282,6 +1785,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "snooze",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 154,
@@ -1293,6 +1798,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "creepy",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 153,
@@ -1304,6 +1811,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "gross",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 152,
@@ -1315,6 +1824,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "rump",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 151,
@@ -1326,6 +1837,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "hump",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 150,
@@ -1337,6 +1850,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "bump",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 149,
@@ -1348,6 +1863,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "awkward",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 148,
@@ -1359,6 +1876,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "moot point",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 147,
@@ -1370,6 +1889,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "hit it off",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 146,
@@ -1381,6 +1902,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "shove",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 145,
@@ -1392,6 +1915,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "deflated",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 144,
@@ -1403,6 +1928,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "disgusting",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 143,
@@ -1414,6 +1941,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "bred",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 142,
@@ -1425,6 +1954,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "roughhouse",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 141,
@@ -1436,6 +1967,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "bagel",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 140,
@@ -1447,6 +1980,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "twist",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 139,
@@ -1458,6 +1993,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "sideways",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 138,
@@ -1469,6 +2006,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "give a clue",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 137,
@@ -1480,6 +2019,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "scarfing down",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 136,
@@ -1491,6 +2032,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "contemporary",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 135,
@@ -1502,6 +2045,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "neat",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 134,
@@ -1513,6 +2058,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "stake",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 133,
@@ -1524,6 +2071,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "swell",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 132,
@@ -1535,6 +2084,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "hang out",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 131,
@@ -1546,6 +2097,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "sum up",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 130,
@@ -1557,6 +2110,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "tranquility",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 129,
@@ -1568,6 +2123,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "void of",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 128,
@@ -1579,6 +2136,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "persecution",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 127,
@@ -1590,6 +2149,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "lurking",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 126,
@@ -1601,6 +2162,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "substitute",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 125,
@@ -1612,6 +2175,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "fatty",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 124,
@@ -1623,6 +2188,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "freak out",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 123,
@@ -1634,6 +2201,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "backpack",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 122,
@@ -1645,6 +2214,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "babble",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 121,
@@ -1656,6 +2227,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "sanctuary",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 120,
@@ -1667,6 +2240,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "fluff",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 119,
@@ -1678,6 +2253,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "dustpan",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 118,
@@ -1689,6 +2266,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "funky",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 117,
@@ -1700,6 +2279,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "youth hostel",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 116,
@@ -1711,6 +2292,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "sneaking around",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 115,
@@ -1722,6 +2305,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "watch out for",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 114,
@@ -1733,6 +2318,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "scoop out",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 113,
@@ -1744,6 +2331,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "vicious",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 112,
@@ -1755,6 +2344,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "pouty",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 111,
@@ -1766,6 +2357,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "rabies",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 110,
@@ -1777,6 +2370,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "I got it covered",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 109,
@@ -1788,6 +2383,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "your Eminence",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },  
     {
         id: 108,
@@ -1799,6 +2396,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "haunted forest",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 107,
@@ -1810,6 +2409,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "villain",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 106,
@@ -1821,6 +2422,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "to strangle us",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 105,
@@ -1832,6 +2435,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "has uncovered",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 104,
@@ -1843,6 +2448,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "surveillance",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 103,
@@ -1854,6 +2461,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "refuge",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 102,
@@ -1865,6 +2474,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "off the hook",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 101,
@@ -1876,6 +2487,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "irresistible",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 100,
@@ -1887,6 +2500,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "filth",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 99,
@@ -1898,6 +2513,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "cemetery",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 98,
@@ -1909,6 +2526,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "clogged",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 97,
@@ -1920,6 +2539,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "plumbing",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 96,
@@ -1931,6 +2552,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "itinerary",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 95,
@@ -1942,6 +2565,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "bonfire",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 94,
@@ -1953,6 +2578,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "square footage",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     }, 
     {
         id: 93,
@@ -1964,6 +2591,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "warts and all",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 92,
@@ -1975,6 +2604,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "croak",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 91,
@@ -1986,6 +2617,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "foam",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 90,
@@ -1997,6 +2630,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "toss and turn",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 89,
@@ -2008,6 +2643,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "pastry",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 88,
@@ -2019,6 +2656,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "moat",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 87,
@@ -2030,6 +2669,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "rewind",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 86,
@@ -2041,6 +2682,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "to call off",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 85,
@@ -2052,6 +2695,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "carved",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 84,
@@ -2063,6 +2708,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "pigeon",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 83,
@@ -2074,6 +2721,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "wig",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 82,
@@ -2085,6 +2734,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "cantankerous",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 81,
@@ -2096,6 +2747,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "whinny",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 80,
@@ -2107,6 +2760,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "stallion",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 79,
@@ -2118,6 +2773,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "whack",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 78,
@@ -2129,6 +2786,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "sleazy",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 77,
@@ -2140,6 +2799,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "dud",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 76,
@@ -2151,6 +2812,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "wallowing",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 75,
@@ -2162,6 +2825,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "here's to us",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 74,
@@ -2173,6 +2838,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "sip",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 73,
@@ -2184,6 +2851,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "tingling",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 72,
@@ -2195,6 +2864,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "rue the day",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 71,
@@ -2206,6 +2877,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "smite",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 70,
@@ -2217,6 +2890,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "rend",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 69,
@@ -2228,6 +2903,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "pumpkin",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 68,
@@ -2239,6 +2916,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "revered",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 67,
@@ -2250,6 +2929,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "marital",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 66,
@@ -2261,6 +2942,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "softener",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 65,
@@ -2272,6 +2955,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "toadstool",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 64,
@@ -2283,6 +2968,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "wicked",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 63,
@@ -2294,6 +2981,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "burglar",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 62,
@@ -2305,6 +2994,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "footwear",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 61,
@@ -2316,6 +3007,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "lust",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 60,
@@ -2327,6 +3020,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "drop",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 59,
@@ -2338,6 +3033,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "pinch",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 58,
@@ -2349,6 +3046,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "naughty",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 57,
@@ -2360,6 +3059,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "oppressed",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 56,
@@ -2371,6 +3072,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "degraded",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 55,
@@ -2382,6 +3085,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "pop in",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 54,
@@ -2393,6 +3098,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "potion",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 53,
@@ -2404,6 +3111,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "hex",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 52,
@@ -2415,6 +3124,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "cottage",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 51,
@@ -2426,6 +3137,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "exquisite",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 50,
@@ -2437,6 +3150,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "dish",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 49,
@@ -2448,6 +3163,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "festive",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 48,
@@ -2459,6 +3176,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "lighten up",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 47,
@@ -2470,6 +3189,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "spared",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 46,
@@ -2481,6 +3202,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "obliged",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 45,
@@ -2492,6 +3215,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "accompany",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 44,
@@ -2503,6 +3228,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "misjudge",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 43,
@@ -2514,6 +3241,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "litter",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 42,
@@ -2525,6 +3254,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "implore",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 41,
@@ -2536,6 +3267,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "neuter",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 40,
@@ -2547,6 +3280,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "piece",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 39,
@@ -2558,6 +3293,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "purr",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 38,
@@ -2569,6 +3306,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "bond",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 37,
@@ -2580,6 +3319,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "huffy",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 36,
@@ -2591,6 +3332,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "sinister",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 35,
@@ -2602,6 +3345,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "despicable",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 34,
@@ -2613,6 +3358,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "slumber party",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 33,
@@ -2624,6 +3371,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "clue you in",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 32,
@@ -2635,6 +3384,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "drowsy",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 31,
@@ -2646,6 +3397,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "smooth",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 30,
@@ -2657,6 +3410,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "wand",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 29,
@@ -2668,6 +3423,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "remedy",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 28,
@@ -2679,6 +3436,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "tummies",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 27,
@@ -2690,6 +3449,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "enchanted",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
      {
         id: 26,
@@ -2701,6 +3462,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "darn",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 25,
@@ -2712,6 +3475,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "immature",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 24,
@@ -2723,6 +3488,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "pompous",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 23,
@@ -2734,6 +3501,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "ball",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 22,
@@ -2745,6 +3514,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "rascally",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 21,
@@ -2756,6 +3527,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "a sight for sore eyes",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 20,
@@ -2767,6 +3540,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "cure",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 19,
@@ -2778,6 +3553,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "gossamer",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 18,
@@ -2789,6 +3566,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "dreaded",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 17,
@@ -2800,6 +3579,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "limb",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 16,
@@ -2811,6 +3592,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "scorching",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 15,
@@ -2822,6 +3605,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "blistering",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 14,
@@ -2833,6 +3618,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "perilous",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 13,
@@ -2844,6 +3631,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "sought",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 12,
@@ -2855,6 +3644,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "take hold",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 11,
@@ -2866,6 +3657,8 @@ import video355 from "../../4vegas/vegas355.mp4"
         answer: "throughout",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     }
     
        
@@ -2884,6 +3677,8 @@ const vegas = [
         answer: "coexist",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 248,
@@ -2895,6 +3690,8 @@ const vegas = [
         answer: "flavor",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 247,
@@ -2906,6 +3703,8 @@ const vegas = [
         answer: "topping",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 246,
@@ -2917,6 +3716,8 @@ const vegas = [
         answer: "stains",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 245,
@@ -2928,6 +3729,8 @@ const vegas = [
         answer: "repulse",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 244,
@@ -2939,6 +3742,8 @@ const vegas = [
         answer: "subordinate",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 243,
@@ -2950,6 +3755,8 @@ const vegas = [
         answer: "top gun",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 242,
@@ -2961,6 +3768,8 @@ const vegas = [
         answer: "up for grabs",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 241,
@@ -2972,6 +3781,8 @@ const vegas = [
         answer: "retarded",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 240,
@@ -2983,6 +3794,8 @@ const vegas = [
         answer: "purple bra",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 239,
@@ -2994,6 +3807,8 @@ const vegas = [
         answer: "lace",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 238,
@@ -3005,6 +3820,8 @@ const vegas = [
         answer: "couch",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 237,
@@ -3016,6 +3833,8 @@ const vegas = [
         answer: "put up with",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 236,
@@ -3027,6 +3846,8 @@ const vegas = [
         answer: "muffin",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 235,
@@ -3038,6 +3859,8 @@ const vegas = [
         answer: "overdo",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 234,
@@ -3049,6 +3872,8 @@ const vegas = [
         answer: "sorely",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 233,
@@ -3060,6 +3885,8 @@ const vegas = [
         answer: "insinuating",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 232,
@@ -3071,6 +3898,8 @@ const vegas = [
         answer: "up to it",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 231,
@@ -3082,6 +3911,8 @@ const vegas = [
         answer: "vixen",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 230,
@@ -3093,6 +3924,8 @@ const vegas = [
         answer: "split",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 229,
@@ -3104,6 +3937,8 @@ const vegas = [
         answer: "grant",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 228,
@@ -3115,6 +3950,8 @@ const vegas = [
         answer: "dime",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 227,
@@ -3126,6 +3963,8 @@ const vegas = [
         answer: "litigation",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 226,
@@ -3137,6 +3976,8 @@ const vegas = [
         answer: "counseling",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 225,
@@ -3148,6 +3989,8 @@ const vegas = [
         answer: "hearth",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 224,
@@ -3159,6 +4002,8 @@ const vegas = [
         answer: "crash pad",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 223,
@@ -3170,6 +4015,8 @@ const vegas = [
         answer: "douche",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 222,
@@ -3181,6 +4028,8 @@ const vegas = [
         answer: "vows",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 221,
@@ -3192,6 +4041,8 @@ const vegas = [
         answer: "old-fashioned",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 220,
@@ -3203,6 +4054,8 @@ const vegas = [
         answer: "granted",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 219,
@@ -3214,6 +4067,8 @@ const vegas = [
         answer: "infuriating",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 218,
@@ -3225,6 +4080,8 @@ const vegas = [
         answer: "commitment",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 217,
@@ -3236,6 +4093,8 @@ const vegas = [
         answer: "sanctity",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 216,
@@ -3247,6 +4106,8 @@ const vegas = [
         answer: "get laid",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 215,
@@ -3258,6 +4119,8 @@ const vegas = [
         answer: "provide for her",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 214,
@@ -3269,6 +4132,8 @@ const vegas = [
         answer: "sham",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 213,
@@ -3280,6 +4145,8 @@ const vegas = [
         answer: "knowingly",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 212,
@@ -3291,6 +4158,8 @@ const vegas = [
         answer: "inebriation",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 211,
@@ -3302,6 +4171,8 @@ const vegas = [
         answer: "quadruple",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 210,
@@ -3313,6 +4184,8 @@ const vegas = [
         answer: "quarter",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 209,
@@ -3324,6 +4197,8 @@ const vegas = [
         answer: "nausea",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 208,
@@ -3335,6 +4210,8 @@ const vegas = [
         answer: "concept",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 207,
@@ -3346,6 +4223,8 @@ const vegas = [
         answer: "you betcha",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 206,
@@ -3357,6 +4236,8 @@ const vegas = [
         answer: "dodged",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
     {
         id: 205,
@@ -3368,282 +4249,14 @@ const vegas = [
         answer: "disaster averted",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        getHight: 1
     },
-    {
-        id: 204,
-        videoFile: video312,
-        rusQuestion: "мякоть",
-        before: false,
-        border: false,
-        engDescription: "a soft, wet mass, often produced by crushing something:",
-        answer: "pulp",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 203,
-        videoFile: video311,
-        rusQuestion: "сумочка",
-        before: false,
-        border: false,
-        engDescription: "a handbag or a small container for money, usually used by a woman:",
-        answer: "purse",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 202,
-        videoFile: video311,
-        rusQuestion: "меня вырвало",
-        before: false,
-        border: false,
-        engDescription: "to vomit:",
-        answer: "I threw up",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 201,
-        videoFile: video310,
-        rusQuestion: "вмешательство",
-        before: false,
-        border: false,
-        engDescription: "the action of becoming intentionally involved in a difficult situation, in order to improve it or prevent it from getting worse:",
-        answer: "intervention",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 200,
-        videoFile: video309,
-        rusQuestion: "рикошет",
-        before: false,
-        border: false,
-        engDescription: "to bounce back after hitting a hard surface",
-        answer: "rebound",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 199,
-        videoFile: video308,
-        rusQuestion: "аннулирование",
-        before: false,
-        border: false,
-        engDescription: "an official announcement that something such as a law, agreement, or marriage no longer exists, or the process of making this announcement:",
-        answer: "annulment",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 198,
-        videoFile: video307,
-        rusQuestion: "буфет",
-        before: false,
-        border: false,
-        engDescription: "a meal where people serve themselves different types of food:",
-        answer: "buffet",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 197,
-        videoFile: video306,
-        rusQuestion: "пошел ты",
-        before: false,
-        border: false,
-        engDescription: "It means 'fuck you' but is far more polite.",
-        answer: "screw you",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 196,
-        videoFile: video305,
-        rusQuestion: "приветствую это",
-        before: false,
-        border: false,
-        engDescription: "a friendly expression said just before you drink an alcoholic drink:",
-        answer: "cheers to that",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 195,
-        videoFile: video304,
-        rusQuestion: "в моей области",
-        before: false,
-        border: false,
-        engDescription: "в моей области, в которой я работаю",
-        answer: "in my field",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 194,
-        videoFile: video303,
-        rusQuestion: "попробуй",
-        before: false,
-        border: false,
-        engDescription: "to ask someone to do something that involves risk:",
-        answer: "I dare you",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 193,
-        videoFile: video302,
-        rusQuestion: "наметить",
-        before: false,
-        border: false,
-        engDescription: "to plan something in detail:",
-        answer: "to map out",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 192,
-        videoFile: video301,
-        rusQuestion: "шалава",
-        before: false,
-        border: false,
-        engDescription: "an unpleasant person, especially a woman who has sex with a lot of different people",
-        answer: "skank",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 191,
-        videoFile: video300,
-        rusQuestion: "удобства , удовольствия",
-        before: false,
-        border: false,
-        engDescription: "something, such as a swimming pool or shopping centre, that is intended to make life more pleasant or comfortable for the people in a town, hotel, or other place:",
-        answer: "amenities",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 190,
-        videoFile: video299,
-        rusQuestion: "люкс",
-        before: false,
-        border: false,
-        engDescription: "a set of connected rooms, especially in a hotel:",
-        answer: "suite",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 189,
-        videoFile: video298,
-        rusQuestion: "враждебный",
-        before: false,
-        border: false,
-        engDescription: "unfriendly and not liking something:",
-        answer: "hostile",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 188,
-        videoFile: video297,
-        rusQuestion: "в конце концов",
-        before: false,
-        border: false,
-        engDescription: "in the end, especially after a long time or a lot of effort, problems, etc.:",
-        answer: "eventually",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 187,
-        videoFile: video296,
-        rusQuestion: "обновление , подъем",
-        before: false,
-        border: false,
-        engDescription: "to improve the quality or usefulness of something, or change it for something newer or of a better standard:",
-        answer: "upgrade",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 186,
-        videoFile: video295,
-        rusQuestion: "жених",
-        before: false,
-        border: false,
-        engDescription: "the man who someone is engaged to be married to:",
-        answer: "fiance",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 185,
-        videoFile: video294,
-        rusQuestion: "потерпите нас",
-        before: false,
-        border: false,
-        engDescription: "to be patient with someone or something:",
-        answer: "bear with us",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 185,
-        videoFile: video293,
-        rusQuestion: "беззаботный",
-        before: false,
-        border: false,
-        engDescription: "having no problems or not being worried about anything:",
-        answer: "carefree",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 184,
-        videoFile: video292,
-        rusQuestion: "извлечь из этого выгоду , превращать в капитал",
-        before: false,
-        border: false,
-        engDescription: "to use a situation to your own advantage:",
-        answer: "capitalize on",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 183,
-        videoFile: video291,
-        rusQuestion: "по дороге",
-        before: false,
-        border: false,
-        engDescription: "while they were coming to that spot",
-        answer: "on the way over",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 182,
-        videoFile: video290,
-        rusQuestion: "корчится",
-        before: false,
-        border: false,
-        engDescription: "to make twisting movements with the body, esp. because you are feeling strong emotion:",
-        answer: "writhing",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
-    {
-        id: 181,
-        videoFile: video289,
-        rusQuestion: "он перевернется",
-        before: false,
-        border: false,
-        engDescription: "to fall over suddenly: If a boat keels over, it turns upside down in the water:",
-        answer: "keel over",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-    },
+    
+    
+    
+    
+    
     
     
      

@@ -8,7 +8,7 @@ const VideoBack = () => {
   const videoRef = useRef(null);
  
   const dispatcher = useDispatch();
-  const { first , second , third , countStep , targetIndex , IndexBefore , rightDependency  } = useSelector(state => state.mainData);
+  const { first , second , third , countStep , targetIndex , IndexBefore , rightDependency,dataStatistic  } = useSelector(state => state.mainData);
   const oak = [0,first , second , third , first];
   const a = [oak[countStep][IndexBefore].videoFile , oak[countStep][targetIndex].rusQuestion]
 
@@ -47,6 +47,13 @@ const VideoBack = () => {
             <input  type='text' name='writeAnswer'
             placeholder='write the answer here'  className='ourInput'/>
             </form>
+            <div className='seeWhich'>
+              {
+                dataStatistic.map((el,ix) => {
+                  return <div key={ix} className='statistic' style={{backgroundColor:el.color}}></div>
+                })
+              }
+            </div>
             
         </div>
     </div>
