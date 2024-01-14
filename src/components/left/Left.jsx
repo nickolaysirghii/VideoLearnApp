@@ -3,12 +3,11 @@ import "./left.css";
 import { useSelector , useDispatch } from 'react-redux';
 import { pointBorder } from '../../ReduxStore/Slices/theMainSlice';
 
-
-
 const Left = () => {
   const dispatcher = useDispatch();
  
-  const { first , second , third  } = useSelector(state => state.mainData);
+ 
+  const { first , second , third   } = useSelector(state => state.mainData);
 
   return (
     <div className='left'>

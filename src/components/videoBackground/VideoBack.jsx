@@ -8,7 +8,7 @@ const VideoBack = () => {
   const videoRef = useRef(null);
  
   const dispatcher = useDispatch();
-  const { first , second , third , countStep , targetIndex , IndexBefore , rightDependency,dataStatistic  } = useSelector(state => state.mainData);
+  const { first , second , third , countStep , targetIndex , IndexBefore , rightDependency,dataStatistic,startLearning  } = useSelector(state => state.mainData);
   const oak = [0,first , second , third , first];
   const a = [oak[countStep][IndexBefore].videoFile , oak[countStep][targetIndex].rusQuestion]
 
@@ -20,9 +20,9 @@ const VideoBack = () => {
     e.target.reset()
     
   }
- 
+  const setTime = startLearning ? 1000 : 20000;
   useMemo(() =>{
-    const delay = 1000;
+    const delay = setTime;
     const playVideoWithDelay = () => {
       if (videoRef.current) {
         videoRef.current.play();
@@ -50,7 +50,8 @@ const VideoBack = () => {
             <div className='seeWhich'>
               {
                 dataStatistic.map((el,ix) => {
-                  return <div key={ix} className='statistic' style={{backgroundColor:el.color}}></div>
+                  return <div key={ix} className='statistic' style={{backgroundColor:el.color,
+                  height: `${el.getHight}px`}}></div>
                 })
               }
             </div>

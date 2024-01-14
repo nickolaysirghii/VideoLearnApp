@@ -1,5 +1,4 @@
 import { createSlice  } from "@reduxjs/toolkit";
-import { new_data } from "../../components/1A_Data/data";
 import firstStep from "../../assets/localVideos/firstStep.mp4"
 import secondStep from "../../assets/localVideos/secondStep.mp4"
 import thirdStep from "../../assets/localVideos/thirdStep.mp4"
@@ -34,6 +33,8 @@ const v = [{
 }];
 
 const initialState = {
+prevI: 0,
+startLearning: false,
 dataStatistic: [],
 rightDependency: true,
 IndexBefore: 0,
@@ -114,8 +115,13 @@ export const mainSlice = createSlice({
           if(elem.answer === action.payload){
             elem.color = "black"
             state.rightDependency = !state.rightDependency
-            if(elem.getIdx){
+            if(elem.getIdx || elem.getIdx === 0){
+              state.dataStatistic[state.prevI].color = "green"
+              state.prevI = elem.getIdx
               state.dataStatistic[elem.getIdx].color = "red"
+              state.dataStatistic[elem.getIdx].getHight = 
+              state.dataStatistic[elem.getIdx].getHight + 5;
+              
             }
             
           }
@@ -170,7 +176,14 @@ export const mainSlice = createSlice({
           if(elem.answer === action.payload){
             elem.color = "black"
             state.rightDependency = !state.rightDependency
-            // state.dataStatistic[elem.gotIdx].color = "red";
+            if(elem.getIdx || elem.getIdx === 0){
+              state.dataStatistic[state.prevI].color = "green"
+              state.prevI = elem.getIdx
+              state.dataStatistic[elem.getIdx].color = "red"
+              state.sendDelay = elem.getIdx
+              state.dataStatistic[elem.getIdx].getHight = 
+              state.dataStatistic[elem.getIdx].getHight + 5;
+            }
           }
         }
         if(elem.color === "black")
@@ -223,7 +236,14 @@ export const mainSlice = createSlice({
           if(elem.answer === action.payload){
             elem.color = "black"
             state.rightDependency = !state.rightDependency
-            // state.dataStatistic[elem.gotIdx].color = "red";
+            if(elem.getIdx || elem.getIdx === 0){
+              state.dataStatistic[state.prevI].color = "green"
+              state.prevI = elem.getIdx
+              state.dataStatistic[elem.getIdx].color = "red"
+              state.sendDelay = elem.getIdx
+              state.dataStatistic[elem.getIdx].getHight = 
+              state.dataStatistic[elem.getIdx].getHight + 5;
+            }
           }
         }
         if(elem.color === "black")
@@ -241,7 +261,11 @@ export const mainSlice = createSlice({
     },
     getIdxArray: (state , action) =>{
     state.dataStatistic = action.payload
-    }
+    },
+    startProcess: (state)=>{
+      state.startLearning = true;
+    },
+   
      
     }, 
     
@@ -253,5 +277,5 @@ export const mainSlice = createSlice({
     
 
 );
-export const {getIdxArray , newProcess , newProcess2 , newProcess3 , pointBorder , ispravitiSlovo , workingTarget , process , process2 , process3 , workingArrays} = mainSlice.actions;
+export const { startProcess , getIdxArray , newProcess , newProcess2 , newProcess3 , pointBorder , ispravitiSlovo , workingTarget , process , process2 , process3 , workingArrays} = mainSlice.actions;
 export default mainSlice.reducer;

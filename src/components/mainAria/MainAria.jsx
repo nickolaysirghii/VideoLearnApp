@@ -4,7 +4,7 @@ import Left from '../left/Left';
 import VideoBack from '../videoBackground/VideoBack';
 import { useSelector , useDispatch } from 'react-redux';
 import { new_data } from '../1A_Data/data';
-import {workingTarget , workingArrays , getIdxArray } from '../../ReduxStore/Slices/theMainSlice';
+import {workingTarget , workingArrays , getIdxArray, startProcess } from '../../ReduxStore/Slices/theMainSlice';
 import { affirm_data } from '../1A_Data/affirm';
 
 
@@ -12,16 +12,43 @@ import { affirm_data } from '../1A_Data/affirm';
 const MainAria = () => {
   const [open , setOpen] = useState(false);
   
-  const { first , second , third , countStep , targetIndex , rightDependency,dataStatistic } = useSelector(state => state.mainData);
+  const { first , second , third , countStep , targetIndex , rightDependency,startLearning } = useSelector(state => state.mainData);
   const oak = [0,first , second , third , first];
   const a = [oak[countStep][targetIndex].engDescription , oak[countStep][targetIndex].rusQuestion ]
   
  
   const dispacher = useDispatch();
 
- 
+ const newArray = [1,2,3]
   const sorok = ()=>{
-    const exercise = [...new_data]
+   
+
+    if(localStorage.getItem('myArray')){
+      console.log("exists")
+    }else{
+      localStorage.setItem('myArray', JSON.stringify(newArray));
+    }
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     const send = new_data.map((item,idx) => {
       const newItem = {...item};
       newItem.getIdx = idx;
@@ -30,11 +57,11 @@ const MainAria = () => {
    dispacher(getIdxArray(send))
  
     const a = [
-      exercise,
-      [...exercise.slice(0,5),...affirm_data.slice(0,2)],
-      [...exercise.slice(0,15),...affirm_data.slice(0,5)],
-      [...exercise.slice(0,45),...affirm_data],
-      exercise.slice(46,new_data.length),
+      [...send],
+      [...send.slice(0,5),...affirm_data.slice(0,2)],
+      [...send.slice(0,15),...affirm_data.slice(0,5)],
+      [...send.slice(0,45),...affirm_data],
+      send.slice(46,send.length),
       (goInto)=>{
        const a = [...goInto] ;
         for (let i = a.length - 1; i > 0; i--) {
@@ -167,9 +194,10 @@ const MainAria = () => {
     setOpen(false);
   }, 5000); 
 }
-useMemo(()=>{setVariableTrueThenFalse();},[rightDependency])
-
+  useMemo(()=>{setVariableTrueThenFalse();},[rightDependency])
  
+
+
   return (
     <div className='main'>
       <Left />
@@ -180,6 +208,7 @@ useMemo(()=>{setVariableTrueThenFalse();},[rightDependency])
           <div className='russss'>{a[1]}</div>
         </div>
       </div>
+      <div onClick={()=>{dispacher(startProcess())}} className={startLearning ? "buttonHiden" : 'startButton'}>Ok</div>
     </div>
   )
 }
