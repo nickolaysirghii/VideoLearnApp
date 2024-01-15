@@ -54,6 +54,7 @@ const VideoBack = () => {
             <input  type='text' name='writeAnswer'
             placeholder='write the answer here'  className='ourInput'/>
             </form>
+            <div className='aboveRaw'></div>
             <div className='seeWhich'>
               {
                 dataStatistic.map((el,ix) => {
@@ -62,6 +63,7 @@ const VideoBack = () => {
                 })
               }
             </div>
+            
             
         </div>
     </div>

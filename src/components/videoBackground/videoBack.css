@@ -67,7 +67,7 @@
     width: 89vw;
     height: 50px;
     display: flex;
-    align-items: end;
+    align-items: flex-end;
     bottom: 8vw;
     left: 1vw;
     z-index: 4;
@@ -85,3 +85,13 @@
     font-weight: 900;
     cursor: pointer;
 }
+.aboveRaw{
+    position: absolute;
+    z-index: 4;
+    top: -42vw;
+    right: 1vw;
+    width: 88vw;
+    height: 1vw;
+    background-color: aqua;
+}
+

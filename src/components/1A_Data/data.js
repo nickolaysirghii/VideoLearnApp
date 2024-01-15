@@ -290,6 +290,58 @@ import video352 from "../../4vegas/vegas352.mp4"
 import video353 from "../../4vegas/vegas353.mp4"
 import video354 from "../../4vegas/vegas354.mp4"
 import video355 from "../../4vegas/vegas355.mp4"
+import video356 from "../../4vegas/vegas356.mp4"
+import video357 from "../../4vegas/vegas357.mp4"
+import video358 from "../../4vegas/vegas358.mp4"
+import video359 from "../../4vegas/vegas359.mp4"
+import video360 from "../../4vegas/vegas360.mp4"
+import video361 from "../../4vegas/vegas361.mp4"
+import video362 from "../../4vegas/vegas362.mp4"
+import video363 from "../../4vegas/vegas363.mp4"
+import video364 from "../../4vegas/vegas364.mp4"
+import video365 from "../../4vegas/vegas365.mp4"
+import video366 from "../../4vegas/vegas366.mp4"
+import video367 from "../../4vegas/vegas367.mp4"
+import video368 from "../../4vegas/vegas368.mp4"
+import video369 from "../../4vegas/vegas369.mp4"
+import video370 from "../../4vegas/vegas370.mp4"
+import video371 from "../../4vegas/vegas371.mp4"
+import video372 from "../../4vegas/vegas372.mp4"
+import video373 from "../../4vegas/vegas373.mp4"
+import video374 from "../../4vegas/vegas374.mp4"
+import video375 from "../../4vegas/vegas375.mp4"
+import video376 from "../../4vegas/vegas376.mp4"
+import video377 from "../../4vegas/vegas377.mp4"
+import video378 from "../../4vegas/vegas378.mp4"
+import video379 from "../../4vegas/vegas379.mp4"
+import video380 from "../../4vegas/vegas380.mp4"
+import video381 from "../../4vegas/vegas381.mp4"
+import video382 from "../../4vegas/vegas382.mp4"
+import video383 from "../../4vegas/vegas383.mp4"
+import video384 from "../../4vegas/vegas384.mp4"
+import video385 from "../../4vegas/vegas385.mp4"
+import video386 from "../../4vegas/vegas386.mp4"
+import video387 from "../../4vegas/vegas387.mp4"
+import video388 from "../../4vegas/vegas388.mp4"
+import video389 from "../../4vegas/vegas389.mp4"
+import video390 from "../../4vegas/vegas390.mp4"
+import video391 from "../../4vegas/vegas391.mp4"
+import video392 from "../../4vegas/vegas392.mp4"
+import video393 from "../../4vegas/vegas393.mp4"
+import video394 from "../../4vegas/vegas394.mp4"
+import video395 from "../../4vegas/vegas395.mp4"
+import video396 from "../../4vegas/vegas396.mp4"
+import video397 from "../../4vegas/vegas397.mp4"
+import video398 from "../../4vegas/vegas398.mp4"
+import video399 from "../../4vegas/vegas399.mp4"
+import video400 from "../../4vegas/vegas400.mp4"
+import video401 from "../../4vegas/vegas401.mp4"
+import video402 from "../../4vegas/vegas402.mp4"
+import video403 from "../../4vegas/vegas403.mp4"
+import video404 from "../../4vegas/vegas404.mp4"
+import video405 from "../../4vegas/vegas405.mp4"
+import video406 from "../../4vegas/vegas406.mp4"
+
 
 
  export const new_data = [
@@ -3926,7 +3978,762 @@ import video355 from "../../4vegas/vegas355.mp4"
 
 
 const vegas = [
-   
+    {
+        id: 302,
+        videoFile: video406,
+        rusQuestion: "по-королевски",
+        before: false,
+        border: false,
+        engDescription: "",
+        answer: "royally",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 301,
+        videoFile: video406,
+        rusQuestion: "по-королевски",
+        before: false,
+        border: false,
+        engDescription: "very much:",
+        answer: "royally",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 300,
+        videoFile: video405,
+        rusQuestion: "несчастный",
+        before: false,
+        border: false,
+        engDescription: "very unhappy:",
+        answer: "miserable",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 299,
+        videoFile: video404,
+        rusQuestion: "повестка дня",
+        before: false,
+        border: false,
+        engDescription: "a list of matters to be discussed at a meeting:",
+        answer: "agenda",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 298,
+        videoFile: video403,
+        rusQuestion: "хочу исправить",
+        before: false,
+        border: false,
+        engDescription: "to forgive someone and be friendly with them again after an argument or disagreement:",
+        answer: "make up",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 297,
+        videoFile: video402,
+        rusQuestion: "расстегнуть молнию",
+        before: false,
+        border: false,
+        engDescription: "to open something by using a zip:",
+        answer: "undo the zipper",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 296,
+        videoFile: video401,
+        rusQuestion: "дощатый настил",
+        before: false,
+        border: false,
+        engDescription: "a path made of wooden boards built along a beach",
+        answer: "boardwalk",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 295,
+        videoFile: video400,
+        rusQuestion: "маяк",
+        before: false,
+        border: false,
+        engDescription: "a tall building near the coast or shore with a flashing light at the top to warn ships of rocks and other dangers",
+        answer: "lighthouse",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 294,
+        videoFile: video399,
+        rusQuestion: "паром",
+        before: false,
+        border: false,
+        engDescription: "a boat or ship for taking passengers and often vehicles across an area of water, especially as a regular service:",
+        answer: "ferry",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 293,
+        videoFile: video398,
+        rusQuestion: "звон",
+        before: false,
+        border: false,
+        engDescription: "a short ringing sound like pieces of glass or metal knocking lightly together:",
+        answer: "clinking",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 292,
+        videoFile: video397,
+        rusQuestion: "обвенчаться",
+        before: false,
+        border: false,
+        engDescription: "to get married:",
+        answer: "get hitched",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 291,
+        videoFile: video396,
+        rusQuestion: "скользкий",
+        before: false,
+        border: false,
+        engDescription: "smooth and shiny: smooth, wet and slippery (= difficult to move on without sliding):",
+        answer: "slick",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 290,
+        videoFile: video395,
+        rusQuestion: "Я держу форт",
+        before: false,
+        border: false,
+        engDescription: "to have responsibility for something while someone is absent:: to be in charge of a place while the person who is usually in charge is away",
+        answer: "I'm holding down the fort",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 289,
+        videoFile: video394,
+        rusQuestion: "Финансовый директор",
+        before: false,
+        border: false,
+        engDescription: "abbreviation for chief financial officer : the person in an organization who has the most important position with responsibility for the organization's finances:",
+        answer: "cfo",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 288,
+        videoFile: video393,
+        rusQuestion: "сигнализация",
+        before: false,
+        border: false,
+        engDescription: "A homing device helps police locate stolen vehicles",
+        answer: "LoJack",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 287,
+        videoFile: video392,
+        rusQuestion: "космонавт",
+        before: false,
+        border: false,
+        engDescription: "an astronaut (= person who travels into space)",
+        answer: "spaceman",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 286,
+        videoFile: video391,
+        rusQuestion: "которым управляют другие.",
+        before: false,
+        border: false,
+        engDescription: "an insecure person, usually male, who is controlled by others.",
+        answer: "he's a tool",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 285,
+        videoFile: video390,
+        rusQuestion: "отказ от",
+        before: false,
+        border: false,
+        engDescription: "to give up something such as a responsibility or claim: to unwillingly stop holding or keeping something:",
+        answer: "relinquish",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 284,
+        videoFile: video389,
+        rusQuestion: "по праву",
+        before: false,
+        border: false,
+        engDescription: "in a morally or legally correct way:",
+        answer: "rightfully",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 283,
+        videoFile: video388,
+        rusQuestion: "они искушают хитрым образом",
+        before: false,
+        border: false,
+        engDescription: "a way of doing things:",
+        answer: "they tempt in a wily fashion",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 282,
+        videoFile: video387,
+        rusQuestion: "коварная соблазнительница",
+        before: false,
+        border: false,
+        engDescription: "(of a person) intelligent, having a very good understanding of situations, possibilities, and people, and often willing to use tricks to achieve an aim: a woman who tries to sexually attract men",
+        answer: "wily temptress",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 281,
+        videoFile: video386,
+        rusQuestion: "уединение",
+        before: false,
+        border: false,
+        engDescription: "to go to a quiet safe place in order to avoid a difficult situation:",
+        answer: "retreat",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 280,
+        videoFile: video385,
+        rusQuestion: "ковчег",
+        before: false,
+        border: false,
+        engDescription: "(in the Bible) a large wooden ship built by Noah in order to save his family and a male and female of every type of animal when the world was covered by a flood",
+        answer: "ark",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 279,
+        videoFile: video384,
+        rusQuestion: "шляпа-федора",
+        before: false,
+        border: false,
+        engDescription: "a man's hat, like a trilby but with a wider brim",
+        answer: "fedora",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 278,
+        videoFile: video383,
+        rusQuestion: "сэндвич",
+        before: false,
+        border: false,
+        engDescription: "a long, thin loaf of bread filled with vegetables and cold meat or cheese",
+        answer: "hoagie",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 277,
+        videoFile: video382,
+        rusQuestion: "жена сына",
+        before: false,
+        border: false,
+        engDescription: "the woman who is married to your son",
+        answer: "daughter-in-law",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 276,
+        videoFile: video381,
+        rusQuestion: "стриптизерша",
+        before: false,
+        border: false,
+        engDescription: "someone whose job is removing all their clothing to entertain other people:",
+        answer: "stripper",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 275,
+        videoFile: video380,
+        rusQuestion: "мешок травки",
+        before: false,
+        border: false,
+        engDescription: "slang → cannabis",
+        answer: "a bag of weed",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 274,
+        videoFile: video379,
+        rusQuestion: "безумие",
+        before: false,
+        border: false,
+        engDescription: "(an example of) uncontrolled and excited behaviour or emotion that is sometimes violent:",
+        answer: "frenzy",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 273,
+        videoFile: video378,
+        rusQuestion: "неуверенность",
+        before: false,
+        border: false,
+        engDescription: "a feeling of lacking confidence and not being sure of your own abilities or of whether people like you :",
+        answer: "insecurity",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 272,
+        videoFile: video377,
+        rusQuestion: "«ласточкин хвост»",
+        before: false,
+        border: false,
+        engDescription: "a type of joint used to fix two pieces of wood firmly together",
+        answer: "dovetail",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 271,
+        videoFile: video376,
+        rusQuestion: "Джек старший",
+        before: false,
+        border: false,
+        engDescription: " older: more advanced, or higher in rank: ",
+        answer: "Jack senior",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 270,
+        videoFile: video375,
+        rusQuestion: "целоваться",
+        before: false,
+        border: false,
+        engDescription: "to kiss, hold, and touch someone in a sexual way:",
+        answer: "smooch",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 269,
+        videoFile: video374,
+        rusQuestion: "ты сумасшедший",
+        before: false,
+        border: false,
+        engDescription: "crazy:unable to think or act clearly because you are extremely worried, angry, or excited by something:",
+        answer: "demented",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 268,
+        videoFile: video373,
+        rusQuestion: "груди",
+        before: false,
+        border: false,
+        engDescription: "a woman's breast:",
+        answer: "boob",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 267,
+        videoFile: video372,
+        rusQuestion: "неуважение , презрение",
+        before: false,
+        border: false,
+        engDescription: "a strong feeling of disliking and having no respect for someone or something:",
+        answer: "contempt",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 267,
+        videoFile: video372,
+        rusQuestion: "отсутствие",
+        before: false,
+        border: false,
+        engDescription: "the fact of not being where you are usually expected to be:",
+        answer: "absence",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 266,
+        videoFile: video371,
+        rusQuestion: "дверная ручка",
+        before: false,
+        border: false,
+        engDescription: "a round handle that you turn to open a door",
+        answer: "doorknob",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 265,
+        videoFile: video370,
+        rusQuestion: "взвесить , ты это не продумал",
+        before: false,
+        border: false,
+        engDescription: "to consider something carefully:",
+        answer: "think through",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 264,
+        videoFile: video369,
+        rusQuestion: "флакон",
+        before: false,
+        border: false,
+        engDescription: "a small glass bottle, especially one containing liquid medicine",
+        answer: "vial",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 263,
+        videoFile: video368,
+        rusQuestion: "похитить",
+        before: false,
+        border: false,
+        engDescription: "to take a person away illegally by force, usually in order to demand money in exchange for releasing them:",
+        answer: "kidnap",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 262,
+        videoFile: video367,
+        rusQuestion: "на долгое время",
+        before: false,
+        border: false,
+        engDescription: "to pull something heavy slowly and with difficulty:something that takes effort over a long time, rather than just a few days, weeks, etc.:",
+        answer: "a long haul",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 261,
+        videoFile: video366,
+        rusQuestion: "не имеющий отношения",
+        before: false,
+        border: false,
+        engDescription: "not related to what is being discussed or considered and therefore not important:",
+        answer: "irrelevant",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 260,
+        videoFile: video365,
+        rusQuestion: "торговый автомат",
+        before: false,
+        border: false,
+        engDescription: "a machine from which you can buy things such as drinks and sweets by putting coins or tokens (= metal or plastic discs) into it, or by using a payment card: the activity of selling things:",
+        answer: "vending machine",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 259,
+        videoFile: video364,
+        rusQuestion: "вотум доверия",
+        before: false,
+        border: false,
+        engDescription: "a sign that you like or trust someone or something:a sign that you are pleased with the quality of something or what someone has done or produced:",
+        answer: "vote of confidence",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 258,
+        videoFile: video363,
+        rusQuestion: "здесь полно",
+        before: false,
+        border: false,
+        engDescription: "a large amount:the number of people or the amount of something that can be transported by a boat:",
+        answer: "boatload",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 257,
+        videoFile: video362,
+        rusQuestion: "скромное жилище ,обитель",
+        before: false,
+        border: false,
+        engDescription: "A person's humble abode is their home, humorously described as being not very special, expensive, or impressive even if it is: ordinary; not special or very important:the place where someone lives: ",
+        answer: "humble abode",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 256,
+        videoFile: video361,
+        rusQuestion: "слесарь",
+        before: false,
+        border: false,
+        engDescription: "a person who repairs and/or makes locks and supplies keys",
+        answer: "locksmith",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 255,
+        videoFile: video360,
+        rusQuestion: "сырая нефть",
+        before: false,
+        border: false,
+        engDescription: "oil from underground that has not yet been made into other products",
+        answer: "crude oil",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 254,
+        videoFile: video359,
+        rusQuestion: "Очистительный завод",
+        before: false,
+        border: false,
+        engDescription: "a factory where substances in their natural state, such as oil or sugar, are made pure:",
+        answer: "refinery",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 253,
+        videoFile: video358,
+        rusQuestion: "лысеющий",
+        before: false,
+        border: false,
+        engDescription: "with little or no hair on the head:",
+        answer: "bald",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 252,
+        videoFile: video358,
+        rusQuestion: "преждевременное",
+        before: false,
+        border: false,
+        engDescription: "in a way that happens or is done too soon, especially before the natural or suitable time:",
+        answer: "prematurely",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 251,
+        videoFile: video357,
+        rusQuestion: "неверный",
+        before: false,
+        border: false,
+        engDescription: "having a sexual relationship or experience with a person who is not your husband, wife, or usual sexual partner:",
+        answer: "unfaithful",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 250,
+        videoFile: video356,
+        rusQuestion: "самооценка",
+        before: false,
+        border: false,
+        engDescription: "belief and confidence in your own ability and value:",
+        answer: "self-esteem",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
     {
         id: 249,
         videoFile: video355,

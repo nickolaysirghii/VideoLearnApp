@@ -20,7 +20,7 @@ export const affirm_data = [
         answer: "I am grateful for the many blessings in my life",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
-        timeGo: 4000,
+        timeGo: 6000,
         
     },
     {
@@ -33,7 +33,7 @@ export const affirm_data = [
         answer: "today I look for and appreciate the good",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
-        timeGo: 4000,
+        timeGo: 6000,
     },
     {
         id: 3,
@@ -45,7 +45,7 @@ export const affirm_data = [
         answer: "I welcome joy into my life",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
-        timeGo: 4000,
+        timeGo: 6000,
     },
     {
         id: 4,
@@ -57,7 +57,7 @@ export const affirm_data = [
         answer: "I am in tune with the abundant nature of the universe",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
-        timeGo: 4000,
+        timeGo: 6000,
     },
     {
         id: 5,
@@ -69,7 +69,7 @@ export const affirm_data = [
         answer: "money comes to me in expected and unexpected ways",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
-        timeGo: 4000,
+        timeGo: 6000,
     },
     {
         id: 6,
@@ -81,7 +81,7 @@ export const affirm_data = [
         answer: "my body knows what's best for my health and well-being",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
-        timeGo: 4000,
+        timeGo: 6000,
     },
     {
         id: 7,
@@ -93,7 +93,7 @@ export const affirm_data = [
         answer: "I attract the perfect people at the right time",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
-        timeGo: 4000,
+        timeGo: 6000,
     },
     {
         id: 8,
@@ -105,7 +105,7 @@ export const affirm_data = [
         answer: "I deserve happiness and success",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
-        timeGo: 4000,
+        timeGo: 6000,
     },
     {
         id: 9,
@@ -117,7 +117,7 @@ export const affirm_data = [
         answer: "something wonderful is always on the verge of happening",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
-        timeGo: 4000,
+        timeGo: 6000,
     },
     {
         id: 10,
@@ -129,6 +129,6 @@ export const affirm_data = [
         answer: "I am worthy. I am enough.",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
-        timeGo: 4000,
+        timeGo: 6000,
     },
 ]
