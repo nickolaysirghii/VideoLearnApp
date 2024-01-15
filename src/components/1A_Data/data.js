@@ -341,6 +341,17 @@ import video403 from "../../4vegas/vegas403.mp4"
 import video404 from "../../4vegas/vegas404.mp4"
 import video405 from "../../4vegas/vegas405.mp4"
 import video406 from "../../4vegas/vegas406.mp4"
+import video407 from "../../4vegas/vegas407.mp4"
+import video408 from "../../4vegas/vegas408.mp4"
+import video409 from "../../4vegas/vegas409.mp4"
+import video410 from "../../5nest/nest410.mp4"
+import video411 from "../../5nest/nest411.mp4"
+import video412 from "../../5nest/nest412.mp4"
+import video413 from "../../5nest/nest413.mp4"
+import video414 from "../../5nest/nest414.mp4"
+import video415 from "../../5nest/nest415.mp4"
+import video416 from "../../5nest/nest416.mp4"
+
 
 
 
@@ -3979,13 +3990,69 @@ import video406 from "../../4vegas/vegas406.mp4"
 
 const vegas = [
     {
-        id: 302,
-        videoFile: video406,
-        rusQuestion: "по-королевски",
+        id: 306,
+        videoFile: video409,
+        rusQuestion: "женатый",
         before: false,
         border: false,
         engDescription: "",
-        answer: "royally",
+        answer: "wedded",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 305,
+        videoFile: video409,
+        rusQuestion: "женатый",
+        before: false,
+        border: false,
+        engDescription: "married:",
+        answer: "wedded",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 304,
+        videoFile: video409,
+        rusQuestion: "законно",
+        before: false,
+        border: false,
+        engDescription: "in a way that is allowed by law:",
+        answer: "lawfully",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 303,
+        videoFile: video408,
+        rusQuestion: "кран",
+        before: false,
+        border: false,
+        engDescription: "a device that controls the flow of liquid, especially water, from a pipe:",
+        answer: "tap",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 302,
+        videoFile: video407,
+        rusQuestion: "ленточная пила",
+        before: false,
+        border: false,
+        engDescription: "a saw (= a tool for cutting hard materials such as wood) that cuts using a moving steel band with sharp points along the edge:",
+        answer: "band saw",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,
@@ -5372,5 +5439,119 @@ const vegas = [
     
     
      
+]
+const nest = [
+    {
+        id: 314,
+        videoFile: video416,
+        rusQuestion: "оценивается",
+        before: false,
+        border: false,
+        engDescription: "",
+        answer: "evaluate",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 313,
+        videoFile: video416,
+        rusQuestion: "оценивается",
+        before: false,
+        border: false,
+        engDescription: "to judge or calculate the quality, importance, amount, or value of something:",
+        answer: "evaluate",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 312,
+        videoFile: video415,
+        rusQuestion: "обижен",
+        before: false,
+        border: false,
+        engDescription: "feeling angry because you have been forced to accept someone or something that you do not like:",
+        answer: "resentful",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 311,
+        videoFile: video414,
+        rusQuestion: "когда не было разрешено",
+        before: false,
+        border: false,
+        engDescription: "without someone's official permission to do something or be in a particular place:",
+        answer: "unauthorized",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 310,
+        videoFile: video413,
+        rusQuestion: "агрессивный , воинственный",
+        before: false,
+        border: false,
+        engDescription: "belligerent",
+        answer: "belligerent",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 309,
+        videoFile: video412,
+        rusQuestion: "ставка",
+        before: false,
+        border: false,
+        engDescription: "an offer to do something when you are competing with other people to do it:",
+        answer: "bid",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 308,
+        videoFile: video411,
+        rusQuestion: "перекрывать старшим козырем",
+        before: false,
+        border: false,
+        engDescription: ": to trump with a higher trump card than the highest previously played on the same trick",
+        answer: "overtrump",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 307,
+        videoFile: video410,
+        rusQuestion: "медикаменты",
+        before: false,
+        border: false,
+        engDescription: "food or other things necessary for living:",
+        answer: "medicine supplies",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
 ]
 
