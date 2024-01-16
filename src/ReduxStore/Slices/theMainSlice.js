@@ -12,7 +12,7 @@ const v = [{
   answer: "start",
   myAnswer: "start",
   color: "rgb(11, 111, 111)",
-  timeGo: 4000,
+  timeGo: 48000,
 },
 {
   id: 2000,

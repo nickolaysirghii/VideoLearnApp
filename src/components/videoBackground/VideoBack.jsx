@@ -20,7 +20,7 @@ const VideoBack = () => {
     e.target.reset()
     
   }
-  const setTime = startLearning ? 1000 : 20000;
+  const setTime = startLearning ? 1000 : 5000;
   useMemo(() =>{
     const delay = setTime;
     const playVideoWithDelay = () => {

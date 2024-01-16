@@ -35,7 +35,7 @@ const MainAria = () => {
           stor[elem.id] = 1
           localStorage.setItem('englishMemory', JSON.stringify(stor));
         }
-        if(elem.getHight > 3){
+        if(elem.getHight > 7){
           elem.color = "pink"
         }
         })
@@ -182,42 +182,24 @@ const MainAria = () => {
   }, a[2]); 
 }
   useMemo(()=>{setVariableTrueThenFalse();},[rightDependency])
-
+  useMemo(()=>{
+    if(countStep > 1){
+      let inoBox = {};
+    
+        if(localStorage.getItem('englishMemory')){
+          dataStatistic.forEach((elem)=>{
+          inoBox[elem.id] = elem.getHight;
+          })
+          localStorage.setItem('englishMemory', JSON.stringify(inoBox));
+        }else{
+        dataStatistic.forEach((elem)=>{
+        inoBox[elem.id] = elem.getHight;
+        })
+        localStorage.setItem('englishMemory', JSON.stringify(inoBox));
+        }
+     }
+  },[countStep])
   
-
-
-  // const shoveInStorage = ()=>{
-  //   let inoBox = {};
-
-  //   if(localStorage.getItem('englishMemory')){
-  //     dataStatistic.forEach((elem)=>{
-  //     inoBox[elem.id] = elem.getHight;
-  //     })
-  //     localStorage.setItem('englishMemory', JSON.stringify(inoBox));
-  //   }else{
-  //   dataStatistic.forEach((elem)=>{
-  //   inoBox[elem.id] = elem.getHight;
-  //   })
-  //   localStorage.setItem('englishMemory', JSON.stringify(inoBox));
-  //   }
-  // }
- if(countStep === 4){
-  let inoBox = {};
-
-    if(localStorage.getItem('englishMemory')){
-      dataStatistic.forEach((elem)=>{
-      inoBox[elem.id] = elem.getHight;
-      })
-      localStorage.setItem('englishMemory', JSON.stringify(inoBox));
-    }else{
-    dataStatistic.forEach((elem)=>{
-    inoBox[elem.id] = elem.getHight;
-    })
-    localStorage.setItem('englishMemory', JSON.stringify(inoBox));
-    }
- }
-
-
   return (
     <div className='main'>
       <Left />
