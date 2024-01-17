@@ -22,7 +22,7 @@ const v = [{
   answer: "start",
   myAnswer: "start",
   color: "rgb(11, 111, 111)",
-  timeGo: 4000,
+  timeGo: 50000,
 },{
   id: 3000,
     videoFile:  thirdStep,
