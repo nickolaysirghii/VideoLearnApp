@@ -20,7 +20,7 @@ export const affirm_data = [
         answer: "I am grateful for the many blessings in my life",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
-        timeGo: 6000,
+        timeGo: 7000,
         
     },
     {
@@ -33,7 +33,7 @@ export const affirm_data = [
         answer: "today I look for and appreciate the good",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
-        timeGo: 6000,
+        timeGo: 10000,
     },
     {
         id: 3,
@@ -69,7 +69,7 @@ export const affirm_data = [
         answer: "money comes to me in expected and unexpected ways",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
-        timeGo: 6000,
+        timeGo: 11000,
     },
     {
         id: 6,

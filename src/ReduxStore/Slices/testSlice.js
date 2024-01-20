@@ -32,11 +32,20 @@ const v = [{
     color: "rgb(11, 111, 111)",
     
 }];
+let theIdx = 0
+const alfa = JSON.parse(localStorage.getItem("splitPoint"))
+if(alfa){
+  new_data.forEach((elem , idx)=>{if(alfa === elem.id){theIdx = idx}})
+}else{theIdx = 200}
+
+
 const initialState = {
 test33: new_data,
 three: [...new_data.slice(0,5),...affirm_data.slice(0,2)],
 four: [...new_data.slice(0,15),...affirm_data.slice(0,5)],
 seven: [...new_data.slice(0,45),...affirm_data],
+done: new_data.slice(theIdx, new_data.length),
+upToLearn: new_data.slice(0,theIdx) 
 
 
 
@@ -229,6 +238,7 @@ export const testData = createSlice({
                 
                
           },
+        
           
      
     }, 
@@ -237,5 +247,5 @@ export const testData = createSlice({
     
 
 );
-export const {proba444 , proba2444} = testData.actions;
+export const { proba444 , proba2444} = testData.actions;
 export default testData.reducer;

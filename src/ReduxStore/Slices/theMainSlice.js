@@ -2,6 +2,8 @@ import { createSlice  } from "@reduxjs/toolkit";
 import firstStep from "../../assets/localVideos/firstStep.mp4"
 import secondStep from "../../assets/localVideos/secondStep.mp4"
 import thirdStep from "../../assets/localVideos/thirdStep.mp4"
+import { new_data } from "../../components/1A_Data/data";
+
 
 
 const v = [{
@@ -31,13 +33,19 @@ const v = [{
     answer: "start",
     myAnswer: "start",
     color: "rgb(11, 111, 111)",
-    timeGo: 4000,
+    timeGo: 65000,
     
 }];
-
+let theIdx = 0
+const alfa = JSON.parse(localStorage.getItem("splitPoint"))
+if(alfa){
+  new_data.forEach((elem , idx)=>{if(alfa === elem.id){theIdx = idx}})
+}else{theIdx = 200}
 
 
 const initialState = {
+xxx: theIdx,
+upToLearn: new_data.slice(0,theIdx), 
 prevI: 0,
 startLearning: false,
 dataStatistic: [],
@@ -273,7 +281,16 @@ export const mainSlice = createSlice({
     deleteBelow: (state , action)=>{
       state.dataStatistic =
        state.dataStatistic.filter(elem=>elem.id !== action.payload)
-    }
+    },
+    parts: (state , action)=>{
+      let theIdx = 0
+      new_data.forEach((elem , idx)=>{
+        if(action.payload === elem.id){
+          theIdx = idx
+        }
+      })
+      state.upToLearn = new_data.slice(0,theIdx) 
+      }
    
      
     }, 
@@ -286,5 +303,5 @@ export const mainSlice = createSlice({
     
 
 );
-export const {deleteBelow , startProcess , getIdxArray , newProcess , newProcess2 , newProcess3 , pointBorder , ispravitiSlovo , workingTarget , process , process2 , process3 , workingArrays} = mainSlice.actions;
+export const {parts , deleteBelow , startProcess , getIdxArray , newProcess , newProcess2 , newProcess3 , pointBorder , ispravitiSlovo , workingTarget , process , process2 , process3 , workingArrays} = mainSlice.actions;
 export default mainSlice.reducer;

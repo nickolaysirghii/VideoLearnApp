@@ -6,13 +6,14 @@ import { useSelector , useDispatch } from 'react-redux';
 import { new_data } from '../1A_Data/data';
 import {workingTarget , workingArrays , getIdxArray, startProcess } from '../../ReduxStore/Slices/theMainSlice';
 import { affirm_data } from '../1A_Data/affirm';
+import { parts } from '../../ReduxStore/Slices/theMainSlice';
 
 
 
 const MainAria = () => {
   const [open , setOpen] = useState(false);
   
-  const { first , second , third , countStep , targetIndex , IndexBefore , rightDependency , startLearning , dataStatistic } = useSelector(state => state.mainData);
+  const {xxx, first , second , third , countStep , targetIndex , IndexBefore , rightDependency , startLearning , dataStatistic } = useSelector(state => state.mainData);
   const oak = [0,first , second , third , first];
   const a = [oak[countStep][targetIndex].engDescription , oak[countStep][targetIndex].rusQuestion , oak[countStep][IndexBefore].timeGo ]
   
@@ -21,8 +22,9 @@ const MainAria = () => {
 
  
   const sorok = ()=>{
+    const worked = new_data.slice(xxx, new_data.length)
     const stor = JSON.parse(localStorage.getItem('englishMemory'));
-    const send = new_data.map((item,idx) => {
+    const send = worked.map((item,idx) => {
       const newItem = {...item};
       newItem.getIdx = idx;
       return newItem;
@@ -35,7 +37,7 @@ const MainAria = () => {
           stor[elem.id] = 1
           localStorage.setItem('englishMemory', JSON.stringify(stor));
         }
-        if(elem.getHight > 7){
+        if(elem.getHight > 21){
           elem.color = "pink"
         }
         })
@@ -183,6 +185,18 @@ const MainAria = () => {
 }
   useMemo(()=>{setVariableTrueThenFalse();},[rightDependency])
   useMemo(()=>{
+    if(countStep === 2){
+      if(localStorage.getItem("splitPoint")){
+        const thePoint = JSON.parse(localStorage.getItem("splitPoint"))
+        localStorage.setItem("splitPoint" , JSON.stringify(thePoint+5))
+        dispacher(parts(thePoint+5))
+    }else{
+        localStorage.setItem("splitPoint",JSON.stringify(200));
+        const thePoint = JSON.parse(localStorage.getItem("splitPoint"))
+        localStorage.setItem("splitPoint" , JSON.stringify(thePoint+5))
+        dispacher(parts(thePoint+5))
+    }
+    }
     if(countStep > 1){
       let inoBox = {};
     
