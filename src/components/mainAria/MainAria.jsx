@@ -6,28 +6,56 @@ import { useSelector , useDispatch } from 'react-redux';
 import { new_data } from '../1A_Data/data';
 import {workingTarget , workingArrays , getIdxArray, startProcess } from '../../ReduxStore/Slices/theMainSlice';
 import { affirm_data } from '../1A_Data/affirm';
-import { parts } from '../../ReduxStore/Slices/theMainSlice';
+import { parts , setREd } from '../../ReduxStore/Slices/theMainSlice';
 
 
 
 const MainAria = () => {
   const [open , setOpen] = useState(false);
   
-  const {xxx, first , second , third , countStep , targetIndex , IndexBefore , rightDependency , startLearning , dataStatistic } = useSelector(state => state.mainData);
+  const {redBar , xxx, first , second , third , countStep , targetIndex , IndexBefore , rightDependency , startLearning , dataStatistic } = useSelector(state => state.mainData);
   const oak = [0,first , second , third , first];
   const a = [oak[countStep][targetIndex].engDescription , oak[countStep][targetIndex].rusQuestion , oak[countStep][IndexBefore].timeGo ]
   
  
   const dispacher = useDispatch();
 
- 
+
   const sorok = ()=>{
+    let average = 0;
+    let theBar = 2;
     const worked = new_data.slice(xxx, new_data.length)
     const stor = JSON.parse(localStorage.getItem('englishMemory'));
+    if(localStorage.getItem('englishMemory')){
+      const send = worked.map((item,idx) => {
+       const newItem = {...item};
+       newItem.getIdx = idx;
+       return newItem;
+     });
+     if(localStorage.getItem('englishMemory')){
+       send.forEach((elem)=>{
+         if(stor[elem.id]){
+           elem.getHight = stor[elem.id]
+         }else{
+           stor[elem.id] = 1
+           localStorage.setItem('englishMemory', JSON.stringify(stor));
+         }
+         })
+     }
+     send.forEach((elem)=>{
+       average = average + elem.getHight
+     })
+     theBar = Math.ceil((average/send.length)+1)
+     
+       
+     }
+    dispacher(setREd(theBar))
     const send = worked.map((item,idx) => {
-      const newItem = {...item};
-      newItem.getIdx = idx;
-      return newItem;
+      if(item.getHight < theBar){
+        const newItem = {...item};
+        newItem.getIdx = idx;
+        return newItem;
+      }
     });
     if(localStorage.getItem('englishMemory')){
       send.forEach((elem)=>{
@@ -225,6 +253,7 @@ const MainAria = () => {
         </div>
       </div>
       <div onClick={()=>{dispacher(startProcess())}} className={startLearning ? "buttonHiden" : 'startButton'}>Ok</div>
+      <div className='theBar' style={{bottom: `${redBar + 17}vh`}}>{redBar}</div>
     </div>
   )
 }

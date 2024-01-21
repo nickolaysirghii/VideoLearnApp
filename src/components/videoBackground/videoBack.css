@@ -76,6 +76,7 @@
     overflow: scroll;
     padding-bottom: 0.2vw;
     padding-right: 1vw;
+    
 }
 .statistic{
    min-width: 3px;
@@ -147,5 +148,13 @@
     font-size: 13px;
     z-index: 5;
     
+}
+.theLine{
+    width: 90vw;
+    border-top: 1px solid red;
+    position: absolute;
+    bottom: 8.55vw;
+    right: -14vw;
+    z-index: 5;
 }
 

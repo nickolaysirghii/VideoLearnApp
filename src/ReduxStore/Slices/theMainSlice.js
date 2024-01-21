@@ -3,6 +3,7 @@ import firstStep from "../../assets/localVideos/firstStep.mp4"
 import secondStep from "../../assets/localVideos/secondStep.mp4"
 import thirdStep from "../../assets/localVideos/thirdStep.mp4"
 import { new_data } from "../../components/1A_Data/data";
+import { act } from "react-dom/test-utils";
 
 
 
@@ -45,6 +46,7 @@ if(alfa){
 
 const initialState = {
 xxx: theIdx,
+redBar: 2 ,
 upToLearn: new_data.slice(0,theIdx), 
 prevI: 0,
 startLearning: false,
@@ -290,6 +292,9 @@ export const mainSlice = createSlice({
         }
       })
       state.upToLearn = new_data.slice(0,theIdx) 
+      },
+      setREd: (state , action)=>{
+        state.redBar = action.payload
       }
    
      
@@ -303,5 +308,5 @@ export const mainSlice = createSlice({
     
 
 );
-export const {parts , deleteBelow , startProcess , getIdxArray , newProcess , newProcess2 , newProcess3 , pointBorder , ispravitiSlovo , workingTarget , process , process2 , process3 , workingArrays} = mainSlice.actions;
+export const {setREd , parts , deleteBelow , startProcess , getIdxArray , newProcess , newProcess2 , newProcess3 , pointBorder , ispravitiSlovo , workingTarget , process , process2 , process3 , workingArrays} = mainSlice.actions;
 export default mainSlice.reducer;

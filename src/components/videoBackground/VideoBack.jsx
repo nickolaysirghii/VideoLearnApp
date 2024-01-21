@@ -8,7 +8,7 @@ const VideoBack = () => {
   const videoRef = useRef(null);
  
   const dispatcher = useDispatch();
-  const {upToLearn , first , second , third , countStep , targetIndex , IndexBefore , rightDependency,dataStatistic,startLearning  } = useSelector(state => state.mainData);
+  const {redBar , upToLearn , first , second , third , countStep , targetIndex , IndexBefore , rightDependency,dataStatistic,startLearning  } = useSelector(state => state.mainData);
   const oak = [0,first , second , third , first];
   const a = [oak[countStep][IndexBefore].videoFile , oak[countStep][targetIndex].rusQuestion]
 
@@ -69,6 +69,7 @@ const VideoBack = () => {
                 })
               }
             </div>
+            <div className='theLine'style={{height:`${redBar}vh`}}></div>
             
             
         </div>
