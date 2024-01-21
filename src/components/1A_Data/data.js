@@ -357,7 +357,7 @@ import video416 from "../../5nest/nest416.mp4"
 
  export const new_data = [
     // {
-    //     id: 401,
+    //     id: 481,
     //     videoFile: video416,
     //     rusQuestion: "оценивается",
     //     before: false,
@@ -371,7 +371,7 @@ import video416 from "../../5nest/nest416.mp4"
     //     getHight: 1
     // },
     {
-        id: 400,
+        id: 480,
         videoFile: video416,
         rusQuestion: "оценивается",
         before: false,
@@ -385,7 +385,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 399,
+        id: 379,
         videoFile: video415,
         rusQuestion: "обижен",
         before: false,
@@ -399,7 +399,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 398,
+        id: 378,
         videoFile: video414,
         rusQuestion: "когда не было разрешено",
         before: false,
@@ -413,7 +413,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 397,
+        id: 377,
         videoFile: video413,
         rusQuestion: "агрессивный , воинственный",
         before: false,
@@ -427,7 +427,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 396,
+        id: 376,
         videoFile: video412,
         rusQuestion: "ставка",
         before: false,
@@ -441,7 +441,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 395,
+        id: 375,
         videoFile: video411,
         rusQuestion: "перекрывать старшим козырем",
         before: false,
@@ -455,7 +455,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 394,
+        id: 374,
         videoFile: video410,
         rusQuestion: "медикаменты",
         before: false,
@@ -469,7 +469,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 393,
+        id: 373,
         videoFile: video409,
         rusQuestion: "женатый",
         before: false,
@@ -483,7 +483,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 392,
+        id: 372,
         videoFile: video409,
         rusQuestion: "женатый",
         before: false,
@@ -497,7 +497,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 391,
+        id: 371,
         videoFile: video409,
         rusQuestion: "законно",
         before: false,
@@ -511,7 +511,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 390,
+        id: 370,
         videoFile: video408,
         rusQuestion: "кран",
         before: false,
@@ -525,7 +525,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 389,
+        id: 369,
         videoFile: video407,
         rusQuestion: "ленточная пила",
         before: false,
@@ -539,7 +539,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 388,
+        id: 368,
         videoFile: video406,
         rusQuestion: "по-королевски",
         before: false,
@@ -553,7 +553,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 387,
+        id: 367,
         videoFile: video405,
         rusQuestion: "несчастный",
         before: false,
@@ -567,7 +567,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 386,
+        id: 366,
         videoFile: video404,
         rusQuestion: "повестка дня",
         before: false,
@@ -581,7 +581,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 385,
+        id: 365,
         videoFile: video403,
         rusQuestion: "хочу исправить",
         before: false,
@@ -595,7 +595,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 384,
+        id: 364,
         videoFile: video402,
         rusQuestion: "расстегнуть молнию",
         before: false,
@@ -609,7 +609,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 383,
+        id: 363,
         videoFile: video401,
         rusQuestion: "дощатый настил",
         before: false,
@@ -623,7 +623,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 382,
+        id: 362,
         videoFile: video400,
         rusQuestion: "маяк",
         before: false,
@@ -637,7 +637,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 381,
+        id: 361,
         videoFile: video399,
         rusQuestion: "паром",
         before: false,
@@ -651,7 +651,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 380,
+        id: 360,
         videoFile: video398,
         rusQuestion: "звон",
         before: false,
@@ -665,7 +665,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 379,
+        id: 359,
         videoFile: video397,
         rusQuestion: "обвенчаться",
         before: false,
@@ -679,7 +679,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 378,
+        id: 358,
         videoFile: video396,
         rusQuestion: "скользкий",
         before: false,
@@ -693,7 +693,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 377,
+        id: 357,
         videoFile: video395,
         rusQuestion: "Я держу форт",
         before: false,
@@ -707,7 +707,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 376,
+        id: 356,
         videoFile: video394,
         rusQuestion: "Финансовый директор",
         before: false,
@@ -721,7 +721,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 375,
+        id: 355,
         videoFile: video393,
         rusQuestion: "сигнализация",
         before: false,
@@ -735,7 +735,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 374,
+        id: 354,
         videoFile: video392,
         rusQuestion: "космонавт",
         before: false,
@@ -749,7 +749,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 373,
+        id: 353,
         videoFile: video391,
         rusQuestion: "которым управляют другие.",
         before: false,
@@ -763,7 +763,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 372,
+        id: 352,
         videoFile: video390,
         rusQuestion: "отказ от",
         before: false,
@@ -777,7 +777,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 371,
+        id: 351,
         videoFile: video389,
         rusQuestion: "по праву",
         before: false,
@@ -791,7 +791,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 370,
+        id: 350,
         videoFile: video388,
         rusQuestion: "они искушают хитрым образом",
         before: false,
@@ -805,7 +805,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 369,
+        id: 349,
         videoFile: video387,
         rusQuestion: "коварная соблазнительница",
         before: false,
@@ -819,7 +819,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 368,
+        id: 348,
         videoFile: video386,
         rusQuestion: "уединение",
         before: false,
@@ -833,7 +833,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 367,
+        id: 347,
         videoFile: video385,
         rusQuestion: "ковчег",
         before: false,
@@ -847,7 +847,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 366,
+        id: 346,
         videoFile: video384,
         rusQuestion: "шляпа-федора",
         before: false,
@@ -861,7 +861,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 365,
+        id: 345,
         videoFile: video383,
         rusQuestion: "сэндвич",
         before: false,
@@ -875,7 +875,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 364,
+        id: 344,
         videoFile: video382,
         rusQuestion: "жена сына",
         before: false,
@@ -889,7 +889,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 363,
+        id: 343,
         videoFile: video381,
         rusQuestion: "стриптизерша",
         before: false,
@@ -903,7 +903,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 362,
+        id: 342,
         videoFile: video380,
         rusQuestion: "мешок травки",
         before: false,
@@ -917,7 +917,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 361,
+        id: 341,
         videoFile: video379,
         rusQuestion: "безумие",
         before: false,
@@ -931,7 +931,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 360,
+        id: 340,
         videoFile: video378,
         rusQuestion: "неуверенность",
         before: false,
@@ -945,7 +945,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 359,
+        id: 339,
         videoFile: video377,
         rusQuestion: "«ласточкин хвост»",
         before: false,
@@ -959,7 +959,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 358,
+        id: 338,
         videoFile: video376,
         rusQuestion: "Джек старший",
         before: false,
@@ -973,7 +973,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 357,
+        id: 337,
         videoFile: video375,
         rusQuestion: "целоваться",
         before: false,
@@ -987,7 +987,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 356,
+        id: 336,
         videoFile: video374,
         rusQuestion: "ты сумасшедший",
         before: false,
@@ -1001,7 +1001,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 355,
+        id: 335,
         videoFile: video373,
         rusQuestion: "груди",
         before: false,
@@ -1015,7 +1015,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 354,
+        id: 334,
         videoFile: video372,
         rusQuestion: "неуважение , презрение",
         before: false,
@@ -1029,7 +1029,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 353,
+        id: 333,
         videoFile: video372,
         rusQuestion: "отсутствие",
         before: false,
@@ -1043,7 +1043,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 352,
+        id: 332,
         videoFile: video371,
         rusQuestion: "дверная ручка",
         before: false,
@@ -1057,7 +1057,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 351,
+        id: 331,
         videoFile: video370,
         rusQuestion: "взвесить , ты это не продумал",
         before: false,
@@ -1071,7 +1071,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 350,
+        id: 330,
         videoFile: video369,
         rusQuestion: "флакон",
         before: false,
@@ -1085,7 +1085,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 349,
+        id: 329,
         videoFile: video368,
         rusQuestion: "похитить",
         before: false,
@@ -1099,7 +1099,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 348,
+        id: 328,
         videoFile: video367,
         rusQuestion: "на долгое время",
         before: false,
@@ -1113,7 +1113,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 347,
+        id: 327,
         videoFile: video366,
         rusQuestion: "не имеющий отношения",
         before: false,
@@ -1127,7 +1127,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 346,
+        id: 326,
         videoFile: video365,
         rusQuestion: "торговый автомат",
         before: false,
@@ -1141,7 +1141,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 345,
+        id: 325,
         videoFile: video364,
         rusQuestion: "вотум доверия",
         before: false,
@@ -1155,7 +1155,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 344,
+        id: 324,
         videoFile: video363,
         rusQuestion: "здесь полно",
         before: false,
@@ -1169,7 +1169,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 343,
+        id: 323,
         videoFile: video362,
         rusQuestion: "скромное жилище ,обитель",
         before: false,
@@ -1183,7 +1183,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 342,
+        id: 322,
         videoFile: video361,
         rusQuestion: "слесарь",
         before: false,
@@ -1197,7 +1197,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 341,
+        id: 321,
         videoFile: video360,
         rusQuestion: "сырая нефть",
         before: false,
@@ -1211,7 +1211,7 @@ import video416 from "../../5nest/nest416.mp4"
         getHight: 1
     },
     {
-        id: 340,
+        id: 320,
         videoFile: video359,
         rusQuestion: "Очистительный завод",
         before: false,
