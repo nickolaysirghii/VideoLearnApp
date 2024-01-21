@@ -47,6 +47,7 @@ if(alfa){
 const initialState = {
 xxx: theIdx,
 redBar: 2 ,
+numBar: 0,
 upToLearn: new_data.slice(0,theIdx), 
 prevI: 0,
 startLearning: false,
@@ -295,6 +296,9 @@ export const mainSlice = createSlice({
       },
       setREd: (state , action)=>{
         state.redBar = action.payload
+      },
+      setNumBar: (state, action)=>{
+        state.numBar = action.payload
       }
    
      
@@ -308,5 +312,5 @@ export const mainSlice = createSlice({
     
 
 );
-export const {setREd , parts , deleteBelow , startProcess , getIdxArray , newProcess , newProcess2 , newProcess3 , pointBorder , ispravitiSlovo , workingTarget , process , process2 , process3 , workingArrays} = mainSlice.actions;
+export const {setNumBar , setREd , parts , deleteBelow , startProcess , getIdxArray , newProcess , newProcess2 , newProcess3 , pointBorder , ispravitiSlovo , workingTarget , process , process2 , process3 , workingArrays} = mainSlice.actions;
 export default mainSlice.reducer;
