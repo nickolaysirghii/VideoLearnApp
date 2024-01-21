@@ -50,12 +50,11 @@ const MainAria = () => {
        
      }
     dispacher(setREd(theBar))
-    const send = worked.map((item,idx) => {
-      if(item.getHight < theBar){
+    let send = worked.map((item,idx) => {
         const newItem = {...item};
         newItem.getIdx = idx;
         return newItem;
-      }
+      
     });
     if(localStorage.getItem('englishMemory')){
       send.forEach((elem)=>{
@@ -70,16 +69,26 @@ const MainAria = () => {
         }
         })
     }
+    let promejutok = [];
+    send.forEach((elem , idx)=>{
+      if(idx < 45){
+        promejutok.push(elem)
+      }else{
+        if(elem.getHight <= redBar+1 ){
+           promejutok.push(elem)
+        }
+      }
+    })
     
 
    dispacher(getIdxArray(send))
  
     const a = [
-      [...send],
-      [...send.slice(0,5),...affirm_data.slice(0,2)],
-      [...send.slice(0,15),...affirm_data.slice(0,5)],
-      [...send.slice(0,45),...affirm_data],
-      send.slice(46,send.length),
+      [...promejutok],
+      [...promejutok.slice(0,5),...affirm_data.slice(0,2)],
+      [...promejutok.slice(0,15),...affirm_data.slice(0,5)],
+      [...promejutok.slice(0,45),...affirm_data],
+      promejutok.slice(46,promejutok.length),
       (goInto)=>{
        const a = [...goInto] ;
         for (let i = a.length - 1; i > 0; i--) {
