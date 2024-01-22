@@ -1,4 +1,4 @@
-import React ,{useEffect , useRef , useMemo}  from 'react';
+import React ,{ useRef , useMemo}  from 'react';
 import { useSelector , useDispatch } from 'react-redux';
 import "./videoBack.css";
 import CheckText from '../checkText/CheckText';

@@ -3,7 +3,7 @@ import "./mainAria.css";
 import Left from '../left/Left';
 import VideoBack from '../videoBackground/VideoBack';
 import { useSelector , useDispatch } from 'react-redux';
-import { new_data } from '../1A_Data/data';
+import { WorkingArra1 } from '../../1AData/1Data';
 import {workingTarget , workingArrays , getIdxArray, startProcess } from '../../ReduxStore/Slices/theMainSlice';
 import { affirm_data } from '../1A_Data/affirm';
 import { parts , setREd , setNumBar } from '../../ReduxStore/Slices/theMainSlice';
@@ -24,7 +24,7 @@ const MainAria = () => {
   const sorok = ()=>{
     let average = 0;
     let theBar = 2;
-    const worked = new_data.slice(xxx, new_data.length)
+    const worked = WorkingArra1.slice(xxx, WorkingArra1.length)
     const stor = JSON.parse(localStorage.getItem('englishMemory'));
     if(localStorage.getItem('englishMemory')){
       const send = worked.map((item,idx) => {
@@ -74,9 +74,11 @@ const MainAria = () => {
       if(idx < 45){
         promejutok.push(elem)
       }else{
-        if(elem.getHight < redBar ){
+        if(elem.getHight <= redBar ){
            promejutok.push(elem)
 
+        }else{
+          elem.color = "rgb(50, 118, 213)"
         }
       }
     })

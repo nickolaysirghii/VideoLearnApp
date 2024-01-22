@@ -2,8 +2,7 @@ import { createSlice  } from "@reduxjs/toolkit";
 import firstStep from "../../assets/localVideos/firstStep.mp4"
 import secondStep from "../../assets/localVideos/secondStep.mp4"
 import thirdStep from "../../assets/localVideos/thirdStep.mp4"
-import { new_data } from "../../components/1A_Data/data";
-import { act } from "react-dom/test-utils";
+import { WorkingArra1 } from "../../1AData/1Data";
 
 
 
@@ -40,7 +39,7 @@ const v = [{
 let theIdx = 0
 const alfa = JSON.parse(localStorage.getItem("splitPoint"))
 if(alfa){
-  new_data.forEach((elem , idx)=>{if(alfa === elem.id){theIdx = idx}})
+  WorkingArra1.forEach((elem , idx)=>{if(alfa === elem.id){theIdx = idx}})
 }else{theIdx = 200}
 
 
@@ -48,7 +47,7 @@ const initialState = {
 xxx: theIdx,
 redBar: 2 ,
 numBar: 0,
-upToLearn: new_data.slice(0,theIdx), 
+upToLearn: WorkingArra1.slice(0,theIdx), 
 prevI: 0,
 startLearning: false,
 dataStatistic: [],
@@ -287,12 +286,12 @@ export const mainSlice = createSlice({
     },
     parts: (state , action)=>{
       let theIdx = 0
-      new_data.forEach((elem , idx)=>{
+      WorkingArra1.forEach((elem , idx)=>{
         if(action.payload === elem.id){
           theIdx = idx
         }
       })
-      state.upToLearn = new_data.slice(0,theIdx) 
+      state.upToLearn = WorkingArra1.slice(0,theIdx) 
       },
       setREd: (state , action)=>{
         state.redBar = action.payload
