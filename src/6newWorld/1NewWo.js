@@ -25,22 +25,22 @@ import NWD26 from "./NWD26.mp4"
 import NWD27 from "./NWD27.mp4"
 
 export const NEW11 =[
+    // {
+    //     id: 506,
+    //     videoFile: NWD27,
+    //     rusQuestion: "трюки",
+    //     before: false,
+    //     border: false,
+    //     engDescription: "something that is not serious or of real value that is used to attract people's attention or interest temporarily, especially to make them buy something:",
+    //     answer: "gimmick",
+    //     myAnswer: "",
+    //     color: "rgb(43, 198, 226)",
+    //     getIdx: 1,
+    //     timeGo: 4000,
+    //     getHight: 1
+    // },
     {
-        id: 481,
-        videoFile: NWD27,
-        rusQuestion: "трюки",
-        before: false,
-        border: false,
-        engDescription: "something that is not serious or of real value that is used to attract people's attention or interest temporarily, especially to make them buy something:",
-        answer: "gimmick",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-        getIdx: 1,
-        timeGo: 4000,
-        getHight: 1
-    },
-    {
-        id: 481,
+        id: 505,
         videoFile: NWD26,
         rusQuestion: "тщеславие",
         before: false,
@@ -54,7 +54,7 @@ export const NEW11 =[
         getHight: 1
     },
     {
-        id: 481,
+        id: 504,
         videoFile: NWD25,
         rusQuestion: "удобство",
         before: false,
@@ -68,7 +68,7 @@ export const NEW11 =[
         getHight: 1
     },
     {
-        id: 481,
+        id: 503,
         videoFile: NWD24,
         rusQuestion: "осанка",
         before: false,
@@ -82,7 +82,7 @@ export const NEW11 =[
         getHight: 1
     },
     {
-        id: 481,
+        id: 502,
         videoFile: NWD22,
         rusQuestion: "адаптированный",
         before: false,
@@ -96,7 +96,7 @@ export const NEW11 =[
         getHight: 1
     },
     {
-        id: 481,
+        id: 501,
         videoFile: NWD21,
         rusQuestion: "прибыли",
         before: false,
@@ -110,7 +110,7 @@ export const NEW11 =[
         getHight: 1
     },
     {
-        id: 481,
+        id: 500,
         videoFile: NWD20,
         rusQuestion: "продвигать",
         before: false,
@@ -124,7 +124,7 @@ export const NEW11 =[
         getHight: 1
     },
     {
-        id: 481,
+        id: 499,
         videoFile: NWD19,
         rusQuestion: "уход",
         before: false,
@@ -138,7 +138,7 @@ export const NEW11 =[
         getHight: 1
     },
     {
-        id: 481,
+        id: 498,
         videoFile: NWD18,
         rusQuestion: "широкий",
         before: false,
@@ -152,7 +152,7 @@ export const NEW11 =[
         getHight: 1
     },
     {
-        id: 481,
+        id: 497,
         videoFile: NWD17,
         rusQuestion: "ликвидировать разрыв",
         before: false,
@@ -166,7 +166,7 @@ export const NEW11 =[
         getHight: 1
     },
     {
-        id: 481,
+        id: 496,
         videoFile: NWD16,
         rusQuestion: "переход",
         before: false,
@@ -180,7 +180,7 @@ export const NEW11 =[
         getHight: 1
     },
     {
-        id: 481,
+        id: 495,
         videoFile: NWD15,
         rusQuestion: "агент по снабжению",
         before: false,
@@ -194,7 +194,7 @@ export const NEW11 =[
         getHight: 1
     },
     {
-        id: 481,
+        id: 494,
         videoFile: NWD13,
         rusQuestion: "идеальный",
         before: false,
@@ -208,7 +208,7 @@ export const NEW11 =[
         getHight: 1
     },
     {
-        id: 481,
+        id: 493,
         videoFile: NWD12,
         rusQuestion: "в некотором роде",
         before: false,
@@ -222,7 +222,7 @@ export const NEW11 =[
         getHight: 1
     },
     {
-        id: 481,
+        id: 492,
         videoFile: NWD11,
         rusQuestion: "подвижность , ловкость , быстрота",
         before: false,
@@ -236,7 +236,7 @@ export const NEW11 =[
         getHight: 1
     },
     {
-        id: 481,
+        id: 491,
         videoFile: NWD10,
         rusQuestion: "насколько хорошо он будет работать",
         before: false,
@@ -250,7 +250,7 @@ export const NEW11 =[
         getHight: 1
     },
     {
-        id: 481,
+        id: 490,
         videoFile: NWD9,
         rusQuestion: "оптом",
         before: false,
@@ -264,7 +264,7 @@ export const NEW11 =[
         getHight: 1
     },
     {
-        id: 481,
+        id: 489,
         videoFile: NWD8,
         rusQuestion: "выполнение заказа",
         before: false,
@@ -278,7 +278,7 @@ export const NEW11 =[
         getHight: 1
     },
     {
-        id: 481,
+        id: 488,
         videoFile: NWD7,
         rusQuestion: "поставщик",
         before: false,
@@ -292,7 +292,7 @@ export const NEW11 =[
         getHight: 1
     },
     {
-        id: 481,
+        id: 487,
         videoFile: NWD6,
         rusQuestion: "запускать рекламу",
         before: false,
@@ -306,7 +306,7 @@ export const NEW11 =[
         getHight: 1
     },
     {
-        id: 481,
+        id: 486,
         videoFile: NWD5,
         rusQuestion: "Основной поток",
         before: false,
@@ -320,7 +320,7 @@ export const NEW11 =[
         getHight: 1
     },
     {
-        id: 481,
+        id: 485,
         videoFile: NWD4,
         rusQuestion: "соответствующий , уместный",
         before: false,
@@ -334,7 +334,7 @@ export const NEW11 =[
         getHight: 1
     },
     {
-        id: 481,
+        id: 484,
         videoFile: NWD3,
         rusQuestion: "выбранный вручную",
         before: false,
@@ -348,7 +348,7 @@ export const NEW11 =[
         getHight: 1
     },
     {
-        id: 481,
+        id: 483,
         videoFile: NWD2,
         rusQuestion: "викторина , контрольный опрос",
         before: false,
@@ -362,7 +362,7 @@ export const NEW11 =[
         getHight: 1
     },
     {
-        id: 481,
+        id: 482,
         videoFile: NWD1,
         rusQuestion: "Прямая поставка",
         before: false,
