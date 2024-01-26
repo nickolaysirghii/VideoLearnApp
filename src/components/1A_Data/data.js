@@ -357,21 +357,7 @@ import video416 from "../../5nest/nest416.mp4"
 
  export const new_data = [
     {
-        id: 481,
-        videoFile: video416,
-        rusQuestion: "оценивается",
-        before: false,
-        border: false,
-        engDescription: "",
-        answer: "evaluate",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-        getIdx: 1,
-        timeGo: 4000,
-        getHight: 1
-    },
-    {
-        id: 480,
+        id: 380,
         videoFile: video416,
         rusQuestion: "оценивается",
         before: false,
@@ -418,7 +404,7 @@ import video416 from "../../5nest/nest416.mp4"
         rusQuestion: "агрессивный , воинственный",
         before: false,
         border: false,
-        engDescription: "belligerent",
+        engDescription: "wishing to fight or argue:",
         answer: "belligerent",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
@@ -462,20 +448,6 @@ import video416 from "../../5nest/nest416.mp4"
         border: false,
         engDescription: "food or other things necessary for living:",
         answer: "medicine supplies",
-        myAnswer: "",
-        color: "rgb(43, 198, 226)",
-        getIdx: 1,
-        timeGo: 4000,
-        getHight: 1
-    },
-    {
-        id: 373,
-        videoFile: video409,
-        rusQuestion: "женатый",
-        before: false,
-        border: false,
-        engDescription: "",
-        answer: "wedded",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,

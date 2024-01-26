@@ -23,24 +23,219 @@ import NWD24 from "./NWD24.mp4"
 import NWD25 from "./NWD25.mp4"
 import NWD26 from "./NWD26.mp4"
 import NWD27 from "./NWD27.mp4"
+import NWD28 from "./NWD28.mp4"
+import NWD29 from "./NWD29.mp4"
+import NWD31 from "./NWD31.mp4"
+import NWD32 from "./NWD32.mp4"
+import NWD33 from "./NWD33.mp4"
+import NWD34 from "./NWD34.mp4"
+import NWD35 from "./NWD35.mp4"
+import NWD36 from "./NWD36.mp4"
+import NWD37 from "./NWD37.mp4"
+import NWD38 from "./NWD38.mp4"
+import NWD39 from "./NWD39.mp4"
+import NWD40 from "./NWD40.mp4"
+import NWD41 from "./NWD41.mp4"
 
 export const NEW11 =[
-    // {
-    //     id: 506,
-    //     videoFile: NWD27,
-    //     rusQuestion: "трюки",
-    //     before: false,
-    //     border: false,
-    //     engDescription: "something that is not serious or of real value that is used to attract people's attention or interest temporarily, especially to make them buy something:",
-    //     answer: "gimmick",
-    //     myAnswer: "",
-    //     color: "rgb(43, 198, 226)",
-    //     getIdx: 1,
-    //     timeGo: 4000,
-    //     getHight: 1
-    // },
     {
-        id: 505,
+        id: 419,
+        videoFile: NWD41,
+        rusQuestion: "использовать,усилие рычага",
+        before: false,
+        border: false,
+        engDescription: "to use something that you already have in order to achieve something new or better:",
+        answer: "leverage",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 418,
+        videoFile: NWD40,
+        rusQuestion: "допродажи",
+        before: false,
+        border: false,
+        engDescription: "to try to persuade a customer who is already buying something to buy more, or to buy something more expensive:",
+        answer: "upsell",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 417,
+        videoFile: NWD39,
+        rusQuestion: "как показано на канале tv dot com",
+        before: false,
+        border: false,
+        engDescription: "the site where to find winning products",
+        answer: "as seen on tv dot com",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 416,
+        videoFile: NWD38,
+        rusQuestion: "открыть ссылку в новой вкладке",
+        before: false,
+        border: false,
+        engDescription: "save the find product for the next overview",
+        answer: "open link in a new tab",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 415,
+        videoFile: NWD37,
+        rusQuestion: "ниша",
+        before: false,
+        border: false,
+        engDescription: "interesting to, aimed at, or affecting only a small number of people:",
+        answer: "niche",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 414,
+        videoFile: NWD36,
+        rusQuestion: "покупка",
+        before: false,
+        border: false,
+        engDescription: "to buy something:",
+        answer: "purchase",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 413,
+        videoFile: NWD35,
+        rusQuestion: "валюта",
+        before: false,
+        border: false,
+        engDescription: "the money that is used in a particular country at a particular time:",
+        answer: "currency",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 412,
+        videoFile: NWD34,
+        rusQuestion: "исследование продукта",
+        before: false,
+        border: false,
+        engDescription: "the process of deciding which new products might be successful, and the best way to develop and sell them:",
+        answer: "product research",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 411,
+        videoFile: NWD33,
+        rusQuestion: "всякий раз, когда вам",
+        before: false,
+        border: false,
+        engDescription: "every or any time:",
+        answer: "whenever",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 410,
+        videoFile: NWD32,
+        rusQuestion: "это всегда даст вам ракурс",
+        before: false,
+        border: false,
+        engDescription: "a position from which something is looked at:  a way of considering, judging, or dealing with something:",
+        answer: "angles",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 409,
+        videoFile: NWD31,
+        rusQuestion: "насыщенный",
+        before: false,
+        border: false,
+        engDescription: "completely filled with something so that no more can be added:",
+        answer: "saturated",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 408,
+        videoFile: NWD29,
+        rusQuestion: "кучу денег",
+        before: false,
+        border: false,
+        engDescription: "infml much or many:",
+        answer: "loads of money",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 407,
+        videoFile: NWD28,
+        rusQuestion: "шесть цифр , шестизначная цифра",
+        before: false,
+        border: false,
+        engDescription: "the symbol for a number or an amount expressed in numbers:",
+        answer: "six figures",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 406,
+        videoFile: NWD27,
+        rusQuestion: "трюки",
+        before: false,
+        border: false,
+        engDescription: "something that is not serious or of real value that is used to attract people's attention or interest temporarily, especially to make them buy something:",
+        answer: "gimmick",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 405,
         videoFile: NWD26,
         rusQuestion: "тщеславие",
         before: false,
@@ -54,7 +249,7 @@ export const NEW11 =[
         getHight: 1
     },
     {
-        id: 504,
+        id: 404,
         videoFile: NWD25,
         rusQuestion: "удобство",
         before: false,
@@ -68,7 +263,7 @@ export const NEW11 =[
         getHight: 1
     },
     {
-        id: 503,
+        id: 403,
         videoFile: NWD24,
         rusQuestion: "осанка",
         before: false,
@@ -82,7 +277,7 @@ export const NEW11 =[
         getHight: 1
     },
     {
-        id: 502,
+        id: 402,
         videoFile: NWD22,
         rusQuestion: "адаптированный",
         before: false,
@@ -96,7 +291,7 @@ export const NEW11 =[
         getHight: 1
     },
     {
-        id: 501,
+        id: 401,
         videoFile: NWD21,
         rusQuestion: "прибыли",
         before: false,
@@ -110,7 +305,7 @@ export const NEW11 =[
         getHight: 1
     },
     {
-        id: 500,
+        id: 400,
         videoFile: NWD20,
         rusQuestion: "продвигать",
         before: false,
@@ -124,7 +319,7 @@ export const NEW11 =[
         getHight: 1
     },
     {
-        id: 499,
+        id: 399,
         videoFile: NWD19,
         rusQuestion: "уход",
         before: false,
@@ -138,7 +333,7 @@ export const NEW11 =[
         getHight: 1
     },
     {
-        id: 498,
+        id: 398,
         videoFile: NWD18,
         rusQuestion: "широкий",
         before: false,
@@ -152,7 +347,7 @@ export const NEW11 =[
         getHight: 1
     },
     {
-        id: 497,
+        id: 397,
         videoFile: NWD17,
         rusQuestion: "ликвидировать разрыв",
         before: false,
@@ -166,7 +361,7 @@ export const NEW11 =[
         getHight: 1
     },
     {
-        id: 496,
+        id: 396,
         videoFile: NWD16,
         rusQuestion: "переход",
         before: false,
@@ -180,7 +375,7 @@ export const NEW11 =[
         getHight: 1
     },
     {
-        id: 495,
+        id: 395,
         videoFile: NWD15,
         rusQuestion: "агент по снабжению",
         before: false,
@@ -194,7 +389,7 @@ export const NEW11 =[
         getHight: 1
     },
     {
-        id: 494,
+        id: 394,
         videoFile: NWD13,
         rusQuestion: "идеальный",
         before: false,
@@ -208,7 +403,7 @@ export const NEW11 =[
         getHight: 1
     },
     {
-        id: 493,
+        id: 393,
         videoFile: NWD12,
         rusQuestion: "в некотором роде",
         before: false,
@@ -222,7 +417,7 @@ export const NEW11 =[
         getHight: 1
     },
     {
-        id: 492,
+        id: 392,
         videoFile: NWD11,
         rusQuestion: "подвижность , ловкость , быстрота",
         before: false,
@@ -236,7 +431,7 @@ export const NEW11 =[
         getHight: 1
     },
     {
-        id: 491,
+        id: 391,
         videoFile: NWD10,
         rusQuestion: "насколько хорошо он будет работать",
         before: false,
@@ -250,7 +445,7 @@ export const NEW11 =[
         getHight: 1
     },
     {
-        id: 490,
+        id: 390,
         videoFile: NWD9,
         rusQuestion: "оптом",
         before: false,
@@ -264,7 +459,7 @@ export const NEW11 =[
         getHight: 1
     },
     {
-        id: 489,
+        id: 389,
         videoFile: NWD8,
         rusQuestion: "выполнение заказа",
         before: false,
@@ -278,7 +473,7 @@ export const NEW11 =[
         getHight: 1
     },
     {
-        id: 488,
+        id: 388,
         videoFile: NWD7,
         rusQuestion: "поставщик",
         before: false,
@@ -292,7 +487,7 @@ export const NEW11 =[
         getHight: 1
     },
     {
-        id: 487,
+        id: 387,
         videoFile: NWD6,
         rusQuestion: "запускать рекламу",
         before: false,
@@ -306,7 +501,7 @@ export const NEW11 =[
         getHight: 1
     },
     {
-        id: 486,
+        id: 386,
         videoFile: NWD5,
         rusQuestion: "Основной поток",
         before: false,
@@ -320,7 +515,7 @@ export const NEW11 =[
         getHight: 1
     },
     {
-        id: 485,
+        id: 385,
         videoFile: NWD4,
         rusQuestion: "соответствующий , уместный",
         before: false,
@@ -334,7 +529,7 @@ export const NEW11 =[
         getHight: 1
     },
     {
-        id: 484,
+        id: 384,
         videoFile: NWD3,
         rusQuestion: "выбранный вручную",
         before: false,
@@ -348,7 +543,7 @@ export const NEW11 =[
         getHight: 1
     },
     {
-        id: 483,
+        id: 383,
         videoFile: NWD2,
         rusQuestion: "викторина , контрольный опрос",
         before: false,
@@ -362,7 +557,7 @@ export const NEW11 =[
         getHight: 1
     },
     {
-        id: 482,
+        id: 382,
         videoFile: NWD1,
         rusQuestion: "Прямая поставка",
         before: false,
