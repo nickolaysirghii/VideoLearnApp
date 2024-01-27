@@ -35,10 +35,13 @@ const VideoBack = () => {
   }, [rightDependency]);
   const deleteOUtdate = (theId , iks)=>{
     const stor = JSON.parse(localStorage.getItem('englishMemory'));
-    delete stor[theId];
+    if(stor[theId]>1){
+      stor[theId] = stor[theId] - 1 
+    }else{
+      delete stor[theId];
+    }
     localStorage.setItem('englishMemory', JSON.stringify(stor));
     dispatcher(deleteBelow(theId))
-    console.log(iks)
   }
  
   return (

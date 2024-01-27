@@ -281,8 +281,11 @@ export const mainSlice = createSlice({
       state.startLearning = true;
     },
     deleteBelow: (state , action)=>{
-      state.dataStatistic =
-       state.dataStatistic.filter(elem=>elem.id !== action.payload)
+      state.dataStatistic.forEach(elem =>{
+        if(elem.id === action.payload){
+          elem.getHight = elem.getHight -1
+        }
+      })
     },
     parts: (state , action)=>{
       let theIdx = 0

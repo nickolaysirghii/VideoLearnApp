@@ -70,11 +70,17 @@ const MainAria = () => {
         })
     }
     let promejutok = [];
+    let gap = 2;
+    if(JSON.parse(localStorage.getItem("gap"))){
+      gap = JSON.parse(localStorage.getItem("gap"))
+    }else{
+      localStorage.setItem("gap",JSON.stringify(2))
+    }
     send.forEach((elem , idx)=>{
       if(idx < 45){
         promejutok.push(elem)
       }else{
-        if(elem.getHight <= redBar+1 ){
+        if(elem.getHight < redBar+gap){
            promejutok.push(elem)
 
         }else{
