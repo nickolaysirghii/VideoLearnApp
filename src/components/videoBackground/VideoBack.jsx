@@ -72,7 +72,7 @@ const VideoBack = () => {
                 })
               }
             </div>
-            <div className='theLine'style={{bottom:`${redBar+18}vh`}}></div>
+            <div className='theLine'style={{bottom:`${redBar+19}vh`}}></div>
             
             
         </div>

@@ -271,7 +271,7 @@ const MainAria = () => {
         </div>
       </div>
       <div onClick={()=>{dispacher(startProcess())}} className={startLearning ? "buttonHiden" : 'startButton'}>Ok</div>
-      <div className='theBar' style={{bottom: `${redBar + 17}vh`}}>{numBar}</div>
+      <div className='theBar' style={{bottom: `${redBar + 18}vh`}}>{numBar}</div>
     </div>
   )
 }

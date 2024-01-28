@@ -14,8 +14,593 @@ import NES13 from "./NES13.mp4"
 import NES14 from "./NES14.mp4"
 import NES15 from "./NES15.mp4"
 import NES16 from "./NES16.mp4"
+import NES17 from "./NES17.mp4"
+import NES18 from "./NES18.mp4"
+import NES19 from "./NES19.mp4"
+import NES20 from "./NES20.mp4"
+import NES21 from "./NES21.mp4"
+import NES22 from "./NES22.mp4"
+import NES23 from "./NES23.mp4"
+import NES24 from "./NES24.mp4"
+import NES25 from "./NES25.mp4"
+import NES26 from "./NES26.mp4"
+import NES27 from "./NES27.mp4"
+import NES28 from "./NES28.mp4"
+import NES29 from "./NES29.mp4"
+import NES30 from "./NES30.mp4"
+import NES31 from "./NES31.mp4"
+import NES32 from "./NES32.mp4"
+import NES33 from "./NES33.mp4"
+import NES34 from "./NES34.mp4"
+import NES35 from "./NES35.mp4"
+import NES36 from "./NES36.mp4"
+import NES37 from "./NES37.mp4"
+import NES38 from "./NES38.mp4"
+import NES39 from "./NES39.mp4"
+import NES40 from "./NES40.mp4"
+import NES41 from "./NES41.mp4"
+import NES42 from "./NES42.mp4"
+import NES43 from "./NES43.mp4"
+import NES44 from "./NES44.mp4"
+import NES45 from "./NES45.mp4"
+import NES46 from "./NES46.mp4"
+import NES47 from "./NES47.mp4"
+import NES48 from "./NES48.mp4"
+import NES49 from "./NES49.mp4"
+import NES50 from "./NES50.mp4"
+import NES51 from "./NES51.mp4"
+import NES52 from "./NES52.mp4"
+import NES53 from "./NES53.mp4"
+import NES54 from "./NES54.mp4"
+import NES55 from "./NES55.mp4"
 
 export const nest = [
+    {
+        id: 474,
+        videoFile: NES55,
+        rusQuestion: "чепуха , вздор",
+        before: false,
+        border: false,
+        engDescription: "nonsense:",
+        answer: "baloney",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 473,
+        videoFile: NES54,
+        rusQuestion: "чепуха , вздор",
+        before: false,
+        border: false,
+        engDescription: "nonsense:",
+        answer: "baloney",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 472,
+        videoFile: NES53,
+        rusQuestion: "чепуха , вздор",
+        before: false,
+        border: false,
+        engDescription: "nonsense:",
+        answer: "baloney",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 471,
+        videoFile: NES52,
+        rusQuestion: "чепуха , вздор",
+        before: false,
+        border: false,
+        engDescription: "nonsense:",
+        answer: "baloney",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 470,
+        videoFile: NES51,
+        rusQuestion: "чепуха , вздор",
+        before: false,
+        border: false,
+        engDescription: "nonsense:",
+        answer: "baloney",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 469,
+        videoFile: NES50,
+        rusQuestion: "чепуха , вздор",
+        before: false,
+        border: false,
+        engDescription: "nonsense:",
+        answer: "baloney",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 468,
+        videoFile: NES49,
+        rusQuestion: "чепуха , вздор",
+        before: false,
+        border: false,
+        engDescription: "nonsense:",
+        answer: "baloney",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 467,
+        videoFile: NES48,
+        rusQuestion: "чепуха , вздор",
+        before: false,
+        border: false,
+        engDescription: "nonsense:",
+        answer: "baloney",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 466,
+        videoFile: NES47,
+        rusQuestion: "чепуха , вздор",
+        before: false,
+        border: false,
+        engDescription: "nonsense:",
+        answer: "baloney",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 465,
+        videoFile: NES46,
+        rusQuestion: "чепуха , вздор",
+        before: false,
+        border: false,
+        engDescription: "nonsense:",
+        answer: "baloney",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 464,
+        videoFile: NES45,
+        rusQuestion: "чепуха , вздор",
+        before: false,
+        border: false,
+        engDescription: "nonsense:",
+        answer: "baloney",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 463,
+        videoFile: NES44,
+        rusQuestion: "чепуха , вздор",
+        before: false,
+        border: false,
+        engDescription: "nonsense:",
+        answer: "baloney",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 462,
+        videoFile: NES43,
+        rusQuestion: "чепуха , вздор",
+        before: false,
+        border: false,
+        engDescription: "nonsense:",
+        answer: "baloney",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 461,
+        videoFile: NES42,
+        rusQuestion: "чепуха , вздор",
+        before: false,
+        border: false,
+        engDescription: "nonsense:",
+        answer: "baloney",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 460,
+        videoFile: NES41,
+        rusQuestion: "чепуха , вздор",
+        before: false,
+        border: false,
+        engDescription: "nonsense:",
+        answer: "baloney",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 459,
+        videoFile: NES40,
+        rusQuestion: "чепуха , вздор",
+        before: false,
+        border: false,
+        engDescription: "nonsense:",
+        answer: "baloney",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 458,
+        videoFile: NES39,
+        rusQuestion: "чепуха , вздор",
+        before: false,
+        border: false,
+        engDescription: "nonsense:",
+        answer: "baloney",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 457,
+        videoFile: NES38,
+        rusQuestion: "чепуха , вздор",
+        before: false,
+        border: false,
+        engDescription: "nonsense:",
+        answer: "baloney",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 456,
+        videoFile: NES37,
+        rusQuestion: "чепуха , вздор",
+        before: false,
+        border: false,
+        engDescription: "nonsense:",
+        answer: "baloney",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 455,
+        videoFile: NES36,
+        rusQuestion: "чепуха , вздор",
+        before: false,
+        border: false,
+        engDescription: "nonsense:",
+        answer: "baloney",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 454,
+        videoFile: NES35,
+        rusQuestion: "чепуха , вздор",
+        before: false,
+        border: false,
+        engDescription: "nonsense:",
+        answer: "baloney",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 453,
+        videoFile: NES34,
+        rusQuestion: "чепуха , вздор",
+        before: false,
+        border: false,
+        engDescription: "nonsense:",
+        answer: "baloney",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 452,
+        videoFile: NES33,
+        rusQuestion: "чепуха , вздор",
+        before: false,
+        border: false,
+        engDescription: "nonsense:",
+        answer: "baloney",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 451,
+        videoFile: NES32,
+        rusQuestion: "чепуха , вздор",
+        before: false,
+        border: false,
+        engDescription: "nonsense:",
+        answer: "baloney",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 450,
+        videoFile: NES31,
+        rusQuestion: "чепуха , вздор",
+        before: false,
+        border: false,
+        engDescription: "nonsense:",
+        answer: "baloney",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 449,
+        videoFile: NES30,
+        rusQuestion: "чепуха , вздор",
+        before: false,
+        border: false,
+        engDescription: "nonsense:",
+        answer: "baloney",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 448,
+        videoFile: NES29,
+        rusQuestion: "чепуха , вздор",
+        before: false,
+        border: false,
+        engDescription: "nonsense:",
+        answer: "baloney",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 447,
+        videoFile: NES28,
+        rusQuestion: "чепуха , вздор",
+        before: false,
+        border: false,
+        engDescription: "nonsense:",
+        answer: "baloney",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 446,
+        videoFile: NES27,
+        rusQuestion: "чепуха , вздор",
+        before: false,
+        border: false,
+        engDescription: "nonsense:",
+        answer: "baloney",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 445,
+        videoFile: NES26,
+        rusQuestion: "чепуха , вздор",
+        before: false,
+        border: false,
+        engDescription: "nonsense:",
+        answer: "baloney",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 444,
+        videoFile: NES25,
+        rusQuestion: "чепуха , вздор",
+        before: false,
+        border: false,
+        engDescription: "nonsense:",
+        answer: "baloney",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 443,
+        videoFile: NES24,
+        rusQuestion: "чепуха , вздор",
+        before: false,
+        border: false,
+        engDescription: "nonsense:",
+        answer: "baloney",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 442,
+        videoFile: NES23,
+        rusQuestion: "чепуха , вздор",
+        before: false,
+        border: false,
+        engDescription: "nonsense:",
+        answer: "baloney",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 441,
+        videoFile: NES22,
+        rusQuestion: "чепуха , вздор",
+        before: false,
+        border: false,
+        engDescription: "nonsense:",
+        answer: "baloney",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 440,
+        videoFile: NES21,
+        rusQuestion: "чепуха , вздор",
+        before: false,
+        border: false,
+        engDescription: "nonsense:",
+        answer: "baloney",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 439,
+        videoFile: NES20,
+        rusQuestion: "чепуха , вздор",
+        before: false,
+        border: false,
+        engDescription: "nonsense:",
+        answer: "baloney",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 438,
+        videoFile: NES19,
+        rusQuestion: "чепуха , вздор",
+        before: false,
+        border: false,
+        engDescription: "nonsense:",
+        answer: "baloney",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 437,
+        videoFile: NES18,
+        rusQuestion: "чепуха , вздор",
+        before: false,
+        border: false,
+        engDescription: "nonsense:",
+        answer: "baloney",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 436,
+        videoFile: NES17,
+        rusQuestion: "чепуха , вздор",
+        before: false,
+        border: false,
+        engDescription: "nonsense:",
+        answer: "baloney",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
      {
         id: 435,
         videoFile: NES16,
