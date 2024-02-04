@@ -68,9 +68,550 @@ import GLA69 from "./GLA69.mp4"
 import GLA70 from "./GLA70.mp4"
 import GLA71 from "./GLA71.mp4"
 import GLA72 from "./GLA72.mp4"
+import GLA73 from "./GLA73.mp4"
+import GLA74 from "./GLA74.mp4"
+import GLA75 from "./GLA75.mp4"
+import GLA76 from "./GLA76.mp4"
+import GLA77 from "./GLA77.mp4"
+import GLA78 from "./GLA78.mp4"
+import GLA79 from "./GLA79.mp4"
+import GLA80 from "./GLA80.mp4"
+import GLA81 from "./GLA81.mp4"
+import GLA82 from "./GLA82.mp4"
+import GLA83 from "./GLA83.mp4"
+import GLA84 from "./GLA84.mp4"
+import GLA85 from "./GLA85.mp4"
+import GLA86 from "./GLA86.mp4"
+import GLA87 from "./GLA87.mp4"
+import GLA88 from "./GLA88.mp4"
+import GLA89 from "./GLA89.mp4"
+import GLA90 from "./GLA90.mp4"
+import GLA91 from "./GLA91.mp4"
+import GLA92 from "./GLA92.mp4"
+import GLA93 from "./GLA93.mp4"
+import GLA94 from "./GLA94.mp4"
+import GLA95 from "./GLA95.mp4"
+import GLA96 from "./GLA96.mp4"
+import GLA97 from "./GLA97.mp4"
+import GLA98 from "./GLA98.mp4"
+import GLA99 from "./GLA99.mp4"
+import GLA100 from "./GLA100.mp4"
+import GLA101 from "./GLA101.mp4"
+import GLA102 from "./GLA102.mp4"
+import GLA103 from "./GLA103.mp4"
+import GLA105 from "./GLA105.mp4"
+import GLA106 from "./GLA106.mp4"
+import GLA107 from "./GLA107.mp4"
+import GLA108 from "./GLA108.mp4"
+import GLA109 from "./GLA109.mp4"
+import GLA110 from "./GLA110.mp4"
 
 
 export const GladData = [
+    {
+        id: 584,
+        videoFile: GLA110,
+        rusQuestion: "восстановлен в должности",
+        before: false,
+        border: false,
+        engDescription: "to give someone back their previous job or position, or to cause something to exist again:",
+        answer: "reinstate",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 583,
+        videoFile: GLA109,
+        rusQuestion: "вложи свой меч в ножны",
+        before: false,
+        border: false,
+        engDescription: "to put a knife back inside its sheath",
+        answer: "sheathe",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 582,
+        videoFile: GLA108,
+        rusQuestion: "скрывать",
+        before: false,
+        border: false,
+        engDescription: "to prevent something from being seen or known about:",
+        answer: "conceal",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 581,
+        videoFile: GLA107,
+        rusQuestion: "пристегнуть , ремень",
+        before: false,
+        border: false,
+        engDescription: "a narrow piece of leather or other strong material used for fastening something or giving support:",
+        answer: "strap",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 580,
+        videoFile: GLA106,
+        rusQuestion: "поразительная история",
+        before: false,
+        border: false,
+        engDescription: "very unusual or easily noticed, and therefore attracting a lot of attention:",
+        answer: "striking story",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 579,
+        videoFile: GLA105,
+        rusQuestion: "потомство",
+        before: false,
+        border: false,
+        engDescription: "the young or offspring of a person, animal, or plant:",
+        answer: "progeny",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 578,
+        videoFile: GLA103,
+        rusQuestion: "спаситель",
+        before: false,
+        border: false,
+        engDescription: "a person who saves someone from danger or harm",
+        answer: "savior",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 577,
+        videoFile: GLA102,
+        rusQuestion: "убедительный",
+        before: false,
+        border: false,
+        engDescription: "making you want to do or believe a particular thing:",
+        answer: "persuasive",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 576,
+        videoFile: GLA101,
+        rusQuestion: "истекать кровью",
+        before: false,
+        border: false,
+        engDescription: "past simple and past participle of bleed",
+        answer: "bled",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 575,
+        videoFile: GLA100,
+        rusQuestion: "гнилой",
+        before: false,
+        border: false,
+        engDescription: "decayed and having an unpleasant smell:",
+        answer: "putrid",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 574,
+        videoFile: GLA99,
+        rusQuestion: "переворот",
+        before: false,
+        border: false,
+        engDescription: "a sudden illegal, often violent, taking of government power, especially by part of an army:",
+        answer: "coup",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 573,
+        videoFile: GLA98,
+        rusQuestion: "полумеры",
+        before: false,
+        border: false,
+        engDescription: "actions that only achieve part of what they are intended to achieve:",
+        answer: "half measures",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 572,
+        videoFile: GLA97,
+        rusQuestion: "тайно проносить , переправлять",
+        before: false,
+        border: false,
+        engDescription: "to take things or people to or from a place secretly and often illegally:",
+        answer: "smuggle",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 571,
+        videoFile: GLA96,
+        rusQuestion: "разжиревший",
+        before: false,
+        border: false,
+        engDescription: "to give an animal or a thin person a lot of food so that they become fatter:",
+        answer: "fattened",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 570,
+        videoFile: GLA95,
+        rusQuestion: "грызть , покусывать",
+        before: false,
+        border: false,
+        engDescription: "to eat something by taking a lot of small bites:",
+        answer: "nibble",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 569,
+        videoFile: GLA94,
+        rusQuestion: "мученик",
+        before: false,
+        border: false,
+        engDescription: "a person who suffers very much or is killed because of their religious or political beliefs, and is often admired because of it:",
+        answer: "martyr",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 568,
+        videoFile: GLA93,
+        rusQuestion: "бросая вызов",
+        before: false,
+        border: false,
+        engDescription: "to refuse to obey a person, decision, law, situation, etc.:",
+        answer: "defy",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 567,
+        videoFile: GLA92,
+        rusQuestion: "пятки",
+        before: false,
+        border: false,
+        engDescription: "the rounded back part of the foot",
+        answer: "heels",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 566,
+        videoFile: GLA91,
+        rusQuestion: "опустошать",
+        before: false,
+        border: false,
+        engDescription: "to cause great damage to something or someone:",
+        answer: "ravage",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 565,
+        videoFile: GLA90,
+        rusQuestion: "стонал",
+        before: false,
+        border: false,
+        engDescription: "to make a long, low sound of pain, suffering, or another strong emotion:",
+        answer: "moan",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 564,
+        videoFile: GLA89,
+        rusQuestion: "визжал",
+        before: false,
+        border: false,
+        engDescription: "to make a long, very high sound or cry:",
+        answer: "squeal",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 563,
+        videoFile: GLA88,
+        rusQuestion: "милосердный",
+        before: false,
+        border: false,
+        engDescription: "someone who is oooo is willing to be kind to and forgive people who are in their power:",
+        answer: "merciful",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 562,
+        videoFile: GLA87,
+        rusQuestion: "устроенный",
+        before: false,
+        border: false,
+        engDescription: "to plan, prepare for, or organize something:",
+        answer: "arrange",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 561,
+        videoFile: GLA86,
+        rusQuestion: "непостоянный",
+        before: false,
+        border: false,
+        engDescription: "likely to change your opinion or your feelings suddenly and without a good reason:",
+        answer: "fickle",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 560,
+        videoFile: GLA85,
+        rusQuestion: "на пенсии",
+        before: false,
+        border: false,
+        engDescription: "the act of leaving your job and stopping working, usually because you are old:",
+        answer: "retirement",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 559,
+        videoFile: GLA84,
+        rusQuestion: "он соизволил",
+        before: false,
+        border: false,
+        engDescription: "condescend to do something usually humorous",
+        answer: "deign",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 558,
+        videoFile: GLA83,
+        rusQuestion: "вульгарный",
+        before: false,
+        border: false,
+        engDescription: "not suitable, simple, dignified or beautiful; not in the style preferred by the upper classes of society:",
+        answer: "vulgar",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 557,
+        videoFile: GLA82,
+        rusQuestion: "выступать против",
+        before: false,
+        border: false,
+        engDescription: "to disagree with something or someone, often by speaking or fighting against it, him, or her:",
+        answer: "oppose",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 556,
+        videoFile: GLA81,
+        rusQuestion: "наследник",
+        before: false,
+        border: false,
+        engDescription: "a person who will legally receive money, property, or a title from another person, especially an older member of the same family, when that other person dies:",
+        answer: "heir",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 555,
+        videoFile: GLA80,
+        rusQuestion: "я плакала по ним",
+        before: false,
+        border: false,
+        engDescription: "to cry tears:",
+        answer: "weep",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 554,
+        videoFile: GLA79,
+        rusQuestion: "распятый",
+        before: false,
+        border: false,
+        engDescription: "to kill someone by tying or fastening them with nails to a cross and leaving them there to die",
+        answer: "crucified",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 553,
+        videoFile: GLA78,
+        rusQuestion: "убийцы",
+        before: false,
+        border: false,
+        engDescription: "someone who kills a famous or important person, usually for political reasons or in exchange for money:",
+        answer: "assassin",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 552,
+        videoFile: GLA76,
+        rusQuestion: "предательство",
+        before: false,
+        border: false,
+        engDescription: "behaviour that deceives or is not loyal to someone who trusts you:",
+        answer: "treachery",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 551,
+        videoFile: GLA75,
+        rusQuestion: "меня это раздражает",
+        before: false,
+        border: false,
+        engDescription: "to cause difficulty to someone, or to cause someone to feel angry, annoyed, or upset:",
+        answer: "vex",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 550,
+        videoFile: GLA74,
+        rusQuestion: "скорее , охотнее , пожалуй",
+        before: false,
+        border: false,
+        engDescription: "in preference to, or as a preference:",
+        answer: "rather",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 549,
+        videoFile: GLA73,
+        rusQuestion: "туманный",
+        before: false,
+        border: false,
+        engDescription: "ooo air or weather is not clear, especially because of heat:",
+        answer: "hazy",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
     {
         id: 548,
         videoFile: GLA72,
