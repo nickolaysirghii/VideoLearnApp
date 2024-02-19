@@ -64,10 +64,685 @@ import HOM63 from "./HOM63.mp4"
 import HOM64 from "./HOM64.mp4"
 import HOM65 from "./HOM65.mp4"
 import HOM66 from "./HOM66.mp4"
+import HOM67 from "./HOM67.mp4"
+import HOM68 from "./HOM68.mp4"
+import HOM69 from "./HOM69.mp4"
+import HOM70 from "./HOM70.mp4"
+import HOM71 from "./HOM71.mp4"
+import HOM72 from "./HOM72.mp4"
+import HOM73 from "./HOM73.mp4"
+import HOM74 from "./HOM74.mp4"
+import HOM75 from "./HOM75.mp4"
+import HOM76 from "./HOM76.mp4"
+import HOM77 from "./HOM77.mp4"
+import HOM78 from "./HOM78.mp4"
+import HOM79 from "./HOM79.mp4"
+import HOM80 from "./HOM80.mp4"
+import HOM81 from "./HOM81.mp4"
+import HOM82 from "./HOM82.mp4"
+import HOM83 from "./HOM83.mp4"
+import HOM84 from "./HOM84.mp4"
+import HOM85 from "./HOM85.mp4"
+import HOM86 from "./HOM86.mp4"
+import HOM87 from "./HOM87.mp4"
+import HOM88 from "./HOM88.mp4"
+import HOM89 from "./HOM89.mp4"
+import HOM90 from "./HOM90.mp4"
+import HOM91 from "./HOM91.mp4"
+import HOM92 from "./HOM92.mp4"
+import HOM93 from "./HOM93.mp4"
+import HOM94 from "./HOM94.mp4"
+import HOM95 from "./HOM95.mp4"
+import HOM96 from "./HOM96.mp4"
+import HOM97 from "./HOM97.mp4"
+import HOM98 from "./HOM98.mp4"
+import HOM99 from "./HOM99.mp4"
+import HOM100 from "./HOM100.mp4"
+import HOM101 from "./HOM101.mp4"
+import HOM102 from "./HOM102.mp4"
+import HOM103 from "./HOM103.mp4"
+import HOM104 from "./HOM104.mp4"
+import HOM105 from "./HOM105.mp4"
+import HOM106 from "./HOM106.mp4"
+import HOM107 from "./HOM107.mp4"
+import HOM108 from "./HOM108.mp4"
+import HOM109 from "./HOM109.mp4"
+import HOM110 from "./HOM110.mp4"
+import HOM111 from "./HOM111.mp4"
 
 
 
 export const homAlo  = [
+    {
+        id: 695,
+        videoFile: HOM111,
+        rusQuestion: "ткань",
+        before: false,
+        border: false,
+        engDescription: "cloth or material for making clothes, covering furniture, etc.:",
+        answer: "fabric",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 694,
+        videoFile: HOM110,
+        rusQuestion: "пускать слюни",
+        before: false,
+        border: false,
+        engDescription: "to allow saliva (= liquid in the mouth) to flow out of your mouth: ",
+        answer: "drool",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 693,
+        videoFile: HOM109,
+        rusQuestion: "начинать",
+        before: false,
+        border: false,
+        engDescription: "to start to talk about a particular subject: raise a matter for discussion or consideration.",
+        answer: "bring up",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 692,
+        videoFile: HOM108,
+        rusQuestion: "малыш",
+        before: false,
+        border: false,
+        engDescription: "a young child: ",
+        answer: "tyke",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 691,
+        videoFile: HOM107,
+        rusQuestion: "обезумевший",
+        before: false,
+        border: false,
+        engDescription: "extremely worried, nervous, or upset: ",
+        answer: "distraught",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 690,
+        videoFile: HOM106,
+        rusQuestion: "пощечина",
+        before: false,
+        border: false,
+        engDescription: "a quick hit with the flat part of the hand or other flat object: ",
+        answer: "slap",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 689,
+        videoFile: HOM105,
+        rusQuestion: "перехитрить",
+        before: false,
+        border: false,
+        engDescription: "to outwit ",
+        answer: "outsmart",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 688,
+        videoFile: HOM104,
+        rusQuestion: "койоны",
+        before: false,
+        border: false,
+        engDescription: "another word for testicle s: ",
+        answer: "cojones",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 687,
+        videoFile: HOM103,
+        rusQuestion: "вязаный",
+        before: false,
+        border: false,
+        engDescription: "made using wool or thick cotton and two long needles: ",
+        answer: "knitted",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 686,
+        videoFile: HOM102,
+        rusQuestion: "белье для стирки",
+        before: false,
+        border: false,
+        engDescription: "the dirty clothes and sheets that need to be, are being, or have been washed: ",
+        answer: "laundry",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 685,
+        videoFile: HOM101,
+        rusQuestion: "нрав",
+        before: false,
+        border: false,
+        engDescription: "the tendency to become angry very quickly: ",
+        answer: "temper",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 684,
+        videoFile: HOM100,
+        rusQuestion: "портить",
+        before: false,
+        border: false,
+        engDescription: "to destroy or reduce the pleasure, interest, or beauty of something: ",
+        answer: "spoil",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 683,
+        videoFile: HOM99,
+        rusQuestion: "бессвязный",
+        before: false,
+        border: false,
+        engDescription: "too long and confused:",
+        answer: "rambling",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 682,
+        videoFile: HOM98,
+        rusQuestion: "автостоп",
+        before: false,
+        border: false,
+        engDescription: "to travel by getting free rides in someone else's vehicle: ",
+        answer: "hitchhike",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 681,
+        videoFile: HOM97,
+        rusQuestion: "взлетная полоса",
+        before: false,
+        border: false,
+        engDescription: "a long, level piece of ground with a specially prepared smooth, hard surface on which aircraft take off and land",
+        answer: "runway",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 680,
+        videoFile: HOM96,
+        rusQuestion: "вечный",
+        before: false,
+        border: false,
+        engDescription: "continuing for ever in the same way: ",
+        answer: "perpetual",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 679,
+        videoFile: HOM95,
+        rusQuestion: "потрясен",
+        before: false,
+        border: false,
+        engDescription: "kill someone using a firearm.",
+        answer: "blow away",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 678,
+        videoFile: HOM94,
+        rusQuestion: "закружить",
+        before: false,
+        border: false,
+        engDescription: "to (cause something to) turn around in circles: ",
+        answer: "whirl",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 677,
+        videoFile: HOM93,
+        rusQuestion: "сани",
+        before: false,
+        border: false,
+        engDescription: "a type of sledge pulled by animals, especially horses or dogs",
+        answer: "sleigh",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 676,
+        videoFile: HOM92,
+        rusQuestion: "блестеть",
+        before: false,
+        border: false,
+        engDescription: "to shine by reflecting light from a wet or smooth surface: ",
+        answer: "glisten",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 675,
+        videoFile: HOM91,
+        rusQuestion: "глина",
+        before: false,
+        border: false,
+        engDescription: "thick, heavy soil that is soft when wet, and hard when dry or baked, used for making bricks and containers",
+        answer: "clay",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 674,
+        videoFile: HOM90,
+        rusQuestion: "болтающийся",
+        before: false,
+        border: false,
+        engDescription: "hanging loosely: ",
+        answer: "dangly",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 673,
+        videoFile: HOM89,
+        rusQuestion: "форель",
+        before: false,
+        border: false,
+        engDescription: "a fish that lives in rivers and lakes, or lives in the sea but returns to rivers to produce its eggs, that is a popular food: ",
+        answer: "trout",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 672,
+        videoFile: HOM88,
+        rusQuestion: "сгнивший",
+        before: false,
+        border: false,
+        engDescription: "to decay, or to cause something to decay or weaken: ",
+        answer: "rot",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 671,
+        videoFile: HOM87,
+        rusQuestion: "остролист",
+        before: false,
+        border: false,
+        engDescription: "a small evergreen tree (= one that never loses its leaves) with shiny, sharp leaves and small, round, red fruit. Holly is often used as a Christmas decoration in Europe and North America.",
+        answer: "holly",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 670,
+        videoFile: HOM86,
+        rusQuestion: "ветвь",
+        before: false,
+        border: false,
+        engDescription: "a large branch of a tree",
+        answer: "bough",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 669,
+        videoFile: HOM85,
+        rusQuestion: "зал , коридор",
+        before: false,
+        border: false,
+        engDescription: "the area just inside the main entrance of a house, apartment, or other building that leads to other rooms and usually to the stairs:",
+        answer: "hall",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 668,
+        videoFile: HOM84,
+        rusQuestion: "настил",
+        before: false,
+        border: false,
+        engDescription: "a wooden floor built outside, where people can sit and relax",
+        answer: "deck",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 667,
+        videoFile: HOM83,
+        rusQuestion: "веселый",
+        before: false,
+        border: false,
+        engDescription: "happy and smiling: ",
+        answer: "jolly",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 666,
+        videoFile: HOM82,
+        rusQuestion: "омела",
+        before: false,
+        border: false,
+        engDescription: "an evergreen plant (= one that never loses its leaves) that grows on trees, with small, white fruits and pale yellow flowers. Mistletoe is often used as a Christmas decoration, and it is traditional to kiss someone under it: ",
+        answer: "mistletoe",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 665,
+        videoFile: HOM81,
+        rusQuestion: "магазинный вор",
+        before: false,
+        border: false,
+        engDescription: "a person who takes goods illegally from a shop without paying for them: ",
+        answer: "shoplifter",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 664,
+        videoFile: HOM80,
+        rusQuestion: "кроме этого",
+        before: false,
+        border: false,
+        engDescription: "except: ",
+        answer: "other than that",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 663,
+        videoFile: HOM79,
+        rusQuestion: "полоскание",
+        before: false,
+        border: false,
+        engDescription: "to use water to clean the soap or dirt from something: ",
+        answer: "rinse",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 662,
+        videoFile: HOM78,
+        rusQuestion: "пупок",
+        before: false,
+        border: false,
+        engDescription: "navel.. the small round part in the middle of the stomach that is left after the umbilical cord (= the long tube of flesh joining the baby to its mother) has been cut at birth",
+        answer: "belly button",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 661,
+        videoFile: HOM77,
+        rusQuestion: "расщелина",
+        before: false,
+        border: false,
+        engDescription: "a small, narrow crack or space, especially in the surface of rock",
+        answer: "crevice",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 660,
+        videoFile: HOM76,
+        rusQuestion: "запасной",
+        before: false,
+        border: false,
+        engDescription: "something that is always ready for use, especially if a regular one fails: ",
+        answer: "standby",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 659,
+        videoFile: HOM75,
+        rusQuestion: "автоответчик",
+        before: false,
+        border: false,
+        engDescription: "a device connected to a phone that answers calls automatically and records messages from the person calling: ",
+        answer: "answering machine",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 658,
+        videoFile: HOM74,
+        rusQuestion: "застревать",
+        before: false,
+        border: false,
+        engDescription: "to (cause to) become stuck in a place or position: ",
+        answer: "lodge",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 657,
+        videoFile: HOM73,
+        rusQuestion: "проглотить",
+        before: false,
+        border: false,
+        engDescription: "to eat or drink something: ",
+        answer: "ingest",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 656,
+        videoFile: HOM72,
+        rusQuestion: "семья , хозяйство",
+        before: false,
+        border: false,
+        engDescription: "a group of people, often a family, who live together: ",
+        answer: "household",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 655,
+        videoFile: HOM71,
+        rusQuestion: "близкие",
+        before: false,
+        border: false,
+        engDescription: "nearest in space or relationship:",
+        answer: "immediate",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 654,
+        videoFile: HOM70,
+        rusQuestion: "ссора",
+        before: false,
+        border: false,
+        engDescription: "a loud argument or disagreement: ",
+        answer: "altercation",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 653,
+        videoFile: HOM69,
+        rusQuestion: "гипер",
+        before: false,
+        border: false,
+        engDescription: "having too much of a quality:",
+        answer: "hyper",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 652,
+        videoFile: HOM68,
+        rusQuestion: "вышел из строя",
+        before: false,
+        border: false,
+        engDescription: "If something someone says or does is out of order, it is unpleasant or not suitable and it is likely to upset or offend people: ",
+        answer: "out of order",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 651,
+        videoFile: HOM67,
+        rusQuestion: "слабак",
+        before: false,
+        border: false,
+        engDescription: "a person who is not strong, brave, or confident: ",
+        answer: "wimp",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
     {
         id: 650,
         videoFile: HOM66,

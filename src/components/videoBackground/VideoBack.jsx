@@ -46,7 +46,8 @@ const VideoBack = () => {
  
   return (
     <div className='videoBack'>
-        <video ref={videoRef} src={a[0]} controls className='player'/>
+        <video ref={videoRef} src={a[0]} bject-fit = 'contain' height  = '100%'
+         controls className='player'/>
         <div className='underDiv'>
           <div className='switch_to_second'></div>
         
