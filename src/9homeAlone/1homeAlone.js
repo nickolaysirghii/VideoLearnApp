@@ -946,7 +946,7 @@ export const homAlo  = [
         before: false,
         border: false,
         engDescription: "flour mixed with water and often yeast, fat, or sugar, so that it is ready for baking: ",
-        answer: "glu",
+        answer: "dough",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
         getIdx: 1,

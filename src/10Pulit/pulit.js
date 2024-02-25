@@ -38,9 +38,551 @@ import REM37 from "./REM37.mp4"
 import REM38 from "./REM38.mp4"
 import REM39 from "./REM39.mp4"
 import REM40 from "./REM40.mp4"
+import REM41 from "./REM41.mp4"
+import REM42 from "./REM42.mp4"
+import REM43 from "./REM43.mp4"
+import REM44 from "./REM44.mp4"
+import REM45 from "./REM45.mp4"
+import REM46 from "./REM46.mp4"
+import REM47 from "./REM47.mp4"
+import REM48 from "./REM48.mp4"
+import REM49 from "./REM49.mp4"
+import REM50 from "./REM50.mp4"
+import REM51 from "./REM51.mp4"
+import REM52 from "./REM52.mp4"
+import REM53 from "./REM53.mp4"
+import REM54 from "./REM54.mp4"
+import REM55 from "./REM55.mp4"
+import REM56 from "./REM56.mp4"
+import REM57 from "./REM57.mp4"
+import REM58 from "./REM58.mp4"
+import REM59 from "./REM59.mp4"
+import REM60 from "./REM60.mp4"
+import REM61 from "./REM61.mp4"
+import REM62 from "./REM62.mp4"
+import REM63 from "./REM63.mp4"
+import REM64 from "./REM64.mp4"
+import REM65 from "./REM65.mp4"
+import REM66 from "./REM66.mp4"
+import REM67 from "./REM67.mp4"
+import REM68 from "./REM68.mp4"
+import REM69 from "./REM69.mp4"
+import REM70 from "./REM70.mp4"
+import REM71 from "./REM71.mp4"
+import REM72 from "./REM72.mp4"
+import REM73 from "./REM73.mp4"
+import REM74 from "./REM74.mp4"
+import REM75 from "./REM75.mp4"
+import REM76 from "./REM76.mp4"
+
 
 
 export const pulit33 = [
+   
+    {
+        id: 771,
+        videoFile: REM76,
+        rusQuestion: "тон",
+        before: false,
+        border: false,
+        engDescription: "a",
+        answer: "nicety",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 770,
+        videoFile: REM75,
+        rusQuestion: "тон",
+        before: false,
+        border: false,
+        engDescription: "a",
+        answer: "nicety",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 769,
+        videoFile: REM74,
+        rusQuestion: "тон",
+        before: false,
+        border: false,
+        engDescription: "a",
+        answer: "nicety",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 768,
+        videoFile: REM73,
+        rusQuestion: "тон",
+        before: false,
+        border: false,
+        engDescription: "a",
+        answer: "nicety",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 767,
+        videoFile: REM72,
+        rusQuestion: "тон",
+        before: false,
+        border: false,
+        engDescription: "a",
+        answer: "nicety",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 766,
+        videoFile: REM71,
+        rusQuestion: "тон",
+        before: false,
+        border: false,
+        engDescription: "a",
+        answer: "nicety",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 765,
+        videoFile: REM70,
+        rusQuestion: "тон",
+        before: false,
+        border: false,
+        engDescription: "a",
+        answer: "nicety",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 764,
+        videoFile: REM69,
+        rusQuestion: "тон",
+        before: false,
+        border: false,
+        engDescription: "a",
+        answer: "nicety",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 763,
+        videoFile: REM68,
+        rusQuestion: "тон",
+        before: false,
+        border: false,
+        engDescription: "a",
+        answer: "nicety",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 762,
+        videoFile: REM67,
+        rusQuestion: "тон",
+        before: false,
+        border: false,
+        engDescription: "a",
+        answer: "nicety",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 761,
+        videoFile: REM66,
+        rusQuestion: "тон",
+        before: false,
+        border: false,
+        engDescription: "a",
+        answer: "nicety",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 760,
+        videoFile: REM65,
+        rusQuestion: "тон",
+        before: false,
+        border: false,
+        engDescription: "a",
+        answer: "nicety",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 759,
+        videoFile: REM64,
+        rusQuestion: "тон",
+        before: false,
+        border: false,
+        engDescription: "a",
+        answer: "nicety",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 758,
+        videoFile: REM63,
+        rusQuestion: "тон",
+        before: false,
+        border: false,
+        engDescription: "a",
+        answer: "nicety",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 757,
+        videoFile: REM62,
+        rusQuestion: "тон",
+        before: false,
+        border: false,
+        engDescription: "a",
+        answer: "nicety",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 756,
+        videoFile: REM61,
+        rusQuestion: "тон",
+        before: false,
+        border: false,
+        engDescription: "a",
+        answer: "nicety",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 755,
+        videoFile: REM60,
+        rusQuestion: "тон",
+        before: false,
+        border: false,
+        engDescription: "a",
+        answer: "nicety",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 754,
+        videoFile: REM59,
+        rusQuestion: "тон",
+        before: false,
+        border: false,
+        engDescription: "a",
+        answer: "nicety",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 753,
+        videoFile: REM58,
+        rusQuestion: "тон",
+        before: false,
+        border: false,
+        engDescription: "a",
+        answer: "nicety",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 752,
+        videoFile: REM57,
+        rusQuestion: "тон",
+        before: false,
+        border: false,
+        engDescription: "a",
+        answer: "nicety",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 751,
+        videoFile: REM56,
+        rusQuestion: "тон",
+        before: false,
+        border: false,
+        engDescription: "a",
+        answer: "nicety",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 750,
+        videoFile: REM55,
+        rusQuestion: "тон",
+        before: false,
+        border: false,
+        engDescription: "a",
+        answer: "nicety",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 749,
+        videoFile: REM54,
+        rusQuestion: "тон",
+        before: false,
+        border: false,
+        engDescription: "a",
+        answer: "nicety",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 748,
+        videoFile: REM53,
+        rusQuestion: "тон",
+        before: false,
+        border: false,
+        engDescription: "a",
+        answer: "nicety",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 747,
+        videoFile: REM52,
+        rusQuestion: "тон",
+        before: false,
+        border: false,
+        engDescription: "a",
+        answer: "nicety",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 746,
+        videoFile: REM51,
+        rusQuestion: "тон",
+        before: false,
+        border: false,
+        engDescription: "a",
+        answer: "nicety",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 745,
+        videoFile: REM50,
+        rusQuestion: "тон",
+        before: false,
+        border: false,
+        engDescription: "a",
+        answer: "nicety",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 744,
+        videoFile: REM49,
+        rusQuestion: "тон",
+        before: false,
+        border: false,
+        engDescription: "a",
+        answer: "nicety",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 743,
+        videoFile: REM48,
+        rusQuestion: "тон",
+        before: false,
+        border: false,
+        engDescription: "a",
+        answer: "nicety",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 742,
+        videoFile: REM47,
+        rusQuestion: "тон",
+        before: false,
+        border: false,
+        engDescription: "a",
+        answer: "nicety",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 741,
+        videoFile: REM46,
+        rusQuestion: "тон",
+        before: false,
+        border: false,
+        engDescription: "a",
+        answer: "nicety",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 740,
+        videoFile: REM45,
+        rusQuestion: "тон",
+        before: false,
+        border: false,
+        engDescription: "a",
+        answer: "nicety",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 739,
+        videoFile: REM44,
+        rusQuestion: "тон",
+        before: false,
+        border: false,
+        engDescription: "a",
+        answer: "nicety",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 738,
+        videoFile: REM43,
+        rusQuestion: "тон",
+        before: false,
+        border: false,
+        engDescription: "a",
+        answer: "nicety",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 737,
+        videoFile: REM42,
+        rusQuestion: "тон",
+        before: false,
+        border: false,
+        engDescription: "a",
+        answer: "nicety",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
+    {
+        id: 736,
+        videoFile: REM41,
+        rusQuestion: "тон",
+        before: false,
+        border: false,
+        engDescription: "a",
+        answer: "nicety",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        getHight: 1
+    },
     {
         id: 735,
         videoFile: REM40,
