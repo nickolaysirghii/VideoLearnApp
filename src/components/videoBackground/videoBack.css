@@ -126,7 +126,7 @@
     10px 10px 10px 10px 20px
     10px 10px 10px 10px 20px
     ;
-    justify-content: flex-end;
+    /* justify-content: flex-end; */
     overflow: hidden;
 
 }
@@ -140,6 +140,8 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    border-radius: 3px;
+    border: 1px solid white;
 }
 .aboveEvery:hover{
     height: 100%;

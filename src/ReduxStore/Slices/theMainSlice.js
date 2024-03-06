@@ -1,7 +1,7 @@
 import { createSlice  } from "@reduxjs/toolkit";
-import firstStep from "../../assets/localVideos/firstStep.mp4"
-import secondStep from "../../assets/localVideos/secondStep.mp4"
-import thirdStep from "../../assets/localVideos/thirdStep.mp4"
+import firstStep from "../../assets/localVideos/1firstVideo.mp4"
+import secondStep from "../../assets/localVideos/2secondVideo.mp4"
+import thirdStep from "../../assets/localVideos/3thirdVideo.mp4"
 import { WorkingArra1 } from "../../1AData/1Data";
 
 

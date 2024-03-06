@@ -17,7 +17,7 @@ const Left = () => {
           first.map((elem ,idx) => {
             return <div onClick={()=>dispatcher(pointBorder({data: 1 , id: idx}))} className='elements' key={idx}
             style={{backgroundColor: elem.color , 
-                    border: elem.border ? "2px solid red" : "1px solid black"}}
+                    border: elem.border ? "3px solid red" : "1px solid black"}}
             >{elem.id}</div>
           })
         }
@@ -25,7 +25,7 @@ const Left = () => {
           second.map((elem ,idx) => {
             return <div onClick={()=>dispatcher(pointBorder({data: 2 , id: idx}))} className='elements' key={idx}
             style={{backgroundColor: elem.color , 
-                    border: elem.border ? "2px solid red" : "1px solid black"}}
+                    border: elem.border ? "3px solid red" : "1px solid black"}}
             >{elem.id}</div>
           })
         }
@@ -33,7 +33,7 @@ const Left = () => {
           third.map((elem ,idx) => {
             return <div onClick={()=>dispatcher(pointBorder({data: 3 , id: idx}))} className='elements' key={idx}
             style={{backgroundColor: elem.color , 
-                    border: elem.border ? "2px solid red" : "1px solid black"}}
+                    border: elem.border ? "3px solid red" : "1px solid black"}}
             >{elem.id}</div>
           })
         }

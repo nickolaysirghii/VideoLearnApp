@@ -49,7 +49,8 @@ const MainAria = () => {
        const rarara = (average/send.length).toFixed(3)
        dispacher(setNumBar(rarara))
      }
-    dispacher(setREd(theBar))
+     dispacher(setREd(theBar))
+    
     let send = worked.map((item,idx) => {
         const newItem = {...item};
         newItem.getIdx = idx;
@@ -80,7 +81,7 @@ const MainAria = () => {
       if(idx < 45){
         promejutok.push(elem)
       }else{
-        if(elem.getHight < redBar+gap){
+        if(elem.getHight < theBar+1){
            promejutok.push(elem)
 
         }else{
