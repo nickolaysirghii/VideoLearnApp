@@ -161,4 +161,16 @@
     right: -13.7vw;
     z-index: 5;
 }
+.splitPoint{
+    position: absolute;
+    font-size: 2vw;
+    top: -35vw;
+    right: 0;
+    color: red;
+    background-color: black;
+    border: none;
+    z-index: 10;
+    width: 50px;
+    
+}
 

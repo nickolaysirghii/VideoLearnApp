@@ -81,7 +81,7 @@ const MainAria = () => {
       if(idx < 45){
         promejutok.push(elem)
       }else{
-        if(elem.getHight < theBar+1){
+        if(elem.getHight < theBar+3){
            promejutok.push(elem)
 
         }else{

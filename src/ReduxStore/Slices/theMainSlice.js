@@ -134,10 +134,29 @@ export const mainSlice = createSlice({
               state.dataStatistic[state.prevI].color = "green"
               state.prevI = elem.getIdx
               state.dataStatistic[elem.getIdx].color = "red"
-              state.dataStatistic[elem.getIdx].getHight ++ 
+              if(elem.try === 1){
+                state.dataStatistic[elem.getIdx].getHight =
+                state.dataStatistic[elem.getIdx].getHight + 4
+              }
+              if(elem.try === 2){
+                state.dataStatistic[elem.getIdx].getHight =
+                state.dataStatistic[elem.getIdx].getHight + 2
+              }
+              if(elem.try > 2){
+                state.dataStatistic[elem.getIdx].getHight =
+                state.dataStatistic[elem.getIdx].getHight + 1
+              }
+              
               
               
             }
+            
+          }
+          else{
+            if(action.payload !== ""){
+              elem.try = elem.try*2
+            }
+            
             
           }
         }
@@ -196,7 +215,24 @@ export const mainSlice = createSlice({
               state.prevI = elem.getIdx
               state.dataStatistic[elem.getIdx].color = "red"
               state.sendDelay = elem.getIdx
-              state.dataStatistic[elem.getIdx].getHight ++ 
+              if(elem.try === 1){
+                state.dataStatistic[elem.getIdx].getHight =
+                state.dataStatistic[elem.getIdx].getHight + 4
+              }
+              if(elem.try === 2){
+                state.dataStatistic[elem.getIdx].getHight =
+                state.dataStatistic[elem.getIdx].getHight + 2
+              }
+              if(elem.try  > 2){
+                state.dataStatistic[elem.getIdx].getHight =
+                state.dataStatistic[elem.getIdx].getHight + 1
+              }
+              
+            }
+            else{
+              if(action.payload !== ""){
+                elem.try = elem.try*2
+              }
               
             }
           }
@@ -256,7 +292,24 @@ export const mainSlice = createSlice({
               state.prevI = elem.getIdx
               state.dataStatistic[elem.getIdx].color = "red"
               state.sendDelay = elem.getIdx
-              state.dataStatistic[elem.getIdx].getHight ++ 
+              if(elem.try === 1){
+                state.dataStatistic[elem.getIdx].getHight =
+                state.dataStatistic[elem.getIdx].getHight + 4
+              }
+              if(elem.try === 2){
+                state.dataStatistic[elem.getIdx].getHight =
+                state.dataStatistic[elem.getIdx].getHight + 2
+              }
+              if(elem.try  > 2){
+                state.dataStatistic[elem.getIdx].getHight =
+                state.dataStatistic[elem.getIdx].getHight + 1
+              } 
+              
+            }
+            else{
+              if(action.payload !== ""){
+                elem.try = elem.try*2
+              }
               
             }
           }

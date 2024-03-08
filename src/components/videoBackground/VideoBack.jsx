@@ -43,6 +43,9 @@ const VideoBack = () => {
     localStorage.setItem('englishMemory', JSON.stringify(stor));
     dispatcher(deleteBelow(theId))
   }
+  const changePoing = (e)=>{
+    localStorage.setItem("splitPoint", e.target.value)
+  }
  
   return (
     <div className='videoBack'>
@@ -69,11 +72,13 @@ const VideoBack = () => {
               {
                 dataStatistic.map((el,ix) => {
                   return <div onClick={()=>deleteOUtdate(el.id , ix)} key={ix} className='statistic' style={{backgroundColor:el.color,
-                  height: `${el.getHight}vh`}}>{el.id}</div>
+                  height: `${el.getHight*2}px`}}>{el.id}</div>
                 })
               }
             </div>
-            <div className='theLine'style={{bottom:`${redBar+19}vh`}}></div>
+            <div className='theLine'style={{bottom:`${redBar+145}px`}}></div>
+            <input onChange={changePoing} className='splitPoint' placeholder={localStorage.getItem("splitPoint")}></input>
+    
             
             
         </div>

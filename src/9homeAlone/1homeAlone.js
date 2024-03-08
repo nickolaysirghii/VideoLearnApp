@@ -125,6 +125,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -139,6 +140,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -153,6 +155,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -167,6 +170,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -181,6 +185,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -195,6 +200,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -209,6 +215,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -223,6 +230,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -237,6 +245,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -251,6 +260,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -265,6 +275,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -279,6 +290,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -293,6 +305,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -307,6 +320,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -321,6 +335,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -335,6 +350,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -349,6 +365,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -363,6 +380,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -377,6 +395,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -391,6 +410,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -405,6 +425,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -419,6 +440,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -433,6 +455,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -447,6 +470,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -461,6 +485,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -475,6 +500,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -489,6 +515,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -503,6 +530,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -517,6 +545,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -531,6 +560,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -545,6 +575,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -559,6 +590,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -573,6 +605,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -587,6 +620,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -601,6 +635,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -615,6 +650,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -629,6 +665,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -643,6 +680,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -657,6 +695,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -671,6 +710,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -685,6 +725,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -699,6 +740,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -713,6 +755,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -727,6 +770,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -741,6 +785,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -755,6 +800,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -769,6 +815,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -783,6 +830,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -797,6 +845,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -811,6 +860,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -825,6 +875,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -839,6 +890,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -853,6 +905,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -867,6 +920,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -881,6 +935,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -895,6 +950,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -909,6 +965,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -923,6 +980,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -937,6 +995,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -951,6 +1010,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -965,6 +1025,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -979,6 +1040,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -993,6 +1055,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1007,6 +1070,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1021,6 +1085,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1035,6 +1100,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1049,6 +1115,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1063,6 +1130,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1077,6 +1145,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1091,6 +1160,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1105,6 +1175,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1119,6 +1190,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1133,6 +1205,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1147,6 +1220,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1161,6 +1235,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1175,6 +1250,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1189,6 +1265,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1203,6 +1280,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1217,6 +1295,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1231,6 +1310,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1245,6 +1325,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1259,6 +1340,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1273,6 +1355,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1287,6 +1370,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1301,6 +1385,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1315,6 +1400,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1329,6 +1415,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1343,6 +1430,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1357,6 +1445,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1371,6 +1460,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1385,6 +1475,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1399,6 +1490,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1413,6 +1505,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1427,6 +1520,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1441,6 +1535,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1455,6 +1550,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1469,6 +1565,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1483,6 +1580,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1497,6 +1595,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1511,6 +1610,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1525,6 +1625,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1539,6 +1640,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1553,6 +1655,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1567,6 +1670,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1581,6 +1685,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1595,6 +1700,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1609,6 +1715,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1623,6 +1730,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1637,6 +1745,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1651,6 +1760,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1665,6 +1775,7 @@ export const homAlo  = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
 ]

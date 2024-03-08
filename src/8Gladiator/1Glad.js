@@ -120,7 +120,9 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
+        
     },
     {
         id: 583,
@@ -134,6 +136,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -148,6 +151,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -162,6 +166,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -176,6 +181,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -190,6 +196,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -204,6 +211,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -218,6 +226,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -232,6 +241,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -246,6 +256,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -260,6 +271,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -274,6 +286,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -288,6 +301,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -302,6 +316,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -316,6 +331,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -330,6 +346,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -344,6 +361,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -358,6 +376,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -372,6 +391,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -386,6 +406,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -400,6 +421,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -414,6 +436,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -428,6 +451,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -442,6 +466,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -456,6 +481,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -470,6 +496,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -484,6 +511,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -498,6 +526,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -512,6 +541,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -526,6 +556,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -540,6 +571,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -554,6 +586,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -568,6 +601,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -582,6 +616,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -596,6 +631,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -610,6 +646,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -624,6 +661,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -638,6 +676,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -652,6 +691,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -666,6 +706,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -680,6 +721,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 543,
@@ -693,6 +735,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 542,
@@ -706,6 +749,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 541,
@@ -719,6 +763,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 540,
@@ -732,6 +777,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 539,
@@ -745,6 +791,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 538,
@@ -758,6 +805,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 537,
@@ -771,6 +819,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 536,
@@ -784,6 +833,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 535,
@@ -797,6 +847,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 534,
@@ -810,6 +861,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 533,
@@ -823,6 +875,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 532,
@@ -836,6 +889,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 531,
@@ -849,6 +903,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 530,
@@ -862,6 +917,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 529,
@@ -875,6 +931,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 528,
@@ -888,6 +945,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 527,
@@ -901,6 +959,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 526,
@@ -914,6 +973,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 525,
@@ -927,6 +987,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 524,
@@ -940,6 +1001,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 523,
@@ -953,6 +1015,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 522,
@@ -966,6 +1029,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 521,
@@ -979,6 +1043,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 520,
@@ -992,6 +1057,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 519,
@@ -1005,6 +1071,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 518,
@@ -1018,6 +1085,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 517,
@@ -1031,6 +1099,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 516,
@@ -1044,6 +1113,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 515,
@@ -1057,6 +1127,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 514,
@@ -1070,6 +1141,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 513,
@@ -1083,6 +1155,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 512,
@@ -1096,6 +1169,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 511,
@@ -1109,6 +1183,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 510,
@@ -1122,6 +1197,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 509,
@@ -1135,6 +1211,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 508,
@@ -1148,6 +1225,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 507,
@@ -1161,6 +1239,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 506,
@@ -1174,6 +1253,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 505,
@@ -1187,6 +1267,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 504,
@@ -1200,6 +1281,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 503,
@@ -1213,6 +1295,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 502,
@@ -1226,6 +1309,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 501,
@@ -1239,6 +1323,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 500,
@@ -1252,6 +1337,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 499,
@@ -1265,6 +1351,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 498,
@@ -1278,6 +1365,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },{
         id: 497,
@@ -1291,6 +1379,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1305,6 +1394,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1319,6 +1409,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1333,6 +1424,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1347,6 +1439,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1361,6 +1454,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1375,6 +1469,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1389,6 +1484,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1403,6 +1499,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1417,6 +1514,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1431,6 +1529,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1445,6 +1544,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1459,6 +1559,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1473,6 +1574,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1487,6 +1589,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1501,6 +1604,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1515,6 +1619,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1529,6 +1634,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1543,6 +1649,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1557,6 +1664,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1571,6 +1679,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1585,6 +1694,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1599,6 +1709,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1613,6 +1724,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
     {
@@ -1627,6 +1739,7 @@ export const GladData = [
         color: "rgb(43, 198, 226)",
         getIdx: 1,
         timeGo: 4000,
+        try: 1,
         getHight: 1
     },
 ]

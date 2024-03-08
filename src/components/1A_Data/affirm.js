@@ -78,9 +78,10 @@ export const affirm_data = [
         before: false,
         border: false,
         engDescription: "У меня их всегда более чем достаточно",
-        answer: "always have more than enough",
+        answer: "I always have more than enough",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        try: 1,
         timeGo: 23000,
     },
     {
@@ -93,6 +94,7 @@ export const affirm_data = [
         answer: "I attract more money and more money",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        try: 1,
         timeGo: 28000,
     },
     {
@@ -102,9 +104,10 @@ export const affirm_data = [
         before: false,
         border: false,
         engDescription: "Я использую свои деньги для своего высшего блага и блага других",
-        answer: "I use my money for my highest good and the good of otherss",
+        answer: "I use my money for my highest good and the good of others",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        try: 1,
         timeGo: 28000,
     },
     {
@@ -117,6 +120,7 @@ export const affirm_data = [
         answer: "I am in alinement with the abundance",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        try: 1,
         timeGo: 21000,
     },
     {
@@ -129,6 +133,7 @@ export const affirm_data = [
         answer: "I am financially free",
         myAnswer: "",
         color: "rgb(43, 198, 226)",
+        try: 1,
         timeGo: 23000,
     },
 ]
