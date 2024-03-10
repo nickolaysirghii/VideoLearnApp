@@ -52,14 +52,716 @@ import PRA51 from "./PRA51.mp4"
 import PRA52 from "./PRA52.mp4"
 import PRA53 from "./PRA53.mp4"
 import PRA54 from "./PRA54.mp4"
-// import PRA55 from "./PRA55.mp4"
-// import PRA56 from "./PRA56.mp4"
+import PRA55 from "./PRA55.mp4"
+import PRA56 from "./PRA56.mp4"
+import PRA57 from "./PRA57.mp4"
+import PRA58 from "./PRA58.mp4"
+import PRA59 from "./PRA59.mp4"
+import PRA60 from "./PRA60.mp4"
+import PRA61 from "./PRA61.mp4"
+import PRA62 from "./PRA62.mp4"
+import PRA63 from "./PRA63.mp4"
+import PRA64 from "./PRA64.mp4"
+import PRA65 from "./PRA65.mp4"
+import PRA66 from "./PRA66.mp4"
+import PRA67 from "./PRA67.mp4"
+import PRA68 from "./PRA68.mp4"
+import PRA69 from "./PRA69.mp4"
+import PRA70 from "./PRA70.mp4"
+import PRA71 from "./PRA71.mp4"
+import PRA72 from "./PRA72.mp4"
+import PRA73 from "./PRA73.mp4"
+import PRA74 from "./PRA74.mp4"
+import PRA75 from "./PRA75.mp4"
+import PRA76 from "./PRA76.mp4"
+import PRA77 from "./PRA77.mp4"
+import PRA78 from "./PRA78.mp4"
+import PRA79 from "./PRA79.mp4"
+import PRA80 from "./PRA80.mp4"
+import PRA81 from "./PRA81.mp4"
+import PRA82 from "./PRA82.mp4"
+import PRA83 from "./PRA83.mp4"
+import PRA84 from "./PRA84.mp4"
+import PRA85 from "./PRA85.mp4"
+import PRA86 from "./PRA86.mp4"
+import PRA87 from "./PRA87.mp4"
+import PRA88 from "./PRA88.mp4"
+import PRA89 from "./PRA89.mp4"
+import PRA90 from "./PRA90.mp4"
+import PRA91 from "./PRA91.mp4"
+import PRA92 from "./PRA92.mp4"
+import PRA93 from "./PRA93.mp4"
+import PRA94 from "./PRA94.mp4"
+import PRA95 from "./PRA95.mp4"
+import PRA96 from "./PRA96.mp4"
+import PRA97 from "./PRA97.mp4"
+import PRA98 from "./PRA98.mp4"
+
 
 
 
 
 export const pradaDev = [
-
+    {
+        id: 869,
+        videoFile: PRA98,
+        rusQuestion: "дополнительная работа",
+        before: false,
+        border: false,
+        engDescription: "a situation in which someone expects another person to do something that they do not want to do or that is not convenient: ",
+        answer: "imposition",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 868,
+        videoFile: PRA97,
+        rusQuestion: "вспышка",
+        before: false,
+        border: false,
+        engDescription: "a small spot of light, sometimes with a short, sharp sound, that appears on a computer screen",
+        answer: "blip",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 867,
+        videoFile: PRA96,
+        rusQuestion: "воспитывать",
+        before: false,
+        border: false,
+        engDescription: "to take care of, feed, and protect someone or something, especially young children or plants, and help him, her, or it to develop:",
+        answer: "nurture",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 866,
+        videoFile: PRA95,
+        rusQuestion: "предприятие",
+        before: false,
+        border: false,
+        engDescription: "an organization, especially a business, or a difficult and important plan, especially one that will earn money:",
+        answer: "enterprise",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 865,
+        videoFile: PRA94,
+        rusQuestion: "благодать",
+        before: false,
+        border: false,
+        engDescription: "approval or kindness, especially (in the Christian religion) that is freely given by God to all humans:",
+        answer: "grace",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 864,
+        videoFile: PRA93,
+        rusQuestion: "ослабленный",
+        before: false,
+        border: false,
+        engDescription: "damaged in a way that makes something less effective:",
+        answer: "impaired",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 863,
+        videoFile: PRA92,
+        rusQuestion: "с широко раскрытыми глазами",
+        before: false,
+        border: false,
+        engDescription: "too willing to believe and admire what you see or are told: ",
+        answer: "wide-eyed",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 862,
+        videoFile: PRA91,
+        rusQuestion: "серьезный",
+        before: false,
+        border: false,
+        engDescription: "serious and determined, especially too serious and unable to find your own actions funny:",
+        answer: "earnest",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 861,
+        videoFile: PRA90,
+        rusQuestion: "печально известный",
+        before: false,
+        border: false,
+        engDescription: "famous for something bad: ",
+        answer: "notorious",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 860,
+        videoFile: PRA89,
+        rusQuestion: "аромат",
+        before: false,
+        border: false,
+        engDescription: "a sweet or pleasant smell: ",
+        answer: "fragrance",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 859,
+        videoFile: PRA88,
+        rusQuestion: "всплеск",
+        before: false,
+        border: false,
+        engDescription: "If a liquid splashes or if you splash a liquid, it falls on or hits something or someone: ",
+        answer: "splash",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 858,
+        videoFile: PRA87,
+        rusQuestion: "ледник",
+        before: false,
+        border: false,
+        engDescription: "a large mass of ice that moves slowly",
+        answer: "glacier",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 857,
+        videoFile: PRA86,
+        rusQuestion: "привратник",
+        before: false,
+        border: false,
+        engDescription: "someone who has the power to decide who gets particular resources and opportunities, and who does not :",
+        answer: "gatekeeper",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 856,
+        videoFile: PRA85,
+        rusQuestion: "признаться",
+        before: false,
+        border: false,
+        engDescription: "to admit that you have done something wrong:",
+        answer: "own up",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 855,
+        videoFile: PRA84,
+        rusQuestion: "корпус мира",
+        before: false,
+        border: false,
+        engDescription: "an organization in the US that sends people to work as volunteers (= people who work without being paid) in poor countries",
+        answer: "the peace corps",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 854,
+        videoFile: PRA83,
+        rusQuestion: "скидка , снижение",
+        before: false,
+        border: false,
+        engDescription: "the act of making something, or of something becoming, smaller in size, amount, degree, importance, etc.: ",
+        answer: "reduction",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 853,
+        videoFile: PRA82,
+        rusQuestion: "честность , целостность",
+        before: false,
+        border: false,
+        engDescription: "the quality of being honest and having strong moral principles that you refuse to change: ",
+        answer: "integrity",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 852,
+        videoFile: PRA81,
+        rusQuestion: "кочерга",
+        before: false,
+        border: false,
+        engDescription: "a long, thin metal stick that you use to move around coal or wood in a fire so that it burns better",
+        answer: "poker",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 851,
+        videoFile: PRA80,
+        rusQuestion: "очевидно",
+        before: false,
+        border: false,
+        engDescription: "in a way that is easy to see: ",
+        answer: "evidently",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 850,
+        videoFile: PRA79,
+        rusQuestion: "ерзать",
+        before: false,
+        border: false,
+        engDescription: "to make continuous, small movements, especially if they do not have a particular purpose and you make them without meaning to, for example because you are nervous or bored:",
+        answer: "fidget",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 849,
+        videoFile: PRA78,
+        rusQuestion: "слабый",
+        before: false,
+        border: false,
+        engDescription: "to suddenly become unconscious for a short time, usually falling down:",
+        answer: "faint",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 848,
+        videoFile: PRA77,
+        rusQuestion: "подготовка",
+        before: false,
+        border: false,
+        engDescription: "the actions involved in preparing something, especially food, or the time taken to prepare it: ",
+        answer: "prep",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 847,
+        videoFile: PRA76,
+        rusQuestion: "кулон",
+        before: false,
+        border: false,
+        engDescription: "a piece of jewellery worn around the neck, consisting of a long chain with an object hanging from it, or the object itself: ",
+        answer: "pendant",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 846,
+        videoFile: PRA75,
+        rusQuestion: "браслет",
+        before: false,
+        border: false,
+        engDescription: "a ring of stiff plastic, metal, etc. worn around the wrist or arm as jewellery",
+        answer: "bangle",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 845,
+        videoFile: PRA74,
+        rusQuestion: "черновик",
+        before: false,
+        border: false,
+        engDescription: "a piece of text, a formal suggestion, or a drawing in its original state, often containing the main ideas and intentions but not the developed form:",
+        answer: "draft",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 844,
+        videoFile: PRA73,
+        rusQuestion: "регулировать",
+        before: false,
+        border: false,
+        engDescription: "to change something slightly, especially to make it more correct, effective, or suitable: ",
+        answer: "adjust",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 843,
+        videoFile: PRA72,
+        rusQuestion: "возводить",
+        before: false,
+        border: false,
+        engDescription: "to build a building, wall, or other structure: ",
+        answer: "erect",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 842,
+        videoFile: PRA71,
+        rusQuestion: "тротуар",
+        before: false,
+        border: false,
+        engDescription: "a path with a hard surface on one or both sides of a road, that people walk on: ",
+        answer: "pavement",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 841,
+        videoFile: PRA70,
+        rusQuestion: "фойе",
+        before: false,
+        border: false,
+        engDescription: "a large open area just inside the entrance of a public building such as a theatre or a hotel, where people can wait and meet each other: ",
+        answer: "foyer",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 840,
+        videoFile: PRA69,
+        rusQuestion: "предельное",
+        before: false,
+        border: false,
+        engDescription: "used to emphasize how important or serious something is: ",
+        answer: "utmost",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 839,
+        videoFile: PRA68,
+        rusQuestion: "потрясен",
+        before: false,
+        border: false,
+        engDescription: "having strong feelings of shock or disapproval:",
+        answer: "appalled",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 838,
+        videoFile: PRA67,
+        rusQuestion: "морщиться",
+        before: false,
+        border: false,
+        engDescription: "to bring your lips tightly together so that they form a rounded shape, usually as an expression of disapproval:",
+        answer: "purse",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 837,
+        videoFile: PRA66,
+        rusQuestion: "болтать",
+        before: false,
+        border: false,
+        engDescription: "to talk continuously and eagerly, especially about things that are not important: ",
+        answer: "gab",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 836,
+        videoFile: PRA65,
+        rusQuestion: "пончо",
+        before: false,
+        border: false,
+        engDescription: "a piece of clothing made of a single piece of material, with a hole in the middle through which you put your head",
+        answer: "poncho",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 835,
+        videoFile: PRA64,
+        rusQuestion: "иконография",
+        before: false,
+        border: false,
+        engDescription: "the use of images and symbols to represent ideas, or the particular images and symbols used in this way by a religious or political group, etc.: ",
+        answer: "iconography",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 834,
+        videoFile: PRA63,
+        rusQuestion: "полезность",
+        before: false,
+        border: false,
+        engDescription: "a service that is used by the public, such as an electricity or gas supply: ",
+        answer: "utility",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 833,
+        videoFile: PRA62,
+        rusQuestion: "повязка на голову",
+        before: false,
+        border: false,
+        engDescription: "a narrow strip of material worn around the head, usually to keep your hair or sweat out of your eyes, for example when doing sports: ",
+        answer: "headband",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 832,
+        videoFile: PRA61,
+        rusQuestion: "боль в сердце",
+        before: false,
+        border: false,
+        engDescription: "feelings of great sadness: ",
+        answer: "heartache",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 831,
+        videoFile: PRA60,
+        rusQuestion: "крайний , полный",
+        before: false,
+        border: false,
+        engDescription: "complete or extreme: ",
+        answer: "utter",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 830,
+        videoFile: PRA59,
+        rusQuestion: "ресница",
+        before: false,
+        border: false,
+        engDescription: "any of the short hairs that grow along the edges of the eye: ",
+        answer: "eyelash",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 829,
+        videoFile: PRA58,
+        rusQuestion: "непризнанный",
+        before: false,
+        border: false,
+        engDescription: "not accepted, admitted, or recognized:",
+        answer: "unacknowledged",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 828,
+        videoFile: PRA57,
+        rusQuestion: "трудовая этика",
+        before: false,
+        border: false,
+        engDescription: "the belief that work is morally good:",
+        answer: "work ethic",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 827,
+        videoFile: PRA56,
+        rusQuestion: "воздушный транспорт",
+        before: false,
+        border: false,
+        engDescription: "an operation organized to move supplies or people by aircraft to or from a place that is difficult to reach because of war, a flood, etc",
+        answer: "airlift",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 826,
+        videoFile: PRA55,
+        rusQuestion: "морось",
+        before: false,
+        border: false,
+        engDescription: "rain in very small, light drops:",
+        answer: "drizzle",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
     {
         id: 825,
         videoFile: PRA54,
