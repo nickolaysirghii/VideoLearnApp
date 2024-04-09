@@ -65,7 +65,7 @@ const MainAria = () => {
           stor[elem.id] = 1
           localStorage.setItem('englishMemory', JSON.stringify(stor));
         }
-        if(elem.getHight > 21){
+        if(elem.getHight > 50){
           elem.color = "pink"
         }
         })
@@ -81,7 +81,7 @@ const MainAria = () => {
       if(idx < 45){
         promejutok.push(elem)
       }else{
-        if(elem.getHight < theBar+3){
+        if(elem.getHight < theBar+gap){
            promejutok.push(elem)
 
         }else{
@@ -89,7 +89,6 @@ const MainAria = () => {
         }
       }
     })
-    
 
    dispacher(getIdxArray(send))
  
@@ -254,7 +253,12 @@ const MainAria = () => {
           localStorage.setItem('englishMemory', JSON.stringify(inoBox));
         }else{
         dataStatistic.forEach((elem)=>{
-        inoBox[elem.id] = elem.getHight;
+          if(elem.getHight > 1){
+            inoBox[elem.id] = elem.getHight;
+          }else{
+            inoBox[elem.id] = 13
+          }
+        
         })
         localStorage.setItem('englishMemory', JSON.stringify(inoBox));
         }
@@ -272,7 +276,7 @@ const MainAria = () => {
         </div>
       </div>
       <div onClick={()=>{dispacher(startProcess())}} className={startLearning ? "buttonHiden" : 'startButton'}>Ok</div>
-      <div className='theBar' style={{bottom: `${redBar + 18}vh`}}>{numBar}</div>
+      <div className='theBar' style={{bottom: `${redBar + 148}px`}}>{numBar}</div>
     </div>
   )
 }

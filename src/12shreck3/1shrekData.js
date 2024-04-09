@@ -44,24 +44,589 @@ import shr43 from "./shr43.mp4"
 import shr44 from "./shr44.mp4"
 import shr45 from "./shr45.mp4"
 import shr46 from "./shr46.mp4"
-// import shr47 from "./shr47.mp4"
-// import shr48 from "./shr48.mp4"
-// import shr49 from "./shr49.mp4"
-// import shr50 from "./shr50.mp4"
-// import shr51 from "./shr51.mp4"
-// import shr52 from "./shr52.mp4"
-// import shr53 from "./shr53.mp4"
-// import shr54 from "./shr54.mp4"
-// import shr55 from "./shr55.mp4"
-// import shr56 from "./shr56.mp4"
-// import shr57 from "./shr57.mp4"
+import shr47 from "./shr47.mp4"
+import shr48 from "./shr48.mp4"
+import shr49 from "./shr49.mp4"
+import shr50 from "./shr50.mp4"
+import shr51 from "./shr51.mp4"
+import shr52 from "./shr52.mp4"
+import shr53 from "./shr53.mp4"
+import shr54 from "./shr54.mp4"
+import shr55 from "./shr55.mp4"
+import shr56 from "./shr56.mp4"
+import shr57 from "./shr57.mp4"
+import shr58 from "./shr58.mp4"
+import shr59 from "./shr59.mp4"
+import shr60 from "./shr60.mp4"
+import shr61 from "./shr61.mp4"
+import shr62 from "./shr62.mp4"
+import shr63 from "./shr63.mp4"
+import shr64 from "./shr64.mp4"
+import shr65 from "./shr65.mp4"
+import shr66 from "./shr66.mp4"
+import shr67 from "./shr67.mp4"
+import shr68 from "./shr68.mp4"
+import shr69 from "./shr69.mp4"
+import shr70 from "./shr70.mp4"
+import shr71 from "./shr71.mp4"
+import shr72 from "./shr72.mp4"
+import shr73 from "./shr73.mp4"
+import shr74 from "./shr74.mp4"
+import shr75 from "./shr75.mp4"
+import shr76 from "./shr76.mp4"
+import shr77 from "./shr77.mp4"
+import shr78 from "./shr78.mp4"
+import shr79 from "./shr79.mp4"
+import shr80 from "./shr80.mp4"
+import shr81 from "./shr81.mp4"
+import shr82 from "./shr82.mp4"
+
 
 
 
 
 
 export const shrrek = [
-    
+    {
+        id: 951,
+        videoFile: shr82,
+        rusQuestion: "исправить",
+        before: false,
+        border: false,
+        engDescription: "to correct something or make something right",
+        answer: "rectify",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 950,
+        videoFile: shr81,
+        rusQuestion: "нарцисс",
+        before: false,
+        border: false,
+        engDescription: "a yellow, bell-shaped flower with a long stem that is commonly seen in the spring",
+        answer: "daffodil",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 949,
+        videoFile: shr80,
+        rusQuestion: "флейта",
+        before: false,
+        border: false,
+        engDescription: "a tube-shaped musical instrument with a hole that you blow across at one end while holding the tube out horizontally to one side",
+        answer: "flute",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 948,
+        videoFile: shr79,
+        rusQuestion: "порхать",
+        before: false,
+        border: false,
+        engDescription: "to fly or move quickly and lightly: ",
+        answer: "flit",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 947,
+        videoFile: shr78,
+        rusQuestion: "логанова ягода",
+        before: false,
+        border: false,
+        engDescription: "a small, red fruit, similar to a raspberry, or the tall plant on which it grows",
+        answer: "loganberry",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 946,
+        videoFile: shr77,
+        rusQuestion: "пышка",
+        before: false,
+        border: false,
+        engDescription: "a small, round type of bread with holes in one side that is often eaten hot with butter: ",
+        answer: "crumpet",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 945,
+        videoFile: shr76,
+        rusQuestion: "ты",
+        before: false,
+        border: false,
+        engDescription: "you; object form of thou; used when speaking to one person: ",
+        answer: "thee",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 944,
+        videoFile: shr75,
+        rusQuestion: "вставка",
+        before: false,
+        border: false,
+        engDescription: "something that is made to go inside or into something else: ",
+        answer: "insert",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 943,
+        videoFile: shr74,
+        rusQuestion: "раздутый",
+        before: false,
+        border: false,
+        engDescription: "swollen and rounded because of containing too much air, liquid, or food:",
+        answer: "bloated",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 942,
+        videoFile: shr73,
+        rusQuestion: "тереть",
+        before: false,
+        border: false,
+        engDescription: "to rub something hard in order to clean it, especially using a stiff brush, soap, and water: ",
+        answer: "scrub",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 941,
+        videoFile: shr72,
+        rusQuestion: "бродяга",
+        before: false,
+        border: false,
+        engDescription: "someone who does not have a job or a house and who moves from one place to another",
+        answer: "hobo",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 940,
+        videoFile: shr71,
+        rusQuestion: "соус",
+        before: false,
+        border: false,
+        engDescription: "a thick liquid eaten with food to add flavour: ",
+        answer: "sauce",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 939,
+        videoFile: shr70,
+        rusQuestion: "спираль",
+        before: false,
+        border: false,
+        engDescription: "a shape made up of curves, each one above or wider than the one before:",
+        answer: "spiral",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 938,
+        videoFile: shr69,
+        rusQuestion: "посреди",
+        before: false,
+        border: false,
+        engDescription: "the middle of a group of people or things:",
+        answer: "midst",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 937,
+        videoFile: shr68,
+        rusQuestion: "пошутить",
+        before: false,
+        border: false,
+        engDescription: "to tell a joke: ",
+        answer: "crack",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 936,
+        videoFile: shr67,
+        rusQuestion: "вылезти из",
+        before: false,
+        border: false,
+        engDescription: "to avoid doing something that you have agreed to do, especially by being dishonest:",
+        answer: "weasel out",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 935,
+        videoFile: shr66,
+        rusQuestion: "закуска",
+        before: false,
+        border: false,
+        engDescription: "a small amount of food that is eaten between meals, or a very small meal: ",
+        answer: "snack",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 934,
+        videoFile: shr65,
+        rusQuestion: "усталость",
+        before: false,
+        border: false,
+        engDescription: "extreme tiredness: ",
+        answer: "fatigue",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 933,
+        videoFile: shr64,
+        rusQuestion: "гарантия",
+        before: false,
+        border: false,
+        engDescription: "a written promise from a company to repair or replace a product that develops a fault within a particular period of time, or to do a piece of work again if it is not satisfactory: ",
+        answer: "warranty",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 932,
+        videoFile: shr63,
+        rusQuestion: "умиротворенность",
+        before: false,
+        border: false,
+        engDescription: "the quality of being peaceful and calm: ",
+        answer: "serenity",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 931,
+        videoFile: shr62,
+        rusQuestion: "вихрь",
+        before: false,
+        border: false,
+        engDescription: "a mass of air or water that spins around very fast and pulls objects into its empty centre",
+        answer: "vortex",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 930,
+        videoFile: shr61,
+        rusQuestion: "болячка",
+        before: false,
+        border: false,
+        engDescription: "painful and uncomfortable because of injury, infection, or too much use: ",
+        answer: "sore",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 929,
+        videoFile: shr60,
+        rusQuestion: "гноиться",
+        before: false,
+        border: false,
+        engDescription: "If a cut or other injury festers, it becomes infected and produces pus: ",
+        answer: "fester",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 928,
+        videoFile: shr59,
+        rusQuestion: "стон",
+        before: false,
+        border: false,
+        engDescription: "a deep, long sound showing great pain or unhappiness: ",
+        answer: "groan",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 927,
+        videoFile: shr58,
+        rusQuestion: "голод",
+        before: false,
+        border: false,
+        engDescription: "a situation in which there is not enough food for a great number of people, causing illness and death, or a particular period when this happens: ",
+        answer: "famine",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 926,
+        videoFile: shr57,
+        rusQuestion: "вложись в это спиной",
+        before: false,
+        border: false,
+        engDescription: "to use a lot of physical effort to try to do something:",
+        answer: "put your back into it",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 925,
+        videoFile: shr56,
+        rusQuestion: "мародерствовать",
+        before: false,
+        border: false,
+        engDescription: "to steal something from a place or a person by using violence, especially during war: ",
+        answer: "pillage",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 924,
+        videoFile: shr55,
+        rusQuestion: "растяжки",
+        before: false,
+        border: false,
+        engDescription: "thin lines or marks left on someone's skin after they have grown bigger quickly, for example on the skin of a woman who has been pregnant: ",
+        answer: "stretch marks",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 923,
+        videoFile: shr54,
+        rusQuestion: "отрыжка",
+        before: false,
+        border: false,
+        engDescription: "to allow air from the stomach to come out through the mouth in a noisy way",
+        answer: "burp",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 922,
+        videoFile: shr53,
+        rusQuestion: "не думай об этом",
+        before: false,
+        border: false,
+        engDescription: "to consider that an activity is easy and not unusual:",
+        answer: "think nothing of it",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 921,
+        videoFile: shr52,
+        rusQuestion: "скинулись",
+        before: false,
+        border: false,
+        engDescription: "to give some money when several people are giving money to pay for something together: ",
+        answer: "chip in",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 920,
+        videoFile: shr51,
+        rusQuestion: "страстное желание",
+        before: false,
+        border: false,
+        engDescription: "a strong feeling of wanting something: ",
+        answer: "craving",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 919,
+        videoFile: shr50,
+        rusQuestion: "рыцарский турнир",
+        before: false,
+        border: false,
+        engDescription: "(in the past) to fight with a lance (= a long pointed weapon) while riding on a horse, especially as a sport",
+        answer: "joust",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 918,
+        videoFile: shr49,
+        rusQuestion: "наказывать часто и несправедливо",
+        before: false,
+        border: false,
+        engDescription: "to criticize, punish, or be unkind to the same person often and unfairly: ",
+        answer: "pick on",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 917,
+        videoFile: shr48,
+        rusQuestion: "изгонять",
+        before: false,
+        border: false,
+        engDescription: "to send someone away, especially from their country, and not allow them to come back: ",
+        answer: "banish",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
+    {
+        id: 916,
+        videoFile: shr47,
+        rusQuestion: "указ",
+        before: false,
+        border: false,
+        engDescription: "an official statement that something must happen:",
+        answer: "decree",
+        myAnswer: "",
+        color: "rgb(43, 198, 226)",
+        getIdx: 1,
+        timeGo: 4000,
+        try: 1,
+        getHight: 1
+    },
     {
         id: 915,
         videoFile: shr46,

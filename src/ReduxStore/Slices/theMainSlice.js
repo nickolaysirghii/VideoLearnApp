@@ -68,6 +68,28 @@ export const mainSlice = createSlice({
       state.first = [v[0] , ...action.payload.fir , v[0]];
       state.second = [v[1] , ...action.payload.sec , v[1]];
       state.third = [v[2] , ...action.payload.thi , v[2]];
+
+      const firstConsole = [];
+      const secondConsole = [];
+      const thirdConsole = [];
+      action.payload.fir.forEach((elem) => {
+        if(elem.id > 10){
+          firstConsole.push(elem.answer);
+        }
+      })
+      action.payload.sec.forEach((elem) => {
+        if(elem.id > 10){
+          secondConsole.push(elem.answer);
+        }
+        })
+      action.payload.thi.forEach((elem) => {
+        if(elem.id > 10){
+          thirdConsole.push(elem.answer);
+        }
+          })
+      console.log(firstConsole)
+      console.log(secondConsole)
+      console.log(thirdConsole)
     },
     workingTarget: (state )=>{
       state.first[0].before = true;
@@ -156,9 +178,7 @@ export const mainSlice = createSlice({
             if(action.payload !== ""){
               elem.try = elem.try*2
             }
-            
-            
-          }
+            }
         }
         if(elem.color === "black")
         count ++
@@ -229,12 +249,13 @@ export const mainSlice = createSlice({
               }
               
             }
-            else{
-              if(action.payload !== ""){
-                elem.try = elem.try*2
-              }
-              
+            
+          }
+          else{
+            if(action.payload !== ""){
+              elem.try = elem.try*2
             }
+            
           }
         }
         if(elem.color === "black")
@@ -306,12 +327,13 @@ export const mainSlice = createSlice({
               } 
               
             }
-            else{
-              if(action.payload !== ""){
-                elem.try = elem.try*2
-              }
-              
+            
+          }
+          else{
+            if(action.payload !== ""){
+              elem.try = elem.try*2
             }
+            
           }
         }
         if(elem.color === "black")

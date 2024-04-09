@@ -76,7 +76,7 @@ const VideoBack = () => {
                 })
               }
             </div>
-            <div className='theLine'style={{bottom:`${redBar+145}px`}}></div>
+            <div className='theLine'style={{bottom:`${redBar+158}px`}}></div>
             <input onChange={changePoing} className='splitPoint' placeholder={localStorage.getItem("splitPoint")}></input>
     
             
